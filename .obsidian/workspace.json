@@ -1,0 +1,205 @@
+{
+  "main": {
+    "id": "e455db03b5781810",
+    "type": "split",
+    "children": [
+      {
+        "id": "15f3989fc7aa669c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "36f1aef76bda186c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/19-08-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a968f5ee1c8034ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math CT-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "6d3485917b0c2f25",
+    "type": "split",
+    "children": [
+      {
+        "id": "eff1e6412f8810d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a8683044208a5b55",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3b59827a79f10e70",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f6130ec301270a48",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "4fa185b6b5e9e4a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "65f8aa1e26646a73",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7154cb38ed25c693",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Math CT-2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "14d8eec016af40db",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Math CT-2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5b14425a4d08c41a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "cf164a92dbf26d71",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Math CT-2.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-extract-pdf-highlights:PDF Highlights": false,
+      "templater-obsidian:Templater": false
+    }
+  },
+  "active": "a968f5ee1c8034ac",
+  "lastOpenFiles": [
+    "ONotes",
+    "Mess/Bazar List.md",
+    "DailyNotes/19-08-2023.md",
+    "Math CT-2.md",
+    "Mess",
+    "Weekend TODO.md",
+    "DailyNotes/27-08-2023.md",
+    "DailyNotes/17-08-2023.md",
+    "ICPC.md",
+    "Excalidraw/Drawing 2023-08-19 13.35.31.excalidraw.md",
+    "Excalidraw",
+    "English Presentation.md",
+    "MathTempdsf.md",
+    "Untitled.md",
+    "People/University",
+    "People",
+    "Templates/DailyNotesTemplate.md",
+    "Templates/Template2.md",
+    "1st Semester/Teachers/Prof. Dr. Shahed Rana.md",
+    "1st Semester/Teachers/Prof. Dr. Md Masud Rana.md",
+    "1st Semester/Teachers/Md. Zavid Iqbal Bangalee.md",
+    "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
+    "1st Semester/Teachers/Md Jahangir Kabir Talukder, PhD.md",
+    "1st Semester/Physics/Untitled.md",
+    "Math.md",
+    "Templates/GBES-Template.md",
+    "1st Semester/Fundamental Chemistry/Atomic Structure.md",
+    "1st Semester/Fundamental Chemistry/Course Content.md",
+    "1st Semester/Fundamental Chemistry/Buffer Solution.md",
+    "1st Semester/Fundamental Chemistry/Chemical Equilibria.md",
+    "1st Semester/Fundamental Chemistry/PDF/Chapter-10__Thermochemistry.pdf",
+    "1st Semester/Fundamental Chemistry/PDF/Chapter-9__Electrolytes.pdf",
+    "1st Semester/Fundamental Chemistry/PDF/Chapter-11__Chemical_Equilibrium.pdf",
+    "1st Semester/Fundamental Chemistry/PDF/Chapter-12__Chemical_Kinetics.pdf",
+    "1st Semester/Fundamental Chemistry/PDF/Chapter-7__Acid_and_Bases.pdf",
+    "1st Semester/Fundamental Chemistry/Acids-Bases"
+  ]
+}

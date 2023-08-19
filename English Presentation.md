@@ -1,0 +1,18 @@
+## Project Ideas
+- An app for Entropronures
+- Empowering Sustainable Agriculture in Bangladesh
+- Climate Change
+- **importance of sanitation and hygiene**
+- **challenges of poverty and how Bangladesh is addressing them**
+-  **importance of disaster preparedness**
+- Traffic Jam. Resource:[(1) ঢাকার জ্যামের পিছনে প্রাইভেট কারের ভূমিকা কতটুকু? Why Private Cars are bad | Enayet Chowdhury - YouTube](https://www.youtube.com/watch?v=cMbQsGXVMPc&ab_channel=EnayetChowdhury)
+- 
+- **Green Cities for a Sustainable Bangladesh: Transforming Urban Living**
+-  **the challenges of child labor and how Bangladesh is addressing them**
+- **the importance of sustainable tourism**
+-  **the importance of mental health**
+- **importance of renewable energy**/**Clean Energy Revolution: Powering Bangladesh's Sustainable Future**
+- **importance of food security**
+- Education system. Resource:[(1) ইউরোপ থেকে যে ধার করা শিক্ষাব্যবস্থায় চলছি আমরা | Decolonization of Education | Enayet Chowdhury - YouTube](https://www.youtube.com/watch?v=20fOla_lsXA&ab_channel=EnayetChowdhury)
+- Plastic Wastage. Resource: [(1) আমেরিকা কি বাংলাদেশের চেয়েও বেশী প্লাস্টিক ব্যবহার করে? Plastic Pollution in Bangladesh explained - YouTube](https://www.youtube.com/watch?v=JpRH1Mr8mKE&ab_channel=EnayetChowdhury)
+- 

@@ -1,0 +1,6 @@
+- [ ] Ada
+- [ ] Rosun
+- [ ] Peyaj
+- [x] GAS-Cylinder
+- [ ] Gorom Mosolla
+- [ ] Fish, 6ta 
