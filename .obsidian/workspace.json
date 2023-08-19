@@ -141,8 +141,17 @@
                 "file": "DailyNotes/20-08-2023.md"
               }
             }
+          },
+          {
+            "id": "0c8d86974dd75b8d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
