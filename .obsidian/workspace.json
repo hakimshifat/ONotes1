@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "DailyNotes/20-08-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "DailyNotes/20-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "DailyNotes/20-08-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math CT-2.md"
+                "file": "DailyNotes/20-08-2023.md"
               }
             }
           }
@@ -146,8 +146,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -165,13 +164,15 @@
   },
   "active": "a968f5ee1c8034ac",
   "lastOpenFiles": [
+    "Weekend TODO.md",
+    "1st Semester/Teachers/Md Jahangir Kabir Talukder, PhD.md",
+    "DailyNotes/20-08-2023.md",
+    "DailyNotes/27-08-2023.md",
+    "Math CT-2.md",
     "ONotes",
     "Mess/Bazar List.md",
     "DailyNotes/19-08-2023.md",
-    "Math CT-2.md",
     "Mess",
-    "Weekend TODO.md",
-    "DailyNotes/27-08-2023.md",
     "DailyNotes/17-08-2023.md",
     "ICPC.md",
     "Excalidraw/Drawing 2023-08-19 13.35.31.excalidraw.md",
@@ -187,7 +188,6 @@
     "1st Semester/Teachers/Prof. Dr. Md Masud Rana.md",
     "1st Semester/Teachers/Md. Zavid Iqbal Bangalee.md",
     "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
-    "1st Semester/Teachers/Md Jahangir Kabir Talukder, PhD.md",
     "1st Semester/Physics/Untitled.md",
     "Math.md",
     "Templates/GBES-Template.md",
@@ -199,7 +199,6 @@
     "1st Semester/Fundamental Chemistry/PDF/Chapter-9__Electrolytes.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-11__Chemical_Equilibrium.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-12__Chemical_Kinetics.pdf",
-    "1st Semester/Fundamental Chemistry/PDF/Chapter-7__Acid_and_Bases.pdf",
-    "1st Semester/Fundamental Chemistry/Acids-Bases"
+    "1st Semester/Fundamental Chemistry/PDF/Chapter-7__Acid_and_Bases.pdf"
   ]
 }
