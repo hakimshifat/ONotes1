@@ -1,6 +1,6 @@
-- [ ] Ada
-- [ ] Rosun
-- [ ] Peyaj
+- [x] Ada ✅ 2023-08-20
+- [x] Rosun ✅ 2023-08-20
+- [x] Peyaj ✅ 2023-08-20
 - [x] GAS-Cylinder
-- [ ] Gorom Mosolla
-- [ ] Fish, 6ta 
+- [x] Gorom Mosolla ✅ 2023-08-20
+- [x] Fish, 6ta ✅ 2023-08-20
