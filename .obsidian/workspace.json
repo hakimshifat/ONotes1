@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "36f1aef76bda186c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/19-08-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "a968f5ee1c8034ac",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -173,14 +160,14 @@
   },
   "active": "a968f5ee1c8034ac",
   "lastOpenFiles": [
+    "DailyNotes/19-08-2023.md",
+    "DailyNotes/20-08-2023.md",
     "Weekend TODO.md",
     "1st Semester/Teachers/Md Jahangir Kabir Talukder, PhD.md",
-    "DailyNotes/20-08-2023.md",
     "DailyNotes/27-08-2023.md",
     "Math CT-2.md",
     "ONotes",
     "Mess/Bazar List.md",
-    "DailyNotes/19-08-2023.md",
     "Mess",
     "DailyNotes/17-08-2023.md",
     "ICPC.md",
