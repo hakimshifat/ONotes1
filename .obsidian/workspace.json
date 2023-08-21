@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "2ec6ef6005813861",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ECA.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "ECA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "ECA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math CT-2.md"
+                "file": "ECA.md"
               }
             }
           },
@@ -142,7 +155,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,12 +172,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a968f5ee1c8034ac",
+  "active": "2ec6ef6005813861",
   "lastOpenFiles": [
+    "Math CT-2.md",
+    "ECA.md",
     "Weekend TODO.md",
     "English Presentation.md",
     "DailyNotes/20-08-2023.md",
-    "Math CT-2.md",
     "ICPC.md",
     "Excalidraw/Drawing 2023-08-19 13.35.31.excalidraw.md",
     "Mess/Bazar List.md",
@@ -175,7 +190,6 @@
     "DailyNotes/17-08-2023.md",
     "Excalidraw",
     "MathTempdsf.md",
-    "Untitled.md",
     "People/University",
     "People",
     "Templates/DailyNotesTemplate.md",
