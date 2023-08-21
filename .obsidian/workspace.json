@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Presentation.md",
+                "file": "Math CT-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Presentation.md",
+                "file": "Math CT-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Presentation.md",
+                "file": "Math CT-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Presentation.md"
+                "file": "Math CT-2.md"
               }
             }
           },
@@ -160,12 +160,13 @@
   },
   "active": "a968f5ee1c8034ac",
   "lastOpenFiles": [
+    "Weekend TODO.md",
+    "English Presentation.md",
     "DailyNotes/20-08-2023.md",
     "Math CT-2.md",
     "ICPC.md",
     "Excalidraw/Drawing 2023-08-19 13.35.31.excalidraw.md",
     "Mess/Bazar List.md",
-    "Weekend TODO.md",
     "DailyNotes/19-08-2023.md",
     "1st Semester/Teachers/Md Jahangir Kabir Talukder, PhD.md",
     "DailyNotes/27-08-2023.md",
@@ -173,7 +174,6 @@
     "Mess",
     "DailyNotes/17-08-2023.md",
     "Excalidraw",
-    "English Presentation.md",
     "MathTempdsf.md",
     "Untitled.md",
     "People/University",
