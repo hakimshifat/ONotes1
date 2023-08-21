@@ -1,18 +1,15 @@
-21-08-2023 23:59
+22-08-2023 00:12
 
 1. **Introduction:**
     
-    - Does everyone knows the name of latest Natural disaster in BD?
+    - Grab the audience's attention with a hook or intriguing question.
     - Introduce yourself and establish your credibility on the topic.
-    - The Purpose is to spread knowlege about Natural Disaster and how we can prepare for it so that we can avoid it or have minimum damage.
+    - State the purpose and main objectives of your presentation.
 2. **Agenda:**
     
-    - Provide a brief overview of what you'll be covering
-    - Natural Disaster In BD in Old and Recent Times
-    - how much of a risk "Dhaka" in
-    - Precautions
-    - Conclusion
-1. **Background/Context:**
+    - Provide a brief overview of what you'll be covering.
+    - Outline the main sections or topics you'll discuss.
+3. **Background/Context:**
     
     - Set the stage by providing relevant background information.
     - Explain the context and significance of the topic.

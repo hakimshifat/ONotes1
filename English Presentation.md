@@ -3,8 +3,8 @@
 - Empowering Sustainable Agriculture in Bangladesh
  - **importance of sanitation and hygiene**
  - Challenges of poverty and how Bangladesh is addressing them**
--  [[importance of disaster preparedness]]
-- Traffic Jam. Resource:[(1) ঢাকার জ্যামের পিছনে প্রাইভেট কারের ভূমিকা কতটুকু? Why Private Cars are bad | Enayet Chowdhury - YouTube](https://www.youtube.com/watch?v=cMbQsGXVMPc&ab_channel=EnayetChowdhury)
+- [x] [[importance of disaster preparedness]] ✅ 2023-08-22
+- [[Traffic Jam]]. Resource:[(1) ঢাকার জ্যামের পিছনে প্রাইভেট কারের ভূমিকা কতটুকু? Why Private Cars are bad | Enayet Chowdhury - YouTube](https://www.youtube.com/watch?v=cMbQsGXVMPc&ab_channel=EnayetChowdhury)
 - **Green Cities for a Sustainable Bangladesh: Transforming Urban Living**
 -  **the challenges of child labor and how Bangladesh is addressing them**
 - **the importance of sustainable tourism**
