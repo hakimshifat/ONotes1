@@ -31,8 +31,13 @@ The nucleus of the hydrogen atom is the proton, a positively charged particle.
 # Electrical Signal
 
 - AC: The directing electricity flows throughout the circuit is CONSTANTLY REVERSING.
-- DC: Electricity flows in one direction between power and ground.
+- DC: Electricity flows in one direction between power and ground. There is always a positive source of voltage and ground source(0V) of voltage
 
+
+## Electrical Componants
+- Capacitor: stores electricity and then discharges it into the circuit when there is a drop in electricity
+- Diode: Allows current flow in one direction
+- Transistor: Takes in a small electrical current at its BASE PIN and amplifies it such that a much larger current can pass between its colle
 
 
 
