@@ -26,6 +26,12 @@ The nucleus of the hydrogen atom is the proton, a positively charged particle.
 - Unilateral: Allows coduction in  Only One direction. Ex: Diode, Transistor
 
 
+- What is response: An application of input signal to the system that will produce an output signal, the behavior of output signal with time is known as the response of the system.
+
+# Electrical Signal
+
+- AC: The directing electricity flows throughout the circuit is CONSTANTLY REVERSING.
+- DC: Electricity flows in one direction between power and ground.
 
 
 
