@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Presentation.md",
+                "file": "importance of disaster preparedness.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cdcc0078a4dcddd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "importance of disaster preparedness.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -82,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -99,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Presentation.md",
+                "file": "importance of disaster preparedness.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Presentation.md",
+                "file": "importance of disaster preparedness.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Presentation.md"
+                "file": "importance of disaster preparedness.md"
               }
             }
           },
@@ -173,14 +184,17 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2ec6ef6005813861",
+  "active": "1cdcc0078a4dcddd",
   "lastOpenFiles": [
+    "Presenation Steps.md",
+    "Untitled.canvas",
+    "importance of disaster preparedness.md",
+    "English Presentation.md",
     "ECA.md",
     "Current Source.md",
     "Voltage Source.md",
     "Math CT-2.md",
     "Weekend TODO.md",
-    "English Presentation.md",
     "DailyNotes/20-08-2023.md",
     "ICPC.md",
     "Excalidraw/Drawing 2023-08-19 13.35.31.excalidraw.md",
@@ -203,9 +217,6 @@
     "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
     "1st Semester/Physics/Untitled.md",
     "Math.md",
-    "Templates/GBES-Template.md",
-    "1st Semester/Fundamental Chemistry/Atomic Structure.md",
-    "1st Semester/Fundamental Chemistry/Course Content.md",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-10__Thermochemistry.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-9__Electrolytes.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-11__Chemical_Equilibrium.pdf",
