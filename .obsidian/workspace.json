@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ECA.md",
+                "file": "English Presentation.md",
                 "mode": "source",
                 "source": false
               }
@@ -82,7 +82,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -98,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ECA.md",
+                "file": "English Presentation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +116,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ECA.md",
+                "file": "English Presentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +139,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ECA.md"
+                "file": "English Presentation.md"
               }
             }
           },
@@ -174,8 +175,10 @@
   },
   "active": "2ec6ef6005813861",
   "lastOpenFiles": [
-    "Math CT-2.md",
     "ECA.md",
+    "Current Source.md",
+    "Voltage Source.md",
+    "Math CT-2.md",
     "Weekend TODO.md",
     "English Presentation.md",
     "DailyNotes/20-08-2023.md",
@@ -203,8 +206,6 @@
     "Templates/GBES-Template.md",
     "1st Semester/Fundamental Chemistry/Atomic Structure.md",
     "1st Semester/Fundamental Chemistry/Course Content.md",
-    "1st Semester/Fundamental Chemistry/Buffer Solution.md",
-    "1st Semester/Fundamental Chemistry/Chemical Equilibria.md",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-10__Thermochemistry.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-9__Electrolytes.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-11__Chemical_Equilibrium.pdf",

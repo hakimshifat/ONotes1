@@ -3,7 +3,7 @@ Date: 21-08-2023 22:48
 Teacher : [[Nazneen Akhter]] 
 
 Credit: 3.00
-## Main Topic : 
+## Main Topic : Electrical Circuit Analysis
 
 ## Sub Topic :
 
@@ -22,8 +22,8 @@ The nucleus of the hydrogen atom is the proton, a positively charged particle.
 
 
 
-- Bilateral Elements: Conduction in BOTH DIRECTION.Ex: Inductor, Capacitor
-- Unilateral: Allows coduction in  Only One direction. Ex: Diode, Transistor
+- Bilateral Elements: Conduction in BOTH DIRECTION. Ex: Inductor, Capacitor
+- Unilateral: Allows conduction in  Only One direction. Ex: Diode, Transistor
 
 
 - What is response: An application of input signal to the system that will produce an output signal, the behavior of output signal with time is known as the response of the system.
@@ -34,11 +34,19 @@ The nucleus of the hydrogen atom is the proton, a positively charged particle.
 - DC: Electricity flows in one direction between power and ground. There is always a positive source of voltage and ground source(0V) of voltage
 
 
-## Electrical Componants
+## Electrical Components 
 - Capacitor: stores electricity and then discharges it into the circuit when there is a drop in electricity
 - Diode: Allows current flow in one direction
-- Transistor: Takes in a small electrical current at its BASE PIN and amplifies it such that a much larger current can pass between its colle
+- Transistor: Takes in a small electrical current at its BASE PIN and amplifies it such that a much larger current can pass between its collector and emitter pins.
 
+## Sources in ECA
+
+- What is source?
+- Source is a device that converts Mechanical, Chemical, Thermal or some other form of energy into Electrical Energy.
+
+## Two types of Sources in ECA
+- [[Voltage Source]]: has a forcing function of EMF
+- [[Current Source]]: has a forcing function of current
 
 
 

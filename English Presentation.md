@@ -1,9 +1,9 @@
 ## Project Ideas
-- An app for Entropronures
+- [x] An app for Entropronures ✅ 2023-08-21
 - Empowering Sustainable Agriculture in Bangladesh
 - Climate Change
-- **importance of sanitation and hygiene**
-- **challenges of poverty and how Bangladesh is addressing them**
+- [ ] **importance of sanitation and hygiene**
+- [ ] **challenges of poverty and how Bangladesh is addressing them**
 -  **importance of disaster preparedness**
 - Traffic Jam. Resource:[(1) ঢাকার জ্যামের পিছনে প্রাইভেট কারের ভূমিকা কতটুকু? Why Private Cars are bad | Enayet Chowdhury - YouTube](https://www.youtube.com/watch?v=cMbQsGXVMPc&ab_channel=EnayetChowdhury)
 - 
