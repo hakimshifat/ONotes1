@@ -5,7 +5,7 @@
 - [x] 5.Mean Value Theorem ✅ 2023-08-22
 - [ ] 6.Derivatives Basic Rule Apply
 - [ ] 6.1 Derivatives to Find Limit
-- [ ] 7.La hospital 
+- [x] 7.La hospital ✅ 2023-08-22
 - [ ] 8.Application of Differentiation ( Increasing and Decreasing) 
 - [ ] 9.Rate of changes
 - [ ] 
