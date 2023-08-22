@@ -2,7 +2,7 @@
 ## Todo:
 - [x] Finish Physics Lab reports
 - [x] Physics Lab Rough Sheet
-- [ ] Chemistry Lab report
+- [ ] Chemistry Lab report 
 - [ ] ECA Lab report
 - [ ] [[Math CT-2]](Preparation)
 - [ ] Chemistry Note

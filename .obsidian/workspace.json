@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Traffic Jam.md",
+                "file": "Weekend TODO.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Traffic Jam.md",
+                "file": "Weekend TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Traffic Jam.md",
+                "file": "Weekend TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Traffic Jam.md"
+                "file": "Weekend TODO.md"
               }
             }
           },
@@ -186,15 +186,16 @@
   },
   "active": "1cdcc0078a4dcddd",
   "lastOpenFiles": [
-    "English Presentation.md",
+    "1st Semester/ICE/Voltage Source.md",
+    "DailyNotes/22-08-2023.md",
     "Traffic Jam.md",
+    "English Presentation.md",
     "Math CT-2.md",
     "importance of disaster preparedness.md",
     "Templates/Presenation Steps.md",
     "Untitled.canvas",
-    "ECA.md",
-    "Current Source.md",
-    "Voltage Source.md",
+    "1st Semester/ICE/ECA.md",
+    "1st Semester/ICE/Current Source.md",
     "Weekend TODO.md",
     "DailyNotes/20-08-2023.md",
     "ICPC.md",
@@ -217,7 +218,6 @@
     "1st Semester/Teachers/Md. Zavid Iqbal Bangalee.md",
     "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
     "1st Semester/Physics/Untitled.md",
-    "Math.md",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-10__Thermochemistry.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-9__Electrolytes.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-11__Chemical_Equilibrium.pdf",
