@@ -6,6 +6,6 @@
 - [ ] 6.Derivatives Basic Rule Apply
 - [ ] 6.1 Derivatives to Find Limit
 - [x] 7.La hospital ✅ 2023-08-22\\\
-- [ ] 8.Application of Differentiation ( Increasing and Decreasing) 
+- [ ] 8.Application of Differentiation  ( Increasing and Decreasing) 
 - [ ] 9.Rate of changes
 - [ ] 
