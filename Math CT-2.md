@@ -3,7 +3,8 @@
 - [x] 3.Libnize Theorem 
 - [x] 4.Rolles Theorem ✅ 2023-08-22
 - [x] 5.Mean Value Theorem ✅ 2023-08-22
-- [ ] 6.Derivatives 
+- [ ] 6.Derivatives Basic Rule Apply
+- [ ] 6.1 Derivatives to Find Limit
 - [ ] 7.La hospital 
 - [ ] 8.Application of Differentiation ( Increasing and Decreasing) 9.Rate of changes
 - [ ] 
