@@ -2,7 +2,7 @@
 - [x] 2.Successive Differentiation 
 - [x] 3.Libnize Theorem 
 - [x] 4.Rolles Theorem ✅ 2023-08-22
-- [ ] 5.Mean Value Theorem 
+- [x] 5.Mean Value Theorem ✅ 2023-08-22
 - [ ] 6.Derivatives 
 - [ ] 7.La hospital 
 - [ ] 8.Application of Differentiation ( Increasing and Decreasing) 9.Rate of changes

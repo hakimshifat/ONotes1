@@ -6,7 +6,6 @@
       {
         "id": "15f3989fc7aa669c",
         "type": "tabs",
-        "dimension": 78.56037151702786,
         "children": [
           {
             "id": "a968f5ee1c8034ac",
@@ -30,8 +29,7 @@
                 "mode": "source",
                 "source": false
               }
-            },
-            "group": "e93d315412717c67"
+            }
           },
           {
             "id": "3952d52de5801924",
@@ -47,49 +45,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "1a34b95d85448842",
-        "type": "tabs",
-        "dimension": 21.439628482972136,
-        "children": [
-          {
-            "id": "5788302eb5c77a93",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Math CT-2.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "e93d315412717c67"
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -212,8 +167,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,7 +183,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5788302eb5c77a93",
+  "active": "1cdcc0078a4dcddd",
   "lastOpenFiles": [
     "Weekend TODO.md",
     "1st Semester/ICE/Voltage Source.md",
