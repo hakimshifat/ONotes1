@@ -49,14 +49,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Presentation.md",
+                "file": "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9720292220706c07",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GBES CT-2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -195,24 +207,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "d235f3406627311d",
+  "active": "9720292220706c07",
   "lastOpenFiles": [
+    "Excalidraw/Drawing 2023-08-22 13.20.18.excalidraw.md",
     "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
-    "GBES CT-2.md",
+    "ICPC.md",
+    "importance of disaster preparedness.md",
     "English Presentation.md",
+    "GBES CT-2.md",
     "Importance of renewable Energy",
     "Math CT-2.md",
     "Weekend TODO.md",
     "1st Semester/ICE/Voltage Source.md",
     "DailyNotes/22-08-2023.md",
     "Traffic Jam.md",
-    "importance of disaster preparedness.md",
     "Templates/Presenation Steps.md",
     "Untitled.canvas",
     "1st Semester/ICE/ECA.md",
     "1st Semester/ICE/Current Source.md",
     "DailyNotes/20-08-2023.md",
-    "ICPC.md",
     "Excalidraw/Drawing 2023-08-19 13.35.31.excalidraw.md",
     "Mess/Bazar List.md",
     "DailyNotes/19-08-2023.md",
@@ -229,7 +242,6 @@
     "Templates/Template2.md",
     "1st Semester/Teachers/Prof. Dr. Shahed Rana.md",
     "1st Semester/Teachers/Prof. Dr. Md Masud Rana.md",
-    "1st Semester/Teachers/Md. Zavid Iqbal Bangalee.md",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-10__Thermochemistry.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-9__Electrolytes.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-11__Chemical_Equilibrium.pdf",

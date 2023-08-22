@@ -1,7 +1,7 @@
  - [ ] From First to Six point Movement and Mass uprising  
- - [ ] Total 5 Questions, Only 4 Need to be answered. Time is 90 Minutes
- - [ ] Single Big Questions
- - Exapmles:
+ - [ ] Total 5 Questions, Only 4 Need to be answered. Total mark :40 Time is 90 Minutes
+ - [ ] Single Big Questions(10 Marks)
+ - Examples:
  1. Write about Shipahi Bidroho
  2. Write about Indigo Revolution
  - [ ] Multiple Short Questions

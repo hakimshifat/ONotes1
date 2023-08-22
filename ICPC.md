@@ -4,5 +4,5 @@ Members:
 * Myself
 
 ## Task
-- [ ] The Name--Brainstorm
+- [x] The Name--Brainstorm ✅ 2023-08-22
 - [ ] 
