@@ -9,7 +9,7 @@
 -  **the challenges of child labor and how Bangladesh is addressing them**
 - **the importance of sustainable tourism**
 -  **the importance of mental health**
-- **importance of renewable energy**/**Clean Energy Revolution: Powering Bangladesh's Sustainable Future**
+- SELECTED::[[Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future]]
 - **importance of food security**
 - Education system. Resource:[(1) ইউরোপ থেকে যে ধার করা শিক্ষাব্যবস্থায় চলছি আমরা | Decolonization of Education | Enayet Chowdhury - YouTube](https://www.youtube.com/watch?v=20fOla_lsXA&ab_channel=EnayetChowdhury)
 - Plastic Wastage. Resource: [(1) আমেরিকা কি বাংলাদেশের চেয়েও বেশী প্লাস্টিক ব্যবহার করে? Plastic Pollution in Bangladesh explained - YouTube](https://www.youtube.com/watch?v=JpRH1Mr8mKE&ab_channel=EnayetChowdhury)
