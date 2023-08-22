@@ -6,3 +6,4 @@
 - [ ] 6.Derivatives 
 - [ ] 7.La hospital 
 - [ ] 8.Application of Differentiation ( Increasing and Decreasing) 9.Rate of changes
+- [ ] 
