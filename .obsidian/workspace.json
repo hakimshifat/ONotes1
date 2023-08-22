@@ -32,6 +32,16 @@
             }
           },
           {
+            "id": "0abd6d4956c522cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-08-22 18.37.31.excalidraw.md"
+              }
+            }
+          },
+          {
             "id": "d235f3406627311d",
             "type": "leaf",
             "state": {
@@ -68,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +144,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codeforces/71A Way Too Long Words.md",
+                "file": "Excalidraw/Drawing 2023-08-22 18.37.31.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +161,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codeforces/71A Way Too Long Words.md",
+                "file": "Excalidraw/Drawing 2023-08-22 18.37.31.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +184,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codeforces/71A Way Too Long Words.md"
+                "file": "Excalidraw/Drawing 2023-08-22 18.37.31.excalidraw.md"
               }
             }
           },
@@ -207,8 +217,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cdcc0078a4dcddd",
+  "active": "0abd6d4956c522cf",
   "lastOpenFiles": [
+    "Codeforces/71A Way Too Long Words.md",
+    "Excalidraw/Drawing 2023-08-22 18.37.31.excalidraw.md",
     "Codeforces/4A Watermelon.md",
     "ICPC.md",
     "English Presentation.md",
@@ -217,7 +229,6 @@
     "Traffic Jam.md",
     "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
     "GBES CT-2.md",
-    "Codeforces/71A Way Too Long Words.md",
     "Codeforces Problem Solving.md",
     "DailyNotes/22-08-2023.md",
     "Codeforces",
@@ -240,7 +251,6 @@
     "Mess",
     "DailyNotes/17-08-2023.md",
     "Excalidraw",
-    "MathTempdsf.md",
     "People/University",
     "People",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-10__Thermochemistry.pdf",
