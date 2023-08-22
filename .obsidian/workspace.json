@@ -6,6 +6,7 @@
       {
         "id": "15f3989fc7aa669c",
         "type": "tabs",
+        "dimension": 78.56037151702786,
         "children": [
           {
             "id": "a968f5ee1c8034ac",
@@ -25,11 +26,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekend TODO.md",
+                "file": "Math CT-2.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "e93d315412717c67"
           },
           {
             "id": "3952d52de5801924",
@@ -45,6 +47,49 @@
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "1a34b95d85448842",
+        "type": "tabs",
+        "dimension": 21.439628482972136,
+        "children": [
+          {
+            "id": "5788302eb5c77a93",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Math CT-2.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "e93d315412717c67"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -110,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekend TODO.md",
+                "file": "Math CT-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekend TODO.md",
+                "file": "Math CT-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekend TODO.md"
+                "file": "Math CT-2.md"
               }
             }
           },
@@ -178,14 +223,15 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "omnisearch:Omnisearch": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "templater-obsidian:Templater": false
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cdcc0078a4dcddd",
+  "active": "5788302eb5c77a93",
   "lastOpenFiles": [
+    "Weekend TODO.md",
     "1st Semester/ICE/Voltage Source.md",
     "DailyNotes/22-08-2023.md",
     "Traffic Jam.md",
@@ -196,7 +242,6 @@
     "Untitled.canvas",
     "1st Semester/ICE/ECA.md",
     "1st Semester/ICE/Current Source.md",
-    "Weekend TODO.md",
     "DailyNotes/20-08-2023.md",
     "ICPC.md",
     "Excalidraw/Drawing 2023-08-19 13.35.31.excalidraw.md",

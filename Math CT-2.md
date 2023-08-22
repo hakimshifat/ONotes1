@@ -1,4 +1,4 @@
-- [x] 1. Squeez Theorem and[Calculus: The Squeeze Theorem Full Tutorial - YouTube](https://www.youtube.com/watch?v=uh6OO1738ts&ab_channel=TheMathSorcerer) [Definition of the Derivative - YouTube](https://www.youtube.com/watch?v=-aTLjoDT1GQ&ab_channel=TheOrganicChemistryTutor)
+- [x] 1. Squeez Theorem and[Calculus: The Squeeze Theorem Full Tutorial - YouTube](https://www.youtube.com/watch?v=uh6OO1738ts&ab_channel=TheMathSorcerer) [Definition of the Derivative - YouTube](https://www.youtube.com/watch?v=-aTLjoDT1GQ&ab_channel=TheOrganicChemistryTutor) ✅ 2023-08-22
 - [x] 2.Successive Differentiation 
 - [x] 3.Libnize Theorem 
 - [ ] 4.Rolles Theorem 
