@@ -32,6 +32,18 @@
             }
           },
           {
+            "id": "d235f3406627311d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "GBES CT-2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "3952d52de5801924",
             "type": "leaf",
             "state": {
@@ -44,7 +56,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
+                "file": "GBES CT-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
+                "file": "GBES CT-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md"
+                "file": "GBES CT-2.md"
               }
             }
           },
@@ -183,10 +195,11 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1cdcc0078a4dcddd",
+  "active": "d235f3406627311d",
   "lastOpenFiles": [
-    "English Presentation.md",
     "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
+    "GBES CT-2.md",
+    "English Presentation.md",
     "Importance of renewable Energy",
     "Math CT-2.md",
     "Weekend TODO.md",
@@ -217,7 +230,6 @@
     "1st Semester/Teachers/Prof. Dr. Shahed Rana.md",
     "1st Semester/Teachers/Prof. Dr. Md Masud Rana.md",
     "1st Semester/Teachers/Md. Zavid Iqbal Bangalee.md",
-    "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-10__Thermochemistry.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-9__Electrolytes.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-11__Chemical_Equilibrium.pdf",
