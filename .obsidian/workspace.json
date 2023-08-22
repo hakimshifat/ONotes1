@@ -25,19 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math CT-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "970749a7d81985d9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Codeforces Problem Solving.md",
+                "file": "ICPC.md",
                 "mode": "source",
                 "source": false
               }
@@ -80,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -146,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Codeforces Problem Solving.md",
+                "file": "ICPC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -163,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Codeforces Problem Solving.md",
+                "file": "ICPC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -186,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Codeforces Problem Solving.md"
+                "file": "ICPC.md"
               }
             }
           },
@@ -219,16 +207,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "970749a7d81985d9",
+  "active": "a8683044208a5b55",
   "lastOpenFiles": [
-    "Math CT-2.md",
+    "GBES CT-2.md",
+    "Codeforces/71A Way Too Long Words.md",
+    "Codeforces/4A Watermelon.md",
     "Codeforces Problem Solving.md",
-    "Untitled.md",
     "DailyNotes/22-08-2023.md",
+    "Codeforces",
+    "Math CT-2.md",
+    "Untitled.md",
     "Weekend TODO.md",
     "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
     "Traffic Jam.md",
-    "GBES CT-2.md",
     "Excalidraw/Drawing 2023-08-22 13.20.18.excalidraw.md",
     "ICPC.md",
     "importance of disaster preparedness.md",
@@ -252,11 +243,8 @@
     "MathTempdsf.md",
     "People/University",
     "People",
-    "Templates/DailyNotesTemplate.md",
-    "Templates/Template2.md",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-10__Thermochemistry.pdf",
     "1st Semester/Fundamental Chemistry/PDF/Chapter-9__Electrolytes.pdf",
-    "1st Semester/Fundamental Chemistry/PDF/Chapter-11__Chemical_Equilibrium.pdf",
-    "1st Semester/Fundamental Chemistry/PDF/Chapter-12__Chemical_Kinetics.pdf"
+    "1st Semester/Fundamental Chemistry/PDF/Chapter-11__Chemical_Equilibrium.pdf"
   ]
 }
