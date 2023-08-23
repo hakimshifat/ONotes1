@@ -11,11 +11,9 @@
             "id": "a968f5ee1c8034ac",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Math CT-2.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md"
               }
             }
           },
@@ -25,48 +23,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math CT-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "98fa1e9ace6b959c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "d235f3406627311d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "GBES CT-2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "9720292220706c07",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Math CT-2.md",
+                "file": "Lens.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -116,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -133,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
+                "file": "Lens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
+                "file": "Lens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -173,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md"
+                "file": "Lens.md"
               }
             }
           },
@@ -207,12 +170,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "98fa1e9ace6b959c",
+  "active": "5a0c3eb3cc90b803",
   "lastOpenFiles": [
-    "Lens.md",
-    "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
     "Optics-1.md",
     "Math CT-2.md",
+    "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
+    "Lens.md",
+    "GBES CT-2.md",
+    "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.png",
     "Codeforces Problem Solving.md",
     "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
     "Codeforces/71A Way Too Long Words.md",
@@ -223,7 +188,6 @@
     "Codeforces/231A-Team.md",
     "Codeforces/4A Watermelon.md",
     "Traffic Jam.md",
-    "GBES CT-2.md",
     "DailyNotes/22-08-2023.md",
     "Codeforces",
     "Excalidraw/Drawing 2023-08-22 13.20.18.excalidraw.md",
@@ -237,7 +201,6 @@
     "DailyNotes/20-08-2023.md",
     "Excalidraw/Drawing 2023-08-19 13.35.31.excalidraw.md",
     "Mess/Bazar List.md",
-    "DailyNotes/19-08-2023.md",
     "ONotes",
     "Mess",
     "Excalidraw",

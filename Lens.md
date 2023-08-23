@@ -12,3 +12,11 @@ Use:
 3. Telescopes
 
 # Types of Lens
+
+1.Convex Lens: Used to focus lens.
+[[Drawing 2023-08-23 08.51.47.excalidraw]] 
+
+2. Concave Lens: Used to disperse light
+
+## Definations
+	1. Center of curvature: Each surga
