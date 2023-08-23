@@ -12,4 +12,4 @@ Credit: 3.00
 
 
 ## FOR NEXT CLASS
-- [ ] Take notes from SIR
+- [ ] Take notes from SIRS HANDNOTE
