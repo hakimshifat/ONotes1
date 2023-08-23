@@ -29,4 +29,6 @@ Use:
 3. Principle Focus:  A lens have two principle Focus.
 	1. First Principle or Primary Principle: It is that point of principle axis at which if an object is placed from 'finite' distance, the image would form at infinity [[Principle focus.excalidraw]]
 	4. Second Principle or Secondary Principle: it is that point where the image is formed WHEN THE OBJECT IS AT INFINTY and image would form at finite distance
-	3.Focus Length:
+	
+	3.Focus Length: It is a property of lens or mirrors that determines how strongly a lens or a mirror would converge or diverge light. It is basically the distance between optical center and Principle focus.
+	
