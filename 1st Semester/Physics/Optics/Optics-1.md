@@ -7,8 +7,9 @@ Credit: 3.00
 ## Sub Topic : About Lens, Equivalent Lens, Power of lens, Aberrations
 
 ## Discussion:
-[[Lens]] 
+ ## [[Lens]]
+  
 
 
 ## FOR NEXT CLASS
-- [ ] 
+- [ ] Take notes from SIR
