@@ -32,5 +32,5 @@ Use:
 	
 	3.Focus Length: It is a property of lens or mirrors that determines how strongly a lens or a mirror would converge or diverge light. It is basically the distance between optical center and Principle focus. [[Focal length.excalidraw]]
 	
-	4.Nodal Points and nodal planes:
+	4.Nodal Points and Nodal planes:
 	
