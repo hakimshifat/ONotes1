@@ -28,5 +28,6 @@ Use:
 
 3. Principle Focus:  A lens have two principle Focus.
 	1. First Principle or Primary Principle: It is that point of principle axis at which if an object is placed from 'finite' distance, the image would form at infinity
-	2. Second Principle or Secondary Principl
+	2. 
+	3. Second Principle or Secondary Principle 
 	
