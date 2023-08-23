@@ -20,34 +20,24 @@
             }
           },
           {
-            "id": "1cdcc0078a4dcddd",
+            "id": "5a0c3eb3cc90b803",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Codeforces/71A Way Too Long Words.md",
+                "file": "Math CT-2.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "0abd6d4956c522cf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2023-08-22 18.37.31.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "5a0c3eb3cc90b803",
+            "id": "98fa1e9ace6b959c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
+                "file": "Lens.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,18 +56,6 @@
             }
           },
           {
-            "id": "3952d52de5801924",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "9720292220706c07",
             "type": "leaf",
             "state": {
@@ -90,7 +68,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -140,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -156,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
+                "file": "Lens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
+                "file": "Lens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -196,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md"
+                "file": "Lens.md"
               }
             }
           },
@@ -213,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -229,19 +209,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "5a0c3eb3cc90b803",
+  "active": "98fa1e9ace6b959c",
   "lastOpenFiles": [
+    "Optics-1.md",
+    "Lens.md",
     "Math CT-2.md",
-    "Weekend TODO.md",
     "Codeforces Problem Solving.md",
+    "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
+    "Codeforces/71A Way Too Long Words.md",
+    "Excalidraw/Drawing 2023-08-22 18.37.31.excalidraw.md",
+    "Weekend TODO.md",
     "English Presentation.md",
     "ICPC.md",
     "Codeforces/231A-Team.md",
-    "Codeforces/71A Way Too Long Words.md",
     "Codeforces/4A Watermelon.md",
-    "Excalidraw/Drawing 2023-08-22 18.37.31.excalidraw.md",
     "Traffic Jam.md",
-    "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
     "GBES CT-2.md",
     "DailyNotes/22-08-2023.md",
     "Codeforces",
@@ -258,10 +240,8 @@
     "Mess/Bazar List.md",
     "DailyNotes/19-08-2023.md",
     "1st Semester/Teachers/Md Jahangir Kabir Talukder, PhD.md",
-    "DailyNotes/27-08-2023.md",
     "ONotes",
     "Mess",
-    "DailyNotes/17-08-2023.md",
     "Excalidraw",
     "People/University",
     "People",

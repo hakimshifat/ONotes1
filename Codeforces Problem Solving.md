@@ -1,3 +1,0 @@
-- [x] Watermelon ✅ 2023-08-22
-- [x] Way too long word ✅ 2023-08-22
-- [ ] 
