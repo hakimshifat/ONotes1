@@ -21,11 +21,9 @@
             "id": "5a0c3eb3cc90b803",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "1st Semester/Physics/Lens.md",
-                "mode": "source",
-                "source": false
+                "file": "Excalidraw/Principle focus.excalidraw.md"
               }
             }
           },
@@ -64,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -204,7 +202,7 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "39b6bb82341b531d",
+  "active": "5a0c3eb3cc90b803",
   "lastOpenFiles": [
     "1st Semester/Physics/Lens.md",
     "Excalidraw/Principle focus.excalidraw.md",

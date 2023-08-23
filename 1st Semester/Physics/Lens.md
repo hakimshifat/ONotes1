@@ -27,7 +27,6 @@ Use:
 [[Drawing 2023-08-23 09.03.20.excalidraw]]
 
 3. Principle Focus:  A lens have two principle Focus.
-	1. First Principle or Primary Principle: It is that point of principle axis at which if an object is placed from 'finite' distance, the image would form at infinity
-	2. 
-	3. Second Principle or Secondary Principle 
+	1. First Principle or Primary Principle: It is that point of principle axis at which if an object is placed from 'finite' distance, the image would form at infinity [[Principle focus.excalidraw]]
+	4. Second Principle or Secondary Principle: 
 	
