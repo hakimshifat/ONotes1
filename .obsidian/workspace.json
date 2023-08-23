@@ -45,7 +45,7 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-23 09.36.34.excalidraw.md"
+                "file": "Excalidraw/Focal length.excalidraw.md"
               }
             }
           },
@@ -70,7 +70,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -136,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-23 09.36.34.excalidraw.md",
+                "file": "1st Semester/Physics/Lens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-23 09.36.34.excalidraw.md",
+                "file": "1st Semester/Physics/Lens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-23 09.36.34.excalidraw.md"
+                "file": "1st Semester/Physics/Lens.md"
               }
             }
           },
@@ -210,10 +210,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bad80de603c315c0",
+  "active": "51eac7b78900e320",
   "lastOpenFiles": [
+    "Excalidraw/Focal length.excalidraw.md",
     "1st Semester/Physics/Lens.md",
-    "Excalidraw/Drawing 2023-08-23 09.36.34.excalidraw.md",
     "Excalidraw/Principle focus.excalidraw.md",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
     "1st Semester/Physics/Optics/Optics-1.md",
