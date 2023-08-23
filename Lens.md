@@ -19,4 +19,10 @@ Use:
 2. Concave Lens: Used to disperse light
 
 ## Definations
-	1. Center of curvature: Each surga
+	1. Center of curvature: Each surface of lens is a part of a sphere. So a lens has two center of curvature on its two side. And the Center of those two curvature is called the center of curvature of the surface.
+
+[[Drawing 2023-08-23 09.00.28.excalidraw]]
+
+2.Radius of curvature: A lens have two radius of curvature. See image below
+
+	
