@@ -11,13 +11,28 @@
             "id": "a968f5ee1c8034ac",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Principle focus.excalidraw.md"
+                "file": "English Presentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1761199af4cfbdfa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Weekend TODO.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -83,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Principle focus.excalidraw.md",
+                "file": "Weekend TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Principle focus.excalidraw.md",
+                "file": "Weekend TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Principle focus.excalidraw.md"
+                "file": "Weekend TODO.md"
               }
             }
           },
@@ -156,8 +171,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "a968f5ee1c8034ac",
+  "active": "1761199af4cfbdfa",
   "lastOpenFiles": [
+    "English Presentation.md",
+    "Weekend TODO.md",
+    "Weekend TODO.md",
+    "Math CT-2.md",
+    "DailyNotes/24-08-2023.md",
     "1st Semester/Physics/Lens.md",
     "Excalidraw/Focal length.excalidraw.md",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
@@ -166,21 +186,17 @@
     "1st Semester/Physics/Optics/Optics-1.md",
     "beecrowd/Identifying Tea.md",
     "nodal points and plane.png",
-    "DailyNotes/24-08-2023.md",
     "beecrowd",
     "Mess/Bazar List.md",
-    "English Presentation.md",
     "Excalidraw/Principle focus.excalidraw.md",
     "Excalidraw/Drawing 2023-08-23 09.03.20.excalidraw.md",
     "1st Semester/Physics/Optics",
-    "Math CT-2.md",
     "GBES CT-2.md",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.png",
     "Codeforces Problem Solving.md",
     "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
     "Codeforces/71A Way Too Long Words.md",
     "Excalidraw/Drawing 2023-08-22 18.37.31.excalidraw.md",
-    "Weekend TODO.md",
     "ICPC.md",
     "Codeforces/231A-Team.md",
     "Codeforces/4A Watermelon.md",
