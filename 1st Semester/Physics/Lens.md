@@ -34,4 +34,6 @@ Use:
 	
 	4.Nodal Points and Nodal planes:
 	![[nodal points and plane.png]]
-	
+	What is nodes?
+	If the medium on One side of the lens is DIFFERENT from other side of the lens,
+	there becomes "A PAIR OF CONJUGATE POINT" so that if rays be allowed to pass through the first point N1(say) then its corresponding point will be parallel to the first ray()

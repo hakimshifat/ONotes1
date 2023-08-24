@@ -18,18 +18,19 @@
             }
           },
           {
-            "id": "b701e06ab9162534",
+            "id": "b1a44326f713736a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Untitled.md",
+                "file": "1st Semester/Physics/Lens.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -96,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
+                "file": "1st Semester/Physics/Lens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
+                "file": "1st Semester/Physics/Lens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md"
+                "file": "1st Semester/Physics/Lens.md"
               }
             }
           },
@@ -170,18 +171,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1761199af4cfbdfa",
+  "active": "b1a44326f713736a",
   "lastOpenFiles": [
-    "1st Semester/Physics/Lens.md",
     "1st Semester/Physics/Optics/Optics-1.md",
+    "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
+    "Untitled.md",
+    "1st Semester/Physics/Lens.md",
     "nodal points and plane.png",
     "Weekend TODO.md",
     "English Presentation.md",
-    "Untitled.md",
     "Math CT-2.md",
     "DailyNotes/24-08-2023.md",
     "Excalidraw/Focal length.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
     "Excalidraw/Drawing 2023-08-24 11.14.13.excalidraw.md",
     "Excalidraw/Drawing 2023-08-23 09.00.28.excalidraw.md",
     "beecrowd/Identifying Tea.md",
