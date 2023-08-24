@@ -1,0 +1,6 @@
+- [ ] Physics Lab report(W3) and Rough Sheet (O4)
+- [ ] Complete Physics Lectures
+- [ ] Chemistry Lab report
+- [ ] Complete Math
+- [ ] Complete Chemistry Lectures
+- [ ] Complete GEBS LEc
