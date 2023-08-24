@@ -43,3 +43,5 @@ Use:
 	# What is Nodal Planes
 	Nodal planes are one kind of planes that are drawn perpendicular to the principle axis of the lens and they pass through the nodal points.
 ## Deviation Produced by a Lens
+- A monochromatic light is parallal to the principle axis be the incident on a thin lens at a height h above the axis and let f be the focal length of the lens.
+- [[draw]]
