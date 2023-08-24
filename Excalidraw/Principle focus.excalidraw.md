@@ -2027,31 +2027,31 @@ but light is going at infinity ^KcjHt5c1
 			"baseline": 68
 		},
 		{
-			"id": "ZneqcY5qSaFCz6MmPTA4S",
+			"id": "ZzIAQm9AHaR_UiU9QF5w7",
 			"type": "line",
-			"x": -165.5243732310223,
-			"y": 390.91613572060265,
-			"width": 4.9913478986463815,
-			"height": 354.38336156007455,
+			"x": -168.3765642586747,
+			"y": 390.2030743634348,
+			"width": 44.92180468170318,
+			"height": 357.94861394489476,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 1,
+			"roughness": 0,
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 104208962,
-			"version": 64,
-			"versionNonce": 1101902430,
+			"seed": 417110530,
+			"version": 97,
+			"versionNonce": 1905590786,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1692864778671,
+			"updated": 1692864851477,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2060,8 +2060,12 @@ but light is going at infinity ^KcjHt5c1
 					0
 				],
 				[
-					-4.9913478986463815,
-					354.38336156007455
+					44.20877052504488,
+					181.11345024318666
+				],
+				[
+					-0.7130341566582956,
+					357.94861394489476
 				]
 			],
 			"lastCommittedPoint": null,
@@ -2071,31 +2075,31 @@ but light is going at infinity ^KcjHt5c1
 			"endArrowhead": null
 		},
 		{
-			"id": "hhOf6RDrgExIkc2f5ylzj",
+			"id": "NIs1vXF5SvVBGQ-q9Oifg",
 			"type": "line",
-			"x": -168.3765642586747,
-			"y": 557.0556238693787,
-			"width": 227.4613776392256,
-			"height": 80.57411092582919,
+			"x": 4.89334705821318,
+			"y": 391.629169877261,
+			"width": 6.417361810943987,
+			"height": 358.6616753020626,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"fillStyle": "solid",
 			"strokeWidth": 1,
 			"strokeStyle": "solid",
-			"roughness": 1,
+			"roughness": 0,
 			"opacity": 100,
 			"groupIds": [],
 			"frameId": null,
 			"roundness": {
 				"type": 2
 			},
-			"seed": 1682159262,
-			"version": 263,
-			"versionNonce": 1556226306,
+			"seed": 1365864898,
+			"version": 80,
+			"versionNonce": 1884239582,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1692864798675,
+			"updated": 1692864858742,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2104,22 +2108,11 @@ but light is going at infinity ^KcjHt5c1
 					0
 				],
 				[
-					67.02624434524472,
-					-77.72191989817674
-				],
-				[
-					19.252194234870103,
-					-38.50444287075925
-				],
-				[
-					227.4613776392256,
-					2.8521910276524522
+					-6.417361810943987,
+					358.6616753020626
 				]
 			],
-			"lastCommittedPoint": [
-				227.4613776392256,
-				2.8521910276524522
-			],
+			"lastCommittedPoint": null,
 			"startBinding": null,
 			"endBinding": null,
 			"startArrowhead": null,
@@ -3020,6 +3013,152 @@ but light is going at infinity ^KcjHt5c1
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "ZneqcY5qSaFCz6MmPTA4S",
+			"type": "line",
+			"x": -165.5243732310223,
+			"y": 390.91613572060265,
+			"width": 4.9913478986463815,
+			"height": 354.38336156007455,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 104208962,
+			"version": 66,
+			"versionNonce": 1616392770,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1692864838717,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					-4.9913478986463815,
+					354.38336156007455
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "hhOf6RDrgExIkc2f5ylzj",
+			"type": "line",
+			"x": 39.119530588003435,
+			"y": 715.3516274928752,
+			"width": 227.4613776392256,
+			"height": 80.57411092582919,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1682159262,
+			"version": 294,
+			"versionNonce": 1482682398,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1692864823345,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					67.02624434524472,
+					-77.72191989817674
+				],
+				[
+					19.252194234870103,
+					-38.50444287075925
+				],
+				[
+					227.4613776392256,
+					2.8521910276524522
+				]
+			],
+			"lastCommittedPoint": [
+				227.4613776392256,
+				2.8521910276524522
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "0YApqIbmRXvIsKN6swUH5",
+			"type": "line",
+			"x": -167.66353010201635,
+			"y": 490.029379524134,
+			"width": 237.44401903549925,
+			"height": 120.50460850965021,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 20,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 451152542,
+			"version": 44,
+			"versionNonce": 1661585630,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1692864837164,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					237.44401903549925,
+					-120.50460850965021
+				]
+			],
+			"lastCommittedPoint": [
+				237.44401903549925,
+				-120.50460850965021
+			],
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
@@ -3030,7 +3169,7 @@ but light is going at infinity ^KcjHt5c1
 		"currentItemFillStyle": "solid",
 		"currentItemStrokeWidth": 1,
 		"currentItemStrokeStyle": "solid",
-		"currentItemRoughness": 1,
+		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
 		"currentItemFontFamily": 1,
 		"currentItemFontSize": 20,
