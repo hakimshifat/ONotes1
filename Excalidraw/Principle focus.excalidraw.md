@@ -32,8 +32,8 @@ but light is going at infinity ^KcjHt5c1
 	"elements": [
 		{
 			"type": "rectangle",
-			"version": 72,
-			"versionNonce": 1157299842,
+			"version": 75,
+			"versionNonce": 776594626,
 			"isDeleted": false,
 			"id": "3a9kQFMSlxZK46-wCVmWp",
 			"fillStyle": "cross-hatch",
@@ -55,14 +55,14 @@ but light is going at infinity ^KcjHt5c1
 				"type": 3
 			},
 			"boundElements": [],
-			"updated": 1692864754228,
+			"updated": 1692864910717,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "ellipse",
-			"version": 273,
-			"versionNonce": 1528537758,
+			"version": 276,
+			"versionNonce": 524632158,
 			"isDeleted": false,
 			"id": "urpu4yKJup_CJu41Lg3zx",
 			"fillStyle": "hachure",
@@ -84,14 +84,14 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754228,
+			"updated": 1692864910717,
 			"link": null,
 			"locked": false
 		},
 		{
 			"type": "line",
-			"version": 99,
-			"versionNonce": 802938434,
+			"version": 102,
+			"versionNonce": 1391721602,
 			"isDeleted": false,
 			"id": "Nu_8Q3amwcdgoblNHw38w",
 			"fillStyle": "hachure",
@@ -113,7 +113,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910717,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -134,8 +134,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 84,
-			"versionNonce": 856268510,
+			"version": 87,
+			"versionNonce": 62489758,
 			"isDeleted": false,
 			"id": "4TovjAYuRMqhjq1j0mYg8",
 			"fillStyle": "hachure",
@@ -157,7 +157,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910717,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -178,8 +178,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 103,
-			"versionNonce": 319473154,
+			"version": 106,
+			"versionNonce": 1376066626,
 			"isDeleted": false,
 			"id": "QVLDxmtQ-FHiFZgp45e9t",
 			"fillStyle": "hachure",
@@ -201,7 +201,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910717,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -222,8 +222,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 98,
-			"versionNonce": 208540446,
+			"version": 101,
+			"versionNonce": 295387358,
 			"isDeleted": false,
 			"id": "I2GZHk_-6mo0cbqLebhTE",
 			"fillStyle": "hachure",
@@ -245,7 +245,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910717,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -266,8 +266,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 63,
-			"versionNonce": 1200010690,
+			"version": 66,
+			"versionNonce": 1499218946,
 			"isDeleted": false,
 			"id": "wzH9RVlUprUCcalFZS7rD",
 			"fillStyle": "hachure",
@@ -289,7 +289,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910717,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -310,8 +310,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 90,
-			"versionNonce": 1639579486,
+			"version": 93,
+			"versionNonce": 746288414,
 			"isDeleted": false,
 			"id": "peN49BzlN3eCewe698N6k",
 			"fillStyle": "hachure",
@@ -333,7 +333,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910717,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -354,8 +354,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "text",
-			"version": 68,
-			"versionNonce": 779005314,
+			"version": 71,
+			"versionNonce": 49836994,
 			"isDeleted": false,
 			"id": "hPObSchL",
 			"fillStyle": "hachure",
@@ -375,7 +375,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910717,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -391,8 +391,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "freedraw",
-			"version": 75,
-			"versionNonce": 926835614,
+			"version": 78,
+			"versionNonce": 499851614,
 			"isDeleted": false,
 			"id": "kLOGt8rTj8L6l2HYQjsPX",
 			"fillStyle": "hachure",
@@ -412,7 +412,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910717,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -603,8 +603,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "text",
-			"version": 56,
-			"versionNonce": 755084610,
+			"version": 59,
+			"versionNonce": 1358474114,
 			"isDeleted": false,
 			"id": "UsTbecdJ",
 			"fillStyle": "hachure",
@@ -624,7 +624,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910717,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -640,8 +640,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "freedraw",
-			"version": 127,
-			"versionNonce": 1596735454,
+			"version": 130,
+			"versionNonce": 1490765214,
 			"isDeleted": false,
 			"id": "pGqbY3UHoat9m2JKx7yow",
 			"fillStyle": "hachure",
@@ -661,7 +661,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1060,8 +1060,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "freedraw",
-			"version": 48,
-			"versionNonce": 681489666,
+			"version": 51,
+			"versionNonce": 698084162,
 			"isDeleted": false,
 			"id": "p-3fudqkXoM7kv_6ld3BB",
 			"fillStyle": "hachure",
@@ -1081,7 +1081,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1164,8 +1164,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "freedraw",
-			"version": 65,
-			"versionNonce": 1033147422,
+			"version": 68,
+			"versionNonce": 1054663134,
 			"isDeleted": false,
 			"id": "V75OEiBllyKSam75opKPZ",
 			"fillStyle": "hachure",
@@ -1185,7 +1185,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1340,8 +1340,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "freedraw",
-			"version": 46,
-			"versionNonce": 46449858,
+			"version": 49,
+			"versionNonce": 1396781826,
 			"isDeleted": false,
 			"id": "PbpQZtU0IRJV1AbDW37xB",
 			"fillStyle": "hachure",
@@ -1361,7 +1361,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -1440,8 +1440,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "text",
-			"version": 74,
-			"versionNonce": 208167006,
+			"version": 77,
+			"versionNonce": 1658910238,
 			"isDeleted": false,
 			"id": "2n9ydH8A",
 			"fillStyle": "hachure",
@@ -1461,7 +1461,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1477,96 +1477,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 61,
-			"versionNonce": 353557634,
-			"isDeleted": false,
-			"id": "K5wmdkInuCTQQuo5SdN00",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -168.04978178768323,
-			"y": 390.59206945245916,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 232.7272727272727,
-			"height": 0.727275501598001,
-			"seed": 14133665,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1692864754229,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					232.7272727272727,
-					0.727275501598001
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 86,
-			"versionNonce": 528000158,
-			"isDeleted": false,
-			"id": "vRR0_IZvDqEQ6tqL57LR6",
-			"fillStyle": "hachure",
-			"strokeWidth": 1,
-			"strokeStyle": "solid",
-			"roughness": 1,
-			"opacity": 100,
-			"angle": 0,
-			"x": -186.95891708597873,
-			"y": 745.501168684526,
-			"strokeColor": "#1e1e1e",
-			"backgroundColor": "transparent",
-			"width": 248.00004438920456,
-			"height": 2.909102006392004,
-			"seed": 959718337,
-			"groupIds": [],
-			"frameId": null,
-			"roundness": {
-				"type": 2
-			},
-			"boundElements": [],
-			"updated": 1692864754229,
-			"link": null,
-			"locked": false,
-			"startBinding": null,
-			"endBinding": null,
-			"lastCommittedPoint": null,
-			"startArrowhead": null,
-			"endArrowhead": null,
-			"points": [
-				[
-					0,
-					0
-				],
-				[
-					248.00004438920456,
-					2.909102006392004
-				]
-			]
-		},
-		{
-			"type": "line",
-			"version": 90,
-			"versionNonce": 155395074,
+			"version": 93,
+			"versionNonce": 1137916482,
 			"isDeleted": false,
 			"id": "QiXTWSqCGIdhK-qv8XF0y",
 			"fillStyle": "hachure",
@@ -1588,7 +1500,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754230,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1609,8 +1521,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 66,
-			"versionNonce": 2062718238,
+			"version": 69,
+			"versionNonce": 29754078,
 			"isDeleted": false,
 			"id": "kKjQ0pcekDMIOPfTd7vKb",
 			"fillStyle": "hachure",
@@ -1632,7 +1544,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754230,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1653,8 +1565,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 144,
-			"versionNonce": 1392726978,
+			"version": 147,
+			"versionNonce": 1740022274,
 			"isDeleted": false,
 			"id": "A1m5nRQGgSikRqcVVtB0Y",
 			"fillStyle": "hachure",
@@ -1676,7 +1588,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754230,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1697,8 +1609,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 139,
-			"versionNonce": 1348354398,
+			"version": 142,
+			"versionNonce": 234747678,
 			"isDeleted": false,
 			"id": "34OayMP2hbyuFDyVb1fXZ",
 			"fillStyle": "hachure",
@@ -1720,7 +1632,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754230,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1741,8 +1653,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 57,
-			"versionNonce": 480742274,
+			"version": 60,
+			"versionNonce": 1381437890,
 			"isDeleted": false,
 			"id": "pIKoKbmlzAFR-lpONWlS3",
 			"fillStyle": "hachure",
@@ -1764,7 +1676,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754230,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1785,8 +1697,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 77,
-			"versionNonce": 202007966,
+			"version": 80,
+			"versionNonce": 1873634142,
 			"isDeleted": false,
 			"id": "usCWenVa4La0oYydWa-NT",
 			"fillStyle": "hachure",
@@ -1808,7 +1720,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754230,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1829,8 +1741,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 233,
-			"versionNonce": 1550764866,
+			"version": 236,
+			"versionNonce": 919832962,
 			"isDeleted": false,
 			"id": "xiZNG9tOzhBAn5iqZqEIT",
 			"fillStyle": "hachure",
@@ -1852,7 +1764,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754230,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1873,8 +1785,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "line",
-			"version": 75,
-			"versionNonce": 2133328350,
+			"version": 78,
+			"versionNonce": 2032486302,
 			"isDeleted": false,
 			"id": "Y-G1rVowRako5CdAC9oby",
 			"fillStyle": "hachure",
@@ -1896,7 +1808,7 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"boundElements": [],
-			"updated": 1692864754230,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"startBinding": null,
@@ -1917,8 +1829,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "text",
-			"version": 100,
-			"versionNonce": 1756893954,
+			"version": 103,
+			"versionNonce": 208341314,
 			"isDeleted": false,
 			"id": "NxZioYPS",
 			"fillStyle": "hachure",
@@ -1938,7 +1850,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754230,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1954,8 +1866,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "text",
-			"version": 69,
-			"versionNonce": 751310366,
+			"version": 72,
+			"versionNonce": 177644510,
 			"isDeleted": false,
 			"id": "K84TJBJ7",
 			"fillStyle": "cross-hatch",
@@ -1975,7 +1887,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754230,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -1991,8 +1903,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "text",
-			"version": 138,
-			"versionNonce": 1946313410,
+			"version": 141,
+			"versionNonce": 175935746,
 			"isDeleted": false,
 			"id": "KcjHt5c1",
 			"fillStyle": "cross-hatch",
@@ -2012,7 +1924,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754230,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"fontSize": 20,
@@ -2047,11 +1959,11 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"seed": 417110530,
-			"version": 97,
-			"versionNonce": 1905590786,
+			"version": 100,
+			"versionNonce": 1770964190,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1692864851477,
+			"updated": 1692864910719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2079,7 +1991,7 @@ but light is going at infinity ^KcjHt5c1
 			"type": "line",
 			"x": 4.89334705821318,
 			"y": 391.629169877261,
-			"width": 6.417361810943987,
+			"width": 58.46967126228759,
 			"height": 358.6616753020626,
 			"angle": 0,
 			"strokeColor": "#1e1e1e",
@@ -2095,17 +2007,21 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"seed": 1365864898,
-			"version": 80,
-			"versionNonce": 1884239582,
+			"version": 132,
+			"versionNonce": 1330839554,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1692864858742,
+			"updated": 1692864910719,
 			"link": null,
 			"locked": false,
 			"points": [
 				[
 					0,
 					0
+				],
+				[
+					-58.46967126228759,
+					180.40038888601873
 				],
 				[
 					-6.417361810943987,
@@ -2119,9 +2035,185 @@ but light is going at infinity ^KcjHt5c1
 			"endArrowhead": null
 		},
 		{
+			"id": "q0IKTtGhoaqptuN9OUjfg",
+			"type": "line",
+			"x": -168.50174125394236,
+			"y": 747.5661981592426,
+			"width": 167.10329195226964,
+			"height": 1.2347345943736627,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1680058206,
+			"version": 68,
+			"versionNonce": 1130264862,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1692864910719,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					167.10329195226964,
+					1.2347345943736627
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "i1Z2fMJhsHmoewe822fuj",
+			"type": "line",
+			"x": -168.09016305581778,
+			"y": 391.9829202864052,
+			"width": 172.04232453397535,
+			"height": 0.4115938988264247,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "solid",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 231557534,
+			"version": 120,
+			"versionNonce": 22081986,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1692864921967,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					172.04232453397535,
+					-0.4115938988264247
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"type": "line",
+			"version": 66,
+			"versionNonce": 1885831874,
+			"isDeleted": true,
+			"id": "K5wmdkInuCTQQuo5SdN00",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"angle": 0,
+			"x": -168.04978178768323,
+			"y": 390.59206945245916,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 232.7272727272727,
+			"height": 0.727275501598001,
+			"seed": 14133665,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1692864910718,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					232.7272727272727,
+					0.727275501598001
+				]
+			]
+		},
+		{
+			"type": "line",
+			"version": 91,
+			"versionNonce": 1306034782,
+			"isDeleted": true,
+			"id": "vRR0_IZvDqEQ6tqL57LR6",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 20,
+			"angle": 0,
+			"x": -186.95891708597873,
+			"y": 745.501168684526,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"width": 248.00004438920456,
+			"height": 2.909102006392004,
+			"seed": 959718337,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"boundElements": [],
+			"updated": 1692864910718,
+			"link": null,
+			"locked": false,
+			"startBinding": null,
+			"endBinding": null,
+			"lastCommittedPoint": null,
+			"startArrowhead": null,
+			"endArrowhead": null,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					248.00004438920456,
+					2.909102006392004
+				]
+			]
+		},
+		{
 			"type": "freedraw",
-			"version": 92,
-			"versionNonce": 759692354,
+			"version": 95,
+			"versionNonce": 2074991234,
 			"isDeleted": true,
 			"id": "HL4btkBMje9jCYs7fgesf",
 			"fillStyle": "hachure",
@@ -2141,7 +2233,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2428,8 +2520,8 @@ but light is going at infinity ^KcjHt5c1
 		},
 		{
 			"type": "freedraw",
-			"version": 127,
-			"versionNonce": 678846686,
+			"version": 130,
+			"versionNonce": 1117030046,
 			"isDeleted": true,
 			"id": "Xjjvt5wENttrI8jkNzUA0",
 			"fillStyle": "hachure",
@@ -2449,7 +2541,7 @@ but light is going at infinity ^KcjHt5c1
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1692864754229,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2903,11 +2995,11 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"seed": 1786587166,
-			"version": 161,
-			"versionNonce": 232497758,
+			"version": 164,
+			"versionNonce": 1444050974,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1692864754230,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2947,11 +3039,11 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"seed": 2110705438,
-			"version": 75,
-			"versionNonce": 58595138,
+			"version": 78,
+			"versionNonce": 612835522,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1692864753131,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -2991,11 +3083,11 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"seed": 2021309314,
-			"version": 131,
-			"versionNonce": 1294863902,
+			"version": 134,
+			"versionNonce": 596231262,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1692864753394,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3035,11 +3127,11 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"seed": 104208962,
-			"version": 66,
-			"versionNonce": 1616392770,
+			"version": 69,
+			"versionNonce": 103397506,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1692864838717,
+			"updated": 1692864910718,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3079,11 +3171,11 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"seed": 1682159262,
-			"version": 294,
-			"versionNonce": 1482682398,
+			"version": 297,
+			"versionNonce": 349014174,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1692864823345,
+			"updated": 1692864910719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3134,11 +3226,11 @@ but light is going at infinity ^KcjHt5c1
 				"type": 2
 			},
 			"seed": 451152542,
-			"version": 44,
-			"versionNonce": 1661585630,
+			"version": 47,
+			"versionNonce": 253974594,
 			"isDeleted": true,
 			"boundElements": null,
-			"updated": 1692864837164,
+			"updated": 1692864910719,
 			"link": null,
 			"locked": false,
 			"points": [
@@ -3159,6 +3251,138 @@ but light is going at infinity ^KcjHt5c1
 			"endBinding": null,
 			"startArrowhead": null,
 			"endArrowhead": null
+		},
+		{
+			"id": "w28Iu8TsDcYMFVE4J0Zg6",
+			"type": "line",
+			"x": -168.9133194520669,
+			"y": 392.3944984845298,
+			"width": 173.6886373264736,
+			"height": 0.4115938988263679,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 1,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 1798839234,
+			"version": 42,
+			"versionNonce": 58861662,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1692864894138,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					173.6886373264736,
+					0.4115938988263679
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "tBEBnIdyTGajAn1NMn1n3",
+			"type": "line",
+			"x": -166.0322406637913,
+			"y": 394.45242087655623,
+			"width": 174.5118251241264,
+			"height": 4.527438682879335,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "cross-hatch",
+			"strokeWidth": 1,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 435663938,
+			"version": 38,
+			"versionNonce": 487028446,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1692864900739,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					174.5118251241264,
+					4.527438682879335
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
+		},
+		{
+			"id": "qQ-UEW7-qvZel5I3aC_iI",
+			"type": "line",
+			"x": -167.67858485769324,
+			"y": 390.33657609250326,
+			"width": 179.03924810630394,
+			"height": 0,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "solid",
+			"strokeWidth": 2,
+			"strokeStyle": "dashed",
+			"roughness": 0,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": {
+				"type": 2
+			},
+			"seed": 404871006,
+			"version": 37,
+			"versionNonce": 45592514,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1692864910719,
+			"link": null,
+			"locked": false,
+			"points": [
+				[
+					0,
+					0
+				],
+				[
+					179.03924810630394,
+					0
+				]
+			],
+			"lastCommittedPoint": null,
+			"startBinding": null,
+			"endBinding": null,
+			"startArrowhead": null,
+			"endArrowhead": null
 		}
 	],
 	"appState": {
@@ -3167,7 +3391,7 @@ but light is going at infinity ^KcjHt5c1
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "solid",
-		"currentItemStrokeWidth": 1,
+		"currentItemStrokeWidth": 2,
 		"currentItemStrokeStyle": "solid",
 		"currentItemRoughness": 0,
 		"currentItemOpacity": 100,
@@ -3176,10 +3400,10 @@ but light is going at infinity ^KcjHt5c1
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 461.97287994706727,
-		"scrollY": -229.47827604340705,
+		"scrollX": 334.2673962119562,
+		"scrollY": -282.3342389110687,
 		"zoom": {
-			"value": 1.1219487671080657
+			"value": 1.9437078946699786
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
