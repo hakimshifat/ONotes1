@@ -57,4 +57,8 @@ so finally we get
 
 An equivalent lens is a lens that has the same optical properties as another lens but with different FOCAL LENGTH
 
+Two lens can be considered equivalent if they produce the same angle of view and same depth of field regardless of the actual focal length of the lens.
 
+## Equation for equivalent lens
+
+ 
