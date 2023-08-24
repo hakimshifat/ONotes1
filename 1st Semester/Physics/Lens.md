@@ -4,7 +4,7 @@ What can be lens made of:
 1. Transparent Material
 2. Glass
 3. Plastic
-# Used to focus or disperse light.
+# Used to 'focus' or 'disperse light.'
 
 Use:
 1. Eye Glass
@@ -44,4 +44,17 @@ Use:
 	Nodal planes are one kind of planes that are drawn perpendicular to the principle axis of the lens and they pass through the nodal points.
 ## Deviation Produced by a Lens
 - A monochromatic light is parallal to the principle axis be the incident on a thin lens at a height h above the axis and let f be the focal length of the lens.
-- [[draw]]
+- [[Deviation by LensDrawing 2023-08-24 17.01.29.excalidraw]]
+
+tha(theta)=h/f
+if theta is small enough
+tan(theta)=theta
+
+so finally we get
+
+(Theta)=h/f
+## Equivalent Lens
+
+An equivalent lens is a lens that has the same optical properties as another lens but with different FOCAL LENGTH
+
+
