@@ -1,7 +1,7 @@
 - [ ] Physics Lab report(W3) and Rough Sheet (O4)
 - [ ] Complete Physics Lectures [[Optics-1]]
 - [ ] Chemistry Lab report
-- [ ] Complete [[M]]
+- [ ] Complete [[Math CT-2]]
 - [ ] Complete Chemistry Lectures 
 - [ ] Complete GEBS Lectures
 - [ ] Complete ECA Lab report

@@ -1,2 +1,0 @@
-- Ideal Voltage Source
-- Practical Voltage Source

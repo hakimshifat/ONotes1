@@ -14,7 +14,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekend TODO.md",
+                "file": "DailyNotes/24-08-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -34,7 +34,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Weekend TODO.md",
+                "file": "DailyNotes/24-08-2023.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekend TODO.md",
+                "file": "DailyNotes/24-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekend TODO.md",
+                "file": "DailyNotes/24-08-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekend TODO.md"
+                "file": "DailyNotes/24-08-2023.md"
               }
             }
           },
@@ -187,8 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,6 +205,10 @@
   },
   "active": "72b2f48fb306cf6b",
   "lastOpenFiles": [
+    "1st Semester/ICE/Voltage Source.md",
+    "1st Semester/ICE/ECA.md",
+    "1st Semester/ICE/Current Source.md",
+    "Weekend TODO.md",
     "Math CT-2.md",
     "ICPC.md",
     "GBES CT-2.md",
@@ -217,7 +220,6 @@
     "1st Semester/Physics/Lens.md",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
     "nodal points and plane.png",
-    "Weekend TODO.md",
     "DailyNotes/24-08-2023.md",
     "Excalidraw/Focal length.excalidraw.md",
     "Excalidraw/Drawing 2023-08-24 11.14.13.excalidraw.md",
@@ -233,9 +235,6 @@
     "Codeforces/71A Way Too Long Words.md",
     "Excalidraw/Drawing 2023-08-22 18.37.31.excalidraw.md",
     "Codeforces/231A-Team.md",
-    "Codeforces/4A Watermelon.md",
-    "Traffic Jam.md",
-    "DailyNotes/22-08-2023.md",
     "Codeforces",
     "Importance of renewable Energy",
     "Untitled.canvas",

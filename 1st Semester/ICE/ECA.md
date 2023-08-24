@@ -46,7 +46,11 @@ The nucleus of the hydrogen atom is the proton, a positively charged particle.
 
 ## Two types of Sources in ECA
 - [[Voltage Source]]: has a forcing function of EMF
+ 1. Ideal Voltage Source
+ 2. Practical Voltage Source
 - [[Current Source]]: has a forcing function of current
+1. Ideal
+2. Practical 
 
 
 
