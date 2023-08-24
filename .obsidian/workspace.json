@@ -4,33 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "15f3989fc7aa669c",
+        "id": "2c63221a00afb5b0",
         "type": "tabs",
+        "dimension": 72.36842105263158,
         "children": [
           {
-            "id": "b1a44326f713736a",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Deviation by LensDrawing 2023-08-24 17.01.29.excalidraw.md"
-              }
-            }
-          },
-          {
-            "id": "325b58283ca02fa1",
+            "id": "72b2f48fb306cf6b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1st Semester/Physics/Lens.md",
+                "file": "Weekend TODO.md",
                 "mode": "source",
                 "source": false
               }
-            }
+            },
+            "group": "3876b27d9792a68e"
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "282d608a02e818fa",
+        "type": "tabs",
+        "dimension": 27.631578947368425,
+        "children": [
+          {
+            "id": "026e1271210ca397",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Weekend TODO.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1,
+                  "close": false
+                }
+              }
+            },
+            "group": "3876b27d9792a68e"
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -80,8 +114,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -97,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Semester/Physics/Lens.md",
+                "file": "Weekend TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1st Semester/Physics/Lens.md",
+                "file": "Weekend TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1st Semester/Physics/Lens.md"
+                "file": "Weekend TODO.md"
               }
             }
           },
@@ -171,34 +204,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "325b58283ca02fa1",
+  "active": "72b2f48fb306cf6b",
   "lastOpenFiles": [
+    "Math CT-2.md",
+    "ICPC.md",
+    "GBES CT-2.md",
+    "English Presentation.md",
+    "beecrowd/Identifying Tea.md",
+    "1st Semester/Physics/Optics/Optics-1.md",
+    "Untitled.md",
     "Excalidraw/Deviation by LensDrawing 2023-08-24 17.01.29.excalidraw.md",
     "1st Semester/Physics/Lens.md",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
-    "1st Semester/Physics/Optics/Optics-1.md",
-    "Untitled.md",
     "nodal points and plane.png",
     "Weekend TODO.md",
-    "English Presentation.md",
-    "Math CT-2.md",
     "DailyNotes/24-08-2023.md",
     "Excalidraw/Focal length.excalidraw.md",
     "Excalidraw/Drawing 2023-08-24 11.14.13.excalidraw.md",
     "Excalidraw/Drawing 2023-08-23 09.00.28.excalidraw.md",
-    "beecrowd/Identifying Tea.md",
     "beecrowd",
     "Mess/Bazar List.md",
     "Excalidraw/Principle focus.excalidraw.md",
     "Excalidraw/Drawing 2023-08-23 09.03.20.excalidraw.md",
     "1st Semester/Physics/Optics",
-    "GBES CT-2.md",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.png",
     "Codeforces Problem Solving.md",
     "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
     "Codeforces/71A Way Too Long Words.md",
     "Excalidraw/Drawing 2023-08-22 18.37.31.excalidraw.md",
-    "ICPC.md",
     "Codeforces/231A-Team.md",
     "Codeforces/4A Watermelon.md",
     "Traffic Jam.md",

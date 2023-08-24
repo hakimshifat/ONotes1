@@ -6,5 +6,7 @@
   "templater-obsidian",
   "obsidian-tasks-plugin",
   "obsidian-git",
-  "dataview"
+  "dataview",
+  "obsidian-math-plus",
+  "obsidian-latex-suite"
 ]

@@ -8,4 +8,3 @@
 - [x] 7.La hospital ✅ 2023-08-22\\\
 - [ ] 8.Application of Differentiation  ( Increasing and Decreasing) 
 - [ ] 9.Rate of changes
-- [ ] 
