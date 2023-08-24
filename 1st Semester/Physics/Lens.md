@@ -34,6 +34,12 @@ Use:
 	
 	4.Nodal Points and Nodal planes:
 	![[nodal points and plane.png]]
-	What is nodes?
+	##  What is nodes?
 	If the medium on One side of the lens is DIFFERENT from other side of the lens,
-	there becomes "A PAIR OF CONJUGATE POINT" so that if rays be allowed to pass through the first point N1(say) then its corresponding point will be parallel to the first ray()
+	there becomes "A PAIR OF CONJUGATE POINT" so that if rays be allowed to pass through the first point N1(say) then its corresponding point will be parallel to the first ray(incident ray) and will appear to DIVERGE from or pass through the second point N2
+
+	So in the picture, N1 and N2 are called first and second Nodal point.
+
+	# What is Nodal Planes
+	Nodal planes are one kind of planes that are drawn perpendicular to the principle axis of the lens and they pass through the nodal points.
+## Deviation Produced by a Lens
