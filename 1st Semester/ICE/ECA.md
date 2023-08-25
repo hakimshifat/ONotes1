@@ -52,7 +52,10 @@ The nucleus of the hydrogen atom is the proton, a positively charged particle.
 1. Ideal
 2. Practical 
 
-![[Pasted image 20230825192120.png]]
+![[Pasted image 20230825192120.png]] 
+
+
+#                   Resistance
 
 
 
