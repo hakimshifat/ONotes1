@@ -14,4 +14,9 @@
 	 2. Chemistry: Last Class was about Reactions and Preparation of Alkene, Alkyne. Note that these are beyond mid syllebus
 	 3. Chemistry LAB--Experiment No--6  (MUST BRING APRONE)
 3. Tuesday(29)
-	1. 
+	1. GEBS: Also Beyond Syllebus. Last class was about Independence of Bangladesh
+	2. Math: CR's will inform about that
+4. Wednesday(30):
+	1. English Lab: Must select your topic and give it to CR or change it yourself in spreadsheet not ruining others work. Sir explained quit well how a presentation should be.. And sir will ask each member of a group of their individual task of that presentation and overall goal of the presentation. SO keep that in mind
+5. Thursday(31):
+	1. CR will inform about that
