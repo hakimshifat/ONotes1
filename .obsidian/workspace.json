@@ -4,78 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2c63221a00afb5b0",
+        "id": "f6a99e9c17d6221b",
         "type": "tabs",
-        "dimension": 81.68498168498168,
         "children": [
           {
-            "id": "72b2f48fb306cf6b",
+            "id": "129b18da0600b709",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Weekend TODO.md",
-                "mode": "source",
-                "source": false
-              }
-            },
-            "group": "3876b27d9792a68e"
-          },
-          {
-            "id": "06a42290b54b5c80",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/25-08-2023.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
-          }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "282d608a02e818fa",
-        "type": "tabs",
-        "dimension": 18.315018315018314,
-        "children": [
-          {
-            "id": "026e1271210ca397",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "Weekend TODO.md",
-                "options": {
-                  "collapse-filter": true,
-                  "search": "",
-                  "localJumps": 1,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
-                  "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 1,
-                  "close": false
-                }
-              }
-            },
-            "group": "3876b27d9792a68e"
           }
         ]
       }
@@ -127,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -143,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/25-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -160,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/25-08-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "DailyNotes/25-08-2023.md"
-              }
+              "state": {}
             }
           },
           {
@@ -200,7 +135,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -213,14 +149,16 @@
       "omnisearch:Omnisearch": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "06a42290b54b5c80",
+  "active": "129b18da0600b709",
   "lastOpenFiles": [
+    "Card Comparison.md",
+    "DailyNotes/25-08-2023.md",
     "Weekend TODO.md",
     "Last week Before Midterm.md",
-    "DailyNotes/25-08-2023.md",
     "Math CT-2.md",
     "DailyNotes/24-08-2023.md",
     "1st Semester/ICE/Voltage Source.md",
@@ -247,7 +185,6 @@
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.png",
     "Codeforces Problem Solving.md",
     "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
-    "Codeforces/71A Way Too Long Words.md",
     "Codeforces",
     "Importance of renewable Energy",
     "Untitled.canvas",
