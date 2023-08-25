@@ -62,6 +62,7 @@ The Opposition to the flow of charge through an electrical circuit is called The
 
 Due primarily to "Collisions and friction between free electrons and other electrons, ions and atoms" in the path of motion converts the supplied electricity into heat that raises the temperature
 ![[Pasted image 20230825194220.png]]
+![[Pasted image 20230825201515.png]]
 
 
 
