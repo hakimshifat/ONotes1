@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1st Semester/ICE/ECA.md",
+                "file": "Current Source.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Semester/ICE/ECA.md",
+                "file": "Current Source.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1st Semester/ICE/ECA.md",
+                "file": "Current Source.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1st Semester/ICE/ECA.md"
+                "file": "Current Source.md"
               }
             }
           },
@@ -163,6 +163,9 @@
   },
   "active": "129b18da0600b709",
   "lastOpenFiles": [
+    "1st Semester/ICE/ECA.md",
+    "Current Source.md",
+    "Voltage Source.md",
     "English Presentation.md",
     "Card Comparison.md",
     "Math CT-2.md",
@@ -173,7 +176,6 @@
     "Last week Before Midterm.md",
     "DailyNotes/24-08-2023.md",
     "1st Semester/ICE/Voltage Source.md",
-    "1st Semester/ICE/ECA.md",
     "1st Semester/ICE/Current Source.md",
     "ICPC.md",
     "GBES CT-2.md",
@@ -191,7 +193,6 @@
     "Excalidraw/Drawing 2023-08-23 09.03.20.excalidraw.md",
     "1st Semester/Physics/Optics",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.png",
-    "Codeforces Problem Solving.md",
     "Codeforces",
     "Importance of renewable Energy",
     "Untitled.canvas",
