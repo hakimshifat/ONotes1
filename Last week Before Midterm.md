@@ -7,12 +7,12 @@
 	B:W3:[(53) DETERMINATION OF SPRING CONSTANT AND EFFECTIVE MASS OF GIVEN SPIRAL SPRING OF THE SPRING part 1 - YouTube](https://www.youtube.com/watch?v=2r4OvdHZ7qc&ab_channel=BitterCold) [(53) DETERMINATION OF SPRING CONSTANT AND EFFECTIVE MASS OF GIVEN SPIRAL SPRING OF THE SPRING part 2 - YouTube](https://www.youtube.com/watch?v=t-hLA_kJN94&ab_channel=BitterCold)
 	{SIDENOTE: W3 lab have 2 graphs. So i suggest you to take two graph paper and everyone take pencil eraser and scale with yourself. Because sir may separate you from your group for graph plotting }
 		2. Physics: Last Class was about Youngs Modulus. Hand note will be available on discord asap
-		3. Math: ASSIGNMENT SUBMISSION. MUST USE THE PROVIDED COVER PAGE
+		3. Math: CT-2(Syllebus is given) and ASSIGNMENT SUBMISSION. MUST USE THE PROVIDED COVER PAGE
 
 2. Monday(28)	
 	 1. ICE: Last class was about Branch Analysis, Node analysis... Materials are given in Mams Google Classroom and also in discord.
-	 2. Chemistry: Last Class was about Reactions and Preparation of Alkene, Alkyne. Note that these are beyond mid syllebus
-	 3. Chemistry LAB--Experiment No--6  (MUST BRING APRONE)
+	 2. Chemistry: (CT-2)(Chemical Bonding and Organic (Isomerism and Nomenclature and Alkane Preparation & selective Reactions))  Last Class was about Reactions and Preparation of Alkene, Alkyne. Note that these are beyond mid syllebus
+	 4. Chemistry LAB--Experiment No--6  (MUST BRING APRONE)
 3. Tuesday(29)
 	1. GEBS: Also Beyond Syllebus. Last class was about Independence of Bangladesh
 	2. Math: CR's will inform about that
