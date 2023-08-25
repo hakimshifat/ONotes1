@@ -56,6 +56,7 @@ The nucleus of the hydrogen atom is the proton, a positively charged particle.
 
 
 #                   Resistance
+![[Pasted image 20230825194144.png]]
 
 The Opposition to the flow of charge through an electrical circuit is called The Resistance. Uni: Ohm
 
