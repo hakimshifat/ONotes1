@@ -6,7 +6,7 @@
       {
         "id": "2c63221a00afb5b0",
         "type": "tabs",
-        "dimension": 72.36842105263158,
+        "dimension": 81.68498168498168,
         "children": [
           {
             "id": "72b2f48fb306cf6b",
@@ -14,19 +14,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "Weekend TODO.md",
                 "mode": "source",
                 "source": false
               }
             },
             "group": "3876b27d9792a68e"
+          },
+          {
+            "id": "06a42290b54b5c80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Last week Before Midterm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "282d608a02e818fa",
         "type": "tabs",
-        "dimension": 27.631578947368425,
+        "dimension": 18.315018315018314,
         "children": [
           {
             "id": "026e1271210ca397",
@@ -34,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "Weekend TODO.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -130,7 +143,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "Last week Before Midterm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +160,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "Last week Before Midterm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +183,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math CT-2.md"
+                "file": "Last week Before Midterm.md"
               }
             }
           },
@@ -203,14 +216,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "72b2f48fb306cf6b",
+  "active": "06a42290b54b5c80",
   "lastOpenFiles": [
+    "Weekend TODO.md",
+    "Last week Before Midterm.md",
+    "DailyNotes/25-08-2023.md",
+    "Math CT-2.md",
     "DailyNotes/24-08-2023.md",
     "1st Semester/ICE/Voltage Source.md",
     "1st Semester/ICE/ECA.md",
     "1st Semester/ICE/Current Source.md",
-    "Weekend TODO.md",
-    "Math CT-2.md",
     "ICPC.md",
     "GBES CT-2.md",
     "English Presentation.md",
@@ -233,8 +248,6 @@
     "Codeforces Problem Solving.md",
     "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
     "Codeforces/71A Way Too Long Words.md",
-    "Excalidraw/Drawing 2023-08-22 18.37.31.excalidraw.md",
-    "Codeforces/231A-Team.md",
     "Codeforces",
     "Importance of renewable Energy",
     "Untitled.canvas",
