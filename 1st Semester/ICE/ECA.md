@@ -59,7 +59,7 @@ The nucleus of the hydrogen atom is the proton, a positively charged particle.
 
 The Opposition to the flow of charge through an electrical circuit is called The Resistance. Uni: Ohm
 
-Due primarily to "Collisions and friction between free electrons and other electrons,ions and atoms" in the path of motion converts the suppl
+Due primarily to "Collisions and friction between free electrons and other electrons, ions and atoms" in the path of motion converts the supplied electricity into heat that raises the temperature
 
 
 
