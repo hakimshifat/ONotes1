@@ -11,8 +11,12 @@
             "id": "129b18da0600b709",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "1st Semester/ICE/ECA.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "1st Semester/ICE/ECA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "1st Semester/ICE/ECA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "1st Semester/ICE/ECA.md"
+              }
             }
           },
           {
@@ -155,25 +163,25 @@
   },
   "active": "129b18da0600b709",
   "lastOpenFiles": [
+    "English Presentation.md",
     "Card Comparison.md",
-    "DailyNotes/25-08-2023.md",
-    "Weekend TODO.md",
-    "Last week Before Midterm.md",
     "Math CT-2.md",
+    "nodal points and plane.png",
+    "Untitled.md",
+    "Weekend TODO.md",
+    "DailyNotes/25-08-2023.md",
+    "Last week Before Midterm.md",
     "DailyNotes/24-08-2023.md",
     "1st Semester/ICE/Voltage Source.md",
     "1st Semester/ICE/ECA.md",
     "1st Semester/ICE/Current Source.md",
     "ICPC.md",
     "GBES CT-2.md",
-    "English Presentation.md",
     "beecrowd/Identifying Tea.md",
     "1st Semester/Physics/Optics/Optics-1.md",
-    "Untitled.md",
     "Excalidraw/Deviation by LensDrawing 2023-08-24 17.01.29.excalidraw.md",
     "1st Semester/Physics/Lens.md",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
-    "nodal points and plane.png",
     "Excalidraw/Focal length.excalidraw.md",
     "Excalidraw/Drawing 2023-08-24 11.14.13.excalidraw.md",
     "Excalidraw/Drawing 2023-08-23 09.00.28.excalidraw.md",
@@ -184,7 +192,6 @@
     "1st Semester/Physics/Optics",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.png",
     "Codeforces Problem Solving.md",
-    "Importance of renewable Energy Clean Energy Revolution Powering Bangladeshs Sustainable Future.md",
     "Codeforces",
     "Importance of renewable Energy",
     "Untitled.canvas",
