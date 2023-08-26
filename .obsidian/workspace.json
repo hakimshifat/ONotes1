@@ -23,7 +23,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Weekend TODO.md",
+                "file": "Math CT-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -96,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Weekend TODO.md",
+                "file": "Math CT-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Weekend TODO.md",
+                "file": "Math CT-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Weekend TODO.md"
+                "file": "Math CT-2.md"
               }
             }
           },
@@ -173,8 +173,8 @@
   },
   "active": "bcae511dea070de3",
   "lastOpenFiles": [
-    "Untitled.md",
     "Weekend TODO.md",
+    "Untitled.md",
     "Mess/Bazar List.md",
     "Pasted Images/Pasted image 20230825194220.png",
     "Pasted Images/Pasted image 20230825201515.png",
