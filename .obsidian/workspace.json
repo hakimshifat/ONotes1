@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/25-08-2023.md",
+                "file": "Math CT-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -86,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/25-08-2023.md",
+                "file": "Math CT-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/25-08-2023.md",
+                "file": "Math CT-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/25-08-2023.md"
+                "file": "Math CT-2.md"
               }
             }
           },
@@ -163,11 +162,13 @@
   },
   "active": "129b18da0600b709",
   "lastOpenFiles": [
+    "GBES CT-2.md",
+    "Voltage Source.md",
+    "DailyNotes/25-08-2023.md",
     "Pasted image 20230825201515.png",
     "Pasted image 20230825194220.png",
     "Pasted image 20230825194144.png",
     "Pasted image 20230825192120.png",
-    "Voltage Source.md",
     "Pasted image 20230825192024.png",
     "Pasted image 20230825192021.png",
     "Pasted image 20230825191950.png",
@@ -180,13 +181,11 @@
     "nodal points and plane.png",
     "Untitled.md",
     "Weekend TODO.md",
-    "DailyNotes/25-08-2023.md",
     "Last week Before Midterm.md",
     "DailyNotes/24-08-2023.md",
     "1st Semester/ICE/Voltage Source.md",
     "1st Semester/ICE/Current Source.md",
     "ICPC.md",
-    "GBES CT-2.md",
     "beecrowd/Identifying Tea.md",
     "1st Semester/Physics/Optics/Optics-1.md",
     "Excalidraw/Deviation by LensDrawing 2023-08-24 17.01.29.excalidraw.md",
