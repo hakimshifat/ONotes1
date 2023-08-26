@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "DailyNotes/26-08-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "DailyNotes/26-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "DailyNotes/26-08-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math CT-2.md"
+                "file": "DailyNotes/26-08-2023.md"
               }
             }
           },
@@ -162,6 +162,8 @@
   },
   "active": "129b18da0600b709",
   "lastOpenFiles": [
+    "Math CT-2.md",
+    "DailyNotes/26-08-2023.md",
     "GBES CT-2.md",
     "Voltage Source.md",
     "DailyNotes/25-08-2023.md",
@@ -177,7 +179,6 @@
     "Pasted image 20230825191859.png",
     "English Presentation.md",
     "Card Comparison.md",
-    "Math CT-2.md",
     "nodal points and plane.png",
     "Untitled.md",
     "Weekend TODO.md",
