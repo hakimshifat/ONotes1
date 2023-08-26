@@ -11,15 +11,26 @@
             "id": "129b18da0600b709",
             "type": "leaf",
             "state": {
+              "type": "image",
+              "state": {
+                "file": "Pasted Images/Pasted image 20230825201515.png"
+              }
+            }
+          },
+          {
+            "id": "bcae511dea070de3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/26-08-2023.md",
+                "file": "Weekend TODO.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +96,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/26-08-2023.md",
+                "file": "Weekend TODO.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +113,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/26-08-2023.md",
+                "file": "Weekend TODO.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +136,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/26-08-2023.md"
+                "file": "Weekend TODO.md"
               }
             }
           },
@@ -160,28 +171,30 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "129b18da0600b709",
+  "active": "bcae511dea070de3",
   "lastOpenFiles": [
-    "Math CT-2.md",
+    "Untitled.md",
+    "Weekend TODO.md",
+    "Mess/Bazar List.md",
+    "Pasted Images/Pasted image 20230825194220.png",
+    "Pasted Images/Pasted image 20230825201515.png",
     "DailyNotes/26-08-2023.md",
+    "Pasted Images",
+    "Math CT-2.md",
     "GBES CT-2.md",
     "Voltage Source.md",
     "DailyNotes/25-08-2023.md",
-    "Pasted image 20230825201515.png",
-    "Pasted image 20230825194220.png",
-    "Pasted image 20230825194144.png",
-    "Pasted image 20230825192120.png",
-    "Pasted image 20230825192024.png",
-    "Pasted image 20230825192021.png",
-    "Pasted image 20230825191950.png",
+    "Pasted Images/Pasted image 20230825194144.png",
+    "Pasted Images/Pasted image 20230825192120.png",
+    "Pasted Images/Pasted image 20230825192024.png",
+    "Pasted Images/Pasted image 20230825192021.png",
+    "Pasted Images/Pasted image 20230825191950.png",
     "1st Semester/ICE/ECA.md",
     "Current Source.md",
-    "Pasted image 20230825191859.png",
+    "Pasted Images/Pasted image 20230825191859.png",
     "English Presentation.md",
     "Card Comparison.md",
-    "nodal points and plane.png",
-    "Untitled.md",
-    "Weekend TODO.md",
+    "People/nodal points and plane.png",
     "Last week Before Midterm.md",
     "DailyNotes/24-08-2023.md",
     "1st Semester/ICE/Voltage Source.md",
@@ -196,8 +209,6 @@
     "Excalidraw/Drawing 2023-08-24 11.14.13.excalidraw.md",
     "Excalidraw/Drawing 2023-08-23 09.00.28.excalidraw.md",
     "beecrowd",
-    "Mess/Bazar List.md",
-    "Excalidraw/Principle focus.excalidraw.md",
     "1st Semester/Physics/Optics",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.png",
     "Codeforces",
@@ -207,7 +218,6 @@
     "Mess",
     "Excalidraw",
     "People/University",
-    "People",
-    "1st Semester/Fundamental Chemistry/PDF/Chapter-10__Thermochemistry.pdf"
+    "People"
   ]
 }

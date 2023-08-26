@@ -15,5 +15,13 @@
       "left": 0
     },
     "iconInTabsEnabled": false
+  },
+  "1st Semester": {
+    "iconName": null,
+    "inheritanceIcon": "FabAccessibleIcon"
+  },
+  "beecrowd": {
+    "iconName": null,
+    "inheritanceIcon": "FabDeezer"
   }
 }
