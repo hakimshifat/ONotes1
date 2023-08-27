@@ -11,4 +11,4 @@ How a Ionic or Electrovalent bond is formed/Constituted: The electrostatic attra
 ## Characteristics
 1. Solids at Room Temperature
 2. High Melting points
-3. 
+3. Hard and Brittle
