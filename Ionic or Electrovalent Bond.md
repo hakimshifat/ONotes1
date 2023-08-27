@@ -6,3 +6,9 @@ Formed/Established by transfer of an electron from one atom to another.
 
 How a Ionic or Electrovalent bond is formed/Constituted: The electrostatic attraction between the cation and anion produced by electron-transfer constitutes/forms an Ionic or Electrovalent bond.
 ![[Pasted image 20230827203750.png]]
+
+
+## Characteristics
+1. Solids at Room Temperature
+2. High Melting points
+3. 
