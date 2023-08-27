@@ -8,7 +8,7 @@ Credit: 3.00
 
 What is chemical bonding: A force that acts between two or more atoms to hold them together as a stable molecule.
 1. [[Ionic or Electrovalent Bond]]
-2. Covalent Bond
+2. [[Covalent Bond]]
 3. Coordinate Covalent Bond
 4. Metallic Bond
 

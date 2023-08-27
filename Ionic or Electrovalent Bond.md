@@ -12,3 +12,7 @@ How a Ionic or Electrovalent bond is formed/Constituted: The electrostatic attra
 1. Solids at Room Temperature
 2. High Melting points
 3. Hard and Brittle
+4. Soluble in Water
+5. Conductors of electricity
+6. Ionic reactions are fast
+7. Do not exhibit isomerism
