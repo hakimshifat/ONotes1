@@ -5,7 +5,6 @@ Teacher : [[Prof. Dr. Shahed Rana]]
 Credit: 3.00
 ## Main Topic : [[Chemical Bonding]]
 
-## Sub Topic :
 
 
 
