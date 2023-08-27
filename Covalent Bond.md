@@ -9,4 +9,8 @@ A Shared pair of electrons constitutes a Covalent bond or electron pair bond.
 ![[Pasted image 20230827232848.png]]
 Characteristics:
 1. Low Melting point and boiling point
-2. 
+2. Gas, Liquids or solids at room temperature
+3. Neither Hard nor brittle
+4. Non-conductors of electricity
+5. Exhibits Isomerism
+6. Molecular reactions
