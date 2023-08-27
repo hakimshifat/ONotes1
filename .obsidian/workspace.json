@@ -8,41 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "129b18da0600b709",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Pasted Images/Pasted image 20230825201515.png"
-              }
-            }
-          },
-          {
-            "id": "bcae511dea070de3",
+            "id": "27bc5ad40154cb85",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/27-08-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90fe207189b2bea9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "People/University/Emon.md",
+                "file": "Chemical Bonding.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -92,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -108,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "People/University/Emon.md",
+                "file": "Chemical Bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "People/University/Emon.md",
+                "file": "Chemical Bonding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "People/University/Emon.md"
+                "file": "Chemical Bonding.md"
               }
             }
           },
@@ -183,11 +161,14 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "a8683044208a5b55",
+  "active": "27bc5ad40154cb85",
   "lastOpenFiles": [
+    "1st Semester/Fundamental Chemistry/Chemical Bonding.md",
+    "Chemical Bonding.md",
+    "ICPC.md",
+    "People/University/Emon.md",
     "Templates/Person of Interest.md",
     "DailyNotes/27-08-2023.md",
-    "People/University/Emon.md",
     "Untitled",
     "Math CT-2.md",
     "Weekend TODO.md",
@@ -214,14 +195,11 @@
     "DailyNotes/24-08-2023.md",
     "1st Semester/ICE/Voltage Source.md",
     "1st Semester/ICE/Current Source.md",
-    "ICPC.md",
     "beecrowd/Identifying Tea.md",
     "1st Semester/Physics/Optics/Optics-1.md",
     "Excalidraw/Deviation by LensDrawing 2023-08-24 17.01.29.excalidraw.md",
     "1st Semester/Physics/Lens.md",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
-    "Excalidraw/Focal length.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-24 11.14.13.excalidraw.md",
     "beecrowd",
     "1st Semester/Physics/Optics",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.png",

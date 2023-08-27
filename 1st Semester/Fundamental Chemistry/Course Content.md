@@ -2,7 +2,7 @@
 
 [[Periodic Table]]: Periodic classification of elements, Periodic properties of elements, Properties, and uses of noble gases 
 
-[[Chemical Bonding]]: Types and properties, Lewis’s theory, VBT, MOT, Hybridization, and shapes of molecules Basic Concepts of 
+[[1st Semester/Fundamental Chemistry/Chemical Bonding]]: Types and properties, Lewis’s theory, VBT, MOT, Hybridization, and shapes of molecules Basic Concepts of 
 
 [[Organic Chemistry]]: History, Physical and chemical properties, Classification Hydrocarbon: Chemistry of hydrocarbon, Nomenclature, Properties Selective Organic Reactions: Oxidation-reduction, Substitution, Addition, Polymerization, Alkylation reactions 
 [[Buffer Solution]]: Different concepts of acids-bases, Buffer solution, Mechanism of buffer solution, Henderson-Hasselbalch equation, Water chemistry and pH of water Solutions: Solutions and their classification, Unit expressing concentration, Colligative properties, and dilute solutions, Raoult’s law, Van’t Hoff’s law of osmotic pressure 
