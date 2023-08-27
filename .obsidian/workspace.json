@@ -23,14 +23,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "DailyNotes/27-08-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "90fe207189b2bea9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "People/University/Emon.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -96,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "People/University/Emon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Math CT-2.md",
+                "file": "People/University/Emon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Math CT-2.md"
+                "file": "People/University/Emon.md"
               }
             }
           },
@@ -171,16 +183,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bcae511dea070de3",
+  "active": "a8683044208a5b55",
   "lastOpenFiles": [
+    "Templates/Person of Interest.md",
+    "DailyNotes/27-08-2023.md",
+    "People/University/Emon.md",
+    "Untitled",
+    "Math CT-2.md",
     "Weekend TODO.md",
-    "Untitled.md",
     "Mess/Bazar List.md",
     "Pasted Images/Pasted image 20230825194220.png",
     "Pasted Images/Pasted image 20230825201515.png",
     "DailyNotes/26-08-2023.md",
     "Pasted Images",
-    "Math CT-2.md",
     "GBES CT-2.md",
     "Voltage Source.md",
     "DailyNotes/25-08-2023.md",
@@ -207,7 +222,6 @@
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.md",
     "Excalidraw/Focal length.excalidraw.md",
     "Excalidraw/Drawing 2023-08-24 11.14.13.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-23 09.00.28.excalidraw.md",
     "beecrowd",
     "1st Semester/Physics/Optics",
     "Excalidraw/Drawing 2023-08-23 08.51.47.excalidraw.png",
@@ -217,7 +231,6 @@
     "ONotes",
     "Mess",
     "Excalidraw",
-    "People/University",
-    "People"
+    "People/University"
   ]
 }
