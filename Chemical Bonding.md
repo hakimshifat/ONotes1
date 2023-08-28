@@ -47,8 +47,11 @@ Ex:
 	6. SO42-('')
 
 
+NH3(It has a lone pair electron which pushes the bonds hence the bond angle becomes 107.3 instead of 109.5)
+##### All N Atoms joined by 3 other atoms by covalent bond have pyramidal shape
 
-
+7. PCL3(100)
+8. H2O(104.5) (With two Unshared Electron P)
 
 
 
