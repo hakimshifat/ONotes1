@@ -84,6 +84,12 @@ The Overlapping of Atomic Orbitals halts/stops  at a stage when the atomic nucle
 ![[Pasted image 20230828075306.png]]
 ![[Pasted image 20230828075342.png]]
 ![[Pasted image 20230828075408.png]]
+![[Pasted image 20230828075519.png]]
+
+
+
+# Hybridization
+
 
 ## For next Class
 - [ ] 
