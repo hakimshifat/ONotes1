@@ -39,7 +39,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -106,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemical Bonding.md",
+                "file": "Organic Chemistry.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemical Bonding.md",
+                "file": "Organic Chemistry.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemical Bonding.md"
+                "file": "Organic Chemistry.md"
               }
             }
           },
@@ -181,11 +182,13 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "27bc5ad40154cb85",
+  "active": "157285bb0c05780a",
   "lastOpenFiles": [
+    "Pasted image 20230828130704.png",
+    "Chemical Bonding.md",
+    "Untitled.md",
     "Pasted image 20230828102334.png",
     "Organic Chemistry.md",
-    "Chemical Bonding.md",
     "Pasted image 20230828075519.png",
     "Pasted image 20230828075408.png",
     "Pasted image 20230828075342.png",
@@ -202,7 +205,6 @@
     "DailyNotes/28-08-2023.md",
     "Pasted image 20230828000256.png",
     "Covalent Bond.md",
-    "Pasted image 20230827232848.png",
     "Ionic or Electrovalent Bond.md",
     "1st Semester/Fundamental Chemistry/Chemical Bonding.md",
     "ICPC.md",
@@ -220,7 +222,6 @@
     "DailyNotes/25-08-2023.md",
     "1st Semester/ICE/ECA.md",
     "Current Source.md",
-    "English Presentation.md",
     "beecrowd",
     "1st Semester/Physics/Optics",
     "Codeforces",
