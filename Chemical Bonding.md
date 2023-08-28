@@ -50,9 +50,11 @@ Ex:
 NH3(It has a lone pair electron which pushes the bonds hence the bond angle becomes 107.3 instead of 109.5)
 ##### All N Atoms joined by 3 other atoms by covalent bond have pyramidal shape
 
-7. PCL3(100)
-8. H2O(104.5) (With two Unshared Electron P)
-
+7. PCL3(100)()
+8. H2O(104.5) (With two Unshared Electron Pair, bond angle is compressed to that)
+9. SO2(119.5 with Planer bent)
+### Essential condition for the overlap of electron waves of orbitals are
+1. The orbitals entering into c
 
 
 ## For next Class
