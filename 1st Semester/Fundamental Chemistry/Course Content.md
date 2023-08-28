@@ -4,7 +4,7 @@
 
 [[1st Semester/Fundamental Chemistry/Chemical Bonding]]: Types and properties, Lewis’s theory, VBT, MOT, Hybridization, and shapes of molecules Basic Concepts of 
 
-[[Organic Chemistry]]: History, Physical and chemical properties, Classification Hydrocarbon: Chemistry of hydrocarbon, Nomenclature, Properties Selective Organic Reactions: Oxidation-reduction, Substitution, Addition, Polymerization, Alkylation reactions 
+[[1st Semester/Fundamental Chemistry/Organic Chemistry]]: History, Physical and chemical properties, Classification Hydrocarbon: Chemistry of hydrocarbon, Nomenclature, Properties Selective Organic Reactions: Oxidation-reduction, Substitution, Addition, Polymerization, Alkylation reactions 
 [[Buffer Solution]]: Different concepts of acids-bases, Buffer solution, Mechanism of buffer solution, Henderson-Hasselbalch equation, Water chemistry and pH of water Solutions: Solutions and their classification, Unit expressing concentration, Colligative properties, and dilute solutions, Raoult’s law, Van’t Hoff’s law of osmotic pressure 
 [[Thermochemistry]]: Laws of thermochemistry, Enthalpy, Hess's law, Heat of formation, Kirchoff’s equations, Heat of neutralization, Heat of reaction 
 [[Electrochemistry]]: Conductors & nonconductors, Difference between electrolytic and metallic conduction, Electrolytic conductance, Factors influencing the conductivity of electrolytes, Kohlrausch Law & conductometric titrations 

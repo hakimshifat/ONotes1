@@ -18,6 +18,26 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6b78a29daed21caa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "157285bb0c05780a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Organic Chemistry.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ]
       }
@@ -163,6 +183,9 @@
   },
   "active": "27bc5ad40154cb85",
   "lastOpenFiles": [
+    "Pasted image 20230828102334.png",
+    "Organic Chemistry.md",
+    "Chemical Bonding.md",
     "Pasted image 20230828075519.png",
     "Pasted image 20230828075408.png",
     "Pasted image 20230828075342.png",
@@ -170,7 +193,6 @@
     "Pi Bond.md",
     "Pasted image 20230828074427.png",
     "Excalidraw/Drawing 2023-08-28 07.43.39.excalidraw.md",
-    "Chemical Bonding.md",
     "Sigma Bond.md",
     "Pasted image 20230828074311.png",
     "Pasted image 20230828074303.png",
@@ -181,7 +203,6 @@
     "Pasted image 20230828000256.png",
     "Covalent Bond.md",
     "Pasted image 20230827232848.png",
-    "Pasted image 20230827232836.png",
     "Ionic or Electrovalent Bond.md",
     "1st Semester/Fundamental Chemistry/Chemical Bonding.md",
     "ICPC.md",
@@ -200,7 +221,6 @@
     "1st Semester/ICE/ECA.md",
     "Current Source.md",
     "English Presentation.md",
-    "Card Comparison.md",
     "beecrowd",
     "1st Semester/Physics/Optics",
     "Codeforces",

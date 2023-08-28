@@ -98,6 +98,9 @@ The Overlapping of Atomic Orbitals halts/stops  at a stage when the atomic nucle
 6. The electron waves in hybrid orbitals repel each other and thus tend to be farthest apart
 
 
+![[Pasted image 20230828102334.png]]
+
+
 
 ## For next Class
 - [ ] 
