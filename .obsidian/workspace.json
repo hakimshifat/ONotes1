@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coordinate Covalent Bond.md",
+                "file": "Chemical Bonding.md",
                 "mode": "source",
                 "source": false
               }
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coordinate Covalent Bond.md",
+                "file": "Chemical Bonding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Coordinate Covalent Bond.md",
+                "file": "Chemical Bonding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coordinate Covalent Bond.md"
+                "file": "Chemical Bonding.md"
               }
             }
           },
@@ -163,9 +163,11 @@
   },
   "active": "27bc5ad40154cb85",
   "lastOpenFiles": [
-    "Pasted image 20230828000256.png",
-    "Chemical Bonding.md",
     "Coordinate Covalent Bond.md",
+    "Chemical Bonding.md",
+    "1st Semester/Fundamental Chemistry/Chemical Kinetics.md",
+    "DailyNotes/28-08-2023.md",
+    "Pasted image 20230828000256.png",
     "Covalent Bond.md",
     "Pasted image 20230827232848.png",
     "Pasted image 20230827232836.png",
@@ -191,7 +193,6 @@
     "DailyNotes/25-08-2023.md",
     "Pasted Images/Pasted image 20230825194144.png",
     "Pasted Images/Pasted image 20230825192120.png",
-    "Pasted Images/Pasted image 20230825192024.png",
     "1st Semester/ICE/ECA.md",
     "Current Source.md",
     "English Presentation.md",
@@ -200,7 +201,6 @@
     "DailyNotes/24-08-2023.md",
     "1st Semester/ICE/Voltage Source.md",
     "1st Semester/ICE/Current Source.md",
-    "beecrowd/Identifying Tea.md",
     "beecrowd",
     "1st Semester/Physics/Optics",
     "Codeforces",
