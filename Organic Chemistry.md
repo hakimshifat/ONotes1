@@ -38,6 +38,7 @@ Parial Oxidatoin:
 Primary Alcohol>>>Partial Oxidation>>>Aldehyde
 Secondary Alcohol >>> Partial Oxidation>>>Ketone
 
-## Aldol Condensation:Two Molecule of aldehyde unit produces a molecule of Aldol which is both Aldehyde and Alchol
+## Aldol Condensation : Two Molecule of aldehyde unit produces a molecule of Aldol which is both Aldehyde and Alcohol
 
 Aldehyde + Aldehyde == Aldol
+
