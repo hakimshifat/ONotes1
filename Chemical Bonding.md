@@ -54,7 +54,9 @@ NH3(It has a lone pair electron which pushes the bonds hence the bond angle beco
 8. H2O(104.5) (With two Unshared Electron Pair, bond angle is compressed to that)
 9. SO2(119.5 with Planer bent)
 ### Essential condition for the overlap of electron waves of orbitals are
-1. The orbitals entering into c
+1. The orbitals entering into combination must have only one electron
+2. The Atoms with valence or bonding orbital(half filled) should approach sufficiently close to one another with the axis of their orbitals in proper allignment
+### The Amount Of energy is given off or released per mole at the time of overlapping of atomic orbitals to form a bond is termed as Bond Energy/Stablizition Energy
 
 
 ## For next Class
