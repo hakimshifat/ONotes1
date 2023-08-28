@@ -87,9 +87,15 @@ The Overlapping of Atomic Orbitals halts/stops  at a stage when the atomic nucle
 ![[Pasted image 20230828075519.png]]
 
 
-
+ 
 # Hybridization
-
+### Conditions:
+1. Orbitals on a single atom only would undergo hybridization
+2. There should be very little difference of energy level between them
+3. Number of Hybridized Orbital is equal to the number of Orbital that participated
+4. The Hybrid orbital assume/follows the direction of dominating orbitals
+5. Orbitals undergoes hybridization not the orbitals
+6. The electron waves in hybrid orbitals repel each other and thus tend to be farthest p
 
 ## For next Class
 - [ ] 
