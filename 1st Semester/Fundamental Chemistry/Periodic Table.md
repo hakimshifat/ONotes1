@@ -1,1 +1,0 @@
-![[Chapter-2_Periodic_table.pdf]]

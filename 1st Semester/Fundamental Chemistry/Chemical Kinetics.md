@@ -1,1 +1,0 @@
-![[Chapter-12__Chemical_Kinetics.pdf]]

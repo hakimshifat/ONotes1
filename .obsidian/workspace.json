@@ -13,19 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organic Chemistry.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "157285bb0c05780a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/28-08-2023.md",
+                "file": "Math CT-2.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organic Chemistry.md",
+                "file": "Math CT-2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organic Chemistry.md",
+                "file": "Math CT-2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organic Chemistry.md"
+                "file": "Math CT-2.md"
               }
             }
           },
@@ -174,12 +162,21 @@
   },
   "active": "2708e035f047e6d9",
   "lastOpenFiles": [
-    "assets/Organic Chemistry/image-28082023185940031.png",
-    "assets/Organic Chemistry/image-28082023185706160.png",
-    "assets/Organic Chemistry/image-28082023185542032.png",
+    "Pasted Images/Pasted image 20230825192021.png",
+    "1st Semester/Fundamental Chemistry/assets",
+    "1st Semester/Fundamental Chemistry/Buffer Solution.md",
+    "1st Semester/Fundamental Chemistry/Chemical Bonding.md",
+    "1st Semester/Fundamental Chemistry/Chemical Equilibria.md",
+    "1st Semester/Fundamental Chemistry/Thermochemistry.md",
+    "1st Semester/Fundamental Chemistry/Atomic Structure.md",
+    "1st Semester/Fundamental Chemistry/Chemical Bonding.md",
+    "DailyNotes/Sigma Bond.md",
+    "1st Semester/Fundamental Chemistry/Organic Chemistry.md",
+    "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
+    "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185706160.png",
+    "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185542032.png",
     "1st Semester/ICE/ECA.md",
     "Untitled.md",
-    "Organic Chemistry.md",
     "assets/Unorganized",
     "assets/Unorganized/Pasted image 20230827221306.png",
     "assets/Unorganized/Pasted image 20230828181709.png",
@@ -188,22 +185,18 @@
     "assets/Unorganized/Pasted image 20230828132134.png",
     "assets/Unorganized/Pasted image 20230828131728.png",
     "assets/Unorganized/Pasted image 20230828131723.png",
-    "assets/Unorganized/Pasted image 20230828131311.png",
     "assets/New folder",
     "assets/Unorganized",
-    "assets/Organic Chemistry",
+    "1st Semester/Fundamental Chemistry/assets/Organic Chemistry",
     "assets",
-    "Chemical Bonding.md",
     "DailyNotes/28-08-2023.md",
     "Excalidraw/Drawing 2023-08-28 13.20.46.excalidraw.md",
     "Pi Bond.md",
     "Excalidraw/Drawing 2023-08-28 07.43.39.excalidraw.md",
-    "Sigma Bond.md",
-    "Coordinate Covalent Bond.md",
+    "1st Semester/Fundamental Chemistry/Coordinate Covalent Bond.md",
     "1st Semester/Fundamental Chemistry/Chemical Kinetics.md",
-    "Covalent Bond.md",
-    "Ionic or Electrovalent Bond.md",
-    "1st Semester/Fundamental Chemistry/Chemical Bonding.md",
+    "1st Semester/Fundamental Chemistry/Covalent Bond.md",
+    "1st Semester/Fundamental Chemistry/Ionic or Electrovalent Bond.md",
     "ICPC.md",
     "People/University/Emon.md",
     "Templates/Person of Interest.md",
@@ -211,15 +204,10 @@
     "Math CT-2.md",
     "Weekend TODO.md",
     "Mess/Bazar List.md",
-    "DailyNotes/26-08-2023.md",
     "Pasted Images",
-    "GBES CT-2.md",
-    "Voltage Source.md",
-    "DailyNotes/25-08-2023.md",
     "beecrowd",
     "1st Semester/Physics/Optics",
     "Codeforces",
-    "Importance of renewable Energy",
     "Untitled.canvas"
   ]
 }
