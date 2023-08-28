@@ -31,4 +31,8 @@ Parial Oxidatoin:
 
 # Aldehydes and Ketones: ![[Pasted image 20230828132242.png]]
 
-## Simplest
+## Simplest Ketone: Acetone
+
+### Alcohol to Aldehyde and Ketone is Possible
+![[Pasted image 20230828132419.png]]
+Primary Alcohol>>>Partial Oxidation>>>
