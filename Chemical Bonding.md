@@ -95,7 +95,7 @@ The Overlapping of Atomic Orbitals halts/stops  at a stage when the atomic nucle
 3. Number of Hybridized Orbital is equal to the number of Orbital that participated
 4. The Hybrid orbital assume/follows the direction of dominating orbitals
 5. Orbitals undergoes hybridization not the orbitals
-6. The electron waves in hybrid orbitals repel each other and thus tend to be farthest p
+6. The electron waves in hybrid orbitals repel each other and thus tend to be farthest apart
 
 ## For next Class
 - [ ] 
