@@ -64,6 +64,11 @@ The Overlapping of Atomic Orbitals halts/stops  at a stage when the atomic nucle
 
 ### Stronger Bond>>Shorter Length>>More Energy Set free
 
+![[Pasted image 20230828074012.png]]
+### Two types of Overlapping and Nature in [[Covalent Bond]]
+1. [[Sigma Bond]]
+2. [[Pi Bond]]
 
+|Sigma BOn
 ## For next Class
 - [ ] 
