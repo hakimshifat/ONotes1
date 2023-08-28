@@ -97,5 +97,7 @@ The Overlapping of Atomic Orbitals halts/stops  at a stage when the atomic nucle
 5. Orbitals undergoes hybridization not the orbitals
 6. The electron waves in hybrid orbitals repel each other and thus tend to be farthest apart
 
+
+
 ## For next Class
 - [ ] 
