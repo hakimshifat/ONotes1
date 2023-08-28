@@ -24,9 +24,13 @@ Number of Unpaired dots corresponds to the number of bonds an atom of the elemen
 2. Write the skeleton structure and connecting every bonded pair by a pair of dots or dash(Each bond will consume two electrons)
 3. Distribute electrons to the atoms surrounding the central atom satisfying the octet rule
 4. IF ANY ELECTRON PAIR REMAIN---- distribute to the central atom.
-	1. If there are fewer then 8 electrons on central atom, that suggests multiple bond
+	1. If there are fewer then 8 electrons on central atom, that suggests multiple bond.(Like say there are two electrons in the central atom. Two is less then 8. So it can be assumed that there are a double bond present)
+## Geometries of Molecules
+
+Molecules containing 3 or >3 atoms are 3D or 3 Dimentional
 
 
+# VSEPR Theory(Valence shell electron Repulsion):
 
 
 
