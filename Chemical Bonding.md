@@ -58,6 +58,12 @@ NH3(It has a lone pair electron which pushes the bonds hence the bond angle beco
 2. The Atoms with valence or bonding orbital(half filled) should approach sufficiently close to one another with the axis of their orbitals in proper allignment
 ### The Amount Of energy is given off or released per mole at the time of overlapping of atomic orbitals to form a bond is termed as Bond Energy/Stablizition Energy
 
+The Overlapping of Atomic Orbitals halts/stops  at a stage when the atomic nucleus have come close enough to exercise/feel the repulsive force from the other atom which balances the force of merger.
+
+##### The Equilibrium Distance at which the two atomic nucleus are now held is called the Bond Length
+
+### Stronger Bond>>Shorter Length>>More Energy Set free
+
 
 ## For next Class
 - [ ] 
