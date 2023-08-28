@@ -41,4 +41,6 @@ Secondary Alcohol >>> Partial Oxidation>>>Ketone
 ## Aldol Condensation : Two Molecule of aldehyde unit produces a molecule of Aldol which is both Aldehyde and Alcohol
 
 Aldehyde + Aldehyde == Aldol
+![[Pasted image 20230828181709.png]]
+
 
