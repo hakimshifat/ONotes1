@@ -20,6 +20,11 @@ Number of Unpaired dots corresponds to the number of bonds an atom of the elemen
 
 
 ## Steps:
+1. Calculate the total number of valence electron for the molecule by summing the number of valence electrons for each atoms. (Anion number will be added)
+2. Write the skeleton structure and connecting every bonded pair by a pair of dots or dash(Each bond will consume two electrons)
+3. Distribute electrons to the atoms surrounding the central atom satisfying the octet rule
+4. IF ANY ELECTRON PAIR REMAIN---- distribute to the central atom.
+	1. If there are fewer then 8 electrons on central atom, that suggests multiple bond
 
 
 
