@@ -69,6 +69,11 @@ The Overlapping of Atomic Orbitals halts/stops  at a stage when the atomic nucle
 1. [[Sigma Bond]]
 2. [[Pi Bond]]
 
-|Sigma BOn
+| Sigma Bond                         | Pi Bond                                    |
+| ---------------------------------- | ------------------------------------------ |
+| 1.Formed by end to end overlapping | 1.Sidewise overlap with half-filled        |
+| of half filled atomic orbital      | P orbital only                             |
+| 2.Overlapping takes place along    | 2.Overlapping takes place Perpendicular to |
+| internuclear axis                  | internucleu                                           |
 ## For next Class
 - [ ] 
