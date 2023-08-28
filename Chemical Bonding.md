@@ -32,12 +32,19 @@ Molecules containing 3 or >3 atoms are 3D or 3 Dimentional
 
 # VSEPR Theory(Valence shell electron Repulsion):
 
-#### It states that The Electron Pairs surrounding the central atom will be arranged as far apart as possible to minimize the Electro Static Repulsion between them.
+#### It states that The Electron Pairs surrounding the central atom will be arranged as far apart as possible to minimize the Electro Static Repulsion between them.(DOUBLE BONDS COUNTS AS SAME AS SINGLE BOND IN VERPR THEORY)
 
-1. Multiple Bonds act as a single elctronpair bond for the purpose of vsepr
+1. Multiple Bonds act as a single elctron-pair bond for the purpose of vsepr
 2.  LP-LP > LP-BP > BP-BP
 3. Lone pair electron--Bonding electrons are pushed thus the bond angle decreases
 
+Ex: 
+	1. BeCL2(180)
+	2. CO2(180)
+	3. BF3(120)
+	4. CH4(109.5)
+	5. NH4+('')
+	6. SO42-('')
 
 
 
