@@ -64,6 +64,12 @@ Amino Acid is a special kind of carboxylic acid containing an Amino Group and a 
 
 ## Reaction:
 
+Caboxylic Acid+ Alcohol = Ester
+![[image-28082023185940031.png]]
+
+
+
+
 
 
 
