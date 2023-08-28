@@ -43,4 +43,9 @@ Secondary Alcohol >>> Partial Oxidation>>>Ketone
 Aldehyde + Aldehyde == Aldol
 ![[Pasted image 20230828181709.png]]
 
+![[image-28082023182531512.png]]
+
+
+
+
 

@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "27bc5ad40154cb85",
+            "id": "2708e035f047e6d9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Organic Chemistry.md",
+                "file": "1st Semester/ICE/ECA.md",
                 "mode": "source",
                 "source": false
               }
@@ -81,8 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -98,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Organic Chemistry.md",
+                "file": "1st Semester/ICE/ECA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Organic Chemistry.md",
+                "file": "1st Semester/ICE/ECA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Organic Chemistry.md"
+                "file": "1st Semester/ICE/ECA.md"
               }
             }
           },
@@ -169,28 +168,33 @@
       "omnisearch:Omnisearch": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "templater-obsidian:Templater": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "27bc5ad40154cb85",
+  "active": "2708e035f047e6d9",
   "lastOpenFiles": [
-    "Pasted image 20230828181709.png",
+    "Untitled.md",
+    "Organic Chemistry.md",
+    "assets/Unorganized",
+    "assets/Unorganized/Pasted image 20230827221306.png",
+    "assets/Unorganized/Pasted image 20230828181709.png",
+    "assets/Unorganized/Pasted image 20230828132419.png",
+    "assets/Unorganized/Pasted image 20230828132242.png",
+    "assets/Unorganized/Pasted image 20230828132134.png",
+    "assets/Unorganized/Pasted image 20230828131728.png",
+    "assets/Unorganized/Pasted image 20230828131723.png",
+    "assets/Unorganized/Pasted image 20230828131311.png",
+    "assets/Unorganized/Pasted image 20230828131055.png",
+    "assets/Unorganized/Pasted image 20230828130704.png",
+    "assets/New folder",
+    "assets/Unorganized",
+    "1st Semester/ICE/ECA.md",
+    "assets/Organic Chemistry",
+    "assets",
     "Chemical Bonding.md",
     "DailyNotes/28-08-2023.md",
-    "Pasted image 20230828132419.png",
-    "Pasted image 20230828132242.png",
-    "Pasted image 20230828132134.png",
     "Excalidraw/Drawing 2023-08-28 13.20.46.excalidraw.md",
-    "Organic Chemistry.md",
-    "Pasted image 20230828131728.png",
-    "Pasted image 20230828131723.png",
-    "Pasted image 20230828131311.png",
-    "Pasted image 20230828131055.png",
-    "Pasted image 20230828130704.png",
-    "Untitled.md",
-    "Pasted image 20230828102334.png",
-    "Pasted image 20230828075519.png",
     "Pi Bond.md",
     "Excalidraw/Drawing 2023-08-28 07.43.39.excalidraw.md",
     "Sigma Bond.md",
@@ -203,7 +207,6 @@
     "People/University/Emon.md",
     "Templates/Person of Interest.md",
     "DailyNotes/27-08-2023.md",
-    "Untitled",
     "Math CT-2.md",
     "Weekend TODO.md",
     "Mess/Bazar List.md",
@@ -212,15 +215,10 @@
     "GBES CT-2.md",
     "Voltage Source.md",
     "DailyNotes/25-08-2023.md",
-    "1st Semester/ICE/ECA.md",
     "beecrowd",
     "1st Semester/Physics/Optics",
     "Codeforces",
     "Importance of renewable Energy",
-    "Untitled.canvas",
-    "ONotes",
-    "Mess",
-    "Excalidraw",
-    "People/University"
+    "Untitled.canvas"
   ]
 }
