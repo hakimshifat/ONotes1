@@ -1,6 +1,10 @@
 28-08-2023 13:07
 
 # Alcohol(-OH)
+Types of Alcohol:
+1. Primary
+2. Secondary
+3. Tertiary
 Alcohols are Very Weakly Acidic and they do not react with strong bases like NaOH
 
 ## Two ways to make it
@@ -19,3 +23,12 @@ Which is basically a addition reaction at 280 Degree and 300 Atm Presssure
 
 Parial Oxidatoin: 
 ![[Pasted image 20230828131728.png]]
+
+
+2nd Reaction: Alcohols react with Alcohols to produce hydrogen
+![[Pasted image 20230828132134.png]]
+
+
+# Aldehydes and Ketones: ![[Pasted image 20230828132242.png]]
+
+## Simplest
