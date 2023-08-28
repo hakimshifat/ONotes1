@@ -35,4 +35,9 @@ Parial Oxidatoin:
 
 ### Alcohol to Aldehyde and Ketone is Possible
 ![[Pasted image 20230828132419.png]]
-Primary Alcohol>>>Partial Oxidation>>>
+Primary Alcohol>>>Partial Oxidation>>>Aldehyde
+Secondary Alcohol >>> Partial Oxidation>>>Ketone
+
+## Aldol Condensation:Two Molecule of aldehyde unit produces a molecule of Aldol which is both Aldehyde and Alchol
+
+Aldehyde+Aldehyde
