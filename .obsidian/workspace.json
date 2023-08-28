@@ -20,14 +20,6 @@
             }
           },
           {
-            "id": "6b78a29daed21caa",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
             "id": "157285bb0c05780a",
             "type": "leaf",
             "state": {
@@ -40,7 +32,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,11 +176,13 @@
   },
   "active": "157285bb0c05780a",
   "lastOpenFiles": [
-    "Pasted image 20230828130704.png",
+    "Pasted image 20230828131311.png",
+    "Pasted image 20230828131055.png",
     "Chemical Bonding.md",
+    "Organic Chemistry.md",
+    "Pasted image 20230828130704.png",
     "Untitled.md",
     "Pasted image 20230828102334.png",
-    "Organic Chemistry.md",
     "Pasted image 20230828075519.png",
     "Pasted image 20230828075408.png",
     "Pasted image 20230828075342.png",
@@ -199,11 +193,9 @@
     "Sigma Bond.md",
     "Pasted image 20230828074311.png",
     "Pasted image 20230828074303.png",
-    "Pasted image 20230828074012.png",
     "Coordinate Covalent Bond.md",
     "1st Semester/Fundamental Chemistry/Chemical Kinetics.md",
     "DailyNotes/28-08-2023.md",
-    "Pasted image 20230828000256.png",
     "Covalent Bond.md",
     "Ionic or Electrovalent Bond.md",
     "1st Semester/Fundamental Chemistry/Chemical Bonding.md",
