@@ -32,18 +32,38 @@ Parial Oxidatoin:
 # Aldehydes and Ketones: ![[Pasted image 20230828132242.png]]
 
 ## Simplest Ketone: Acetone
+## Preparetion:
+
 
 ### Alcohol to Aldehyde and Ketone is Possible
 ![[Pasted image 20230828132419.png]]
 Primary Alcohol>>>Partial Oxidation>>>Aldehyde
 Secondary Alcohol >>> Partial Oxidation>>>Ketone
 
-## Aldol Condensation : Two Molecule of aldehyde unit produces a molecule of Aldol which is both Aldehyde and Alcohol
+## Reaction:
+Aldol Condensation : Two Molecule of aldehyde unit produces a molecule of Aldol which is both Aldehyde and Alcohol
 
 Aldehyde + Aldehyde == Aldol
 ![[Pasted image 20230828181709.png]]
 
+
+
+
 ![[image-28082023182531512.png]]
+
+
+
+# Carboxylic Acid![[image-28082023185542032.png]]
+### Usually weak. Not strong like HCl,HNO3,H2SO4
+
+
+Amino Acid is a special kind of carboxylic acid containing an Amino Group and a Carboxyl group.
+## Preparetion:
+### Alcohol/Aldehyde>>Partial/Complete Oxidation>> Carboxylic Acid
+![[image-28082023185706160.png]]
+
+## Reaction:
+
 
 
 
