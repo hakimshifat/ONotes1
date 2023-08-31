@@ -18,12 +18,12 @@
     },
     "iconInTabsEnabled": false
   },
-  "1st Semester": {
-    "iconName": "FabAtlassian",
-    "inheritanceIcon": "FabAccessibleIcon"
-  },
   "beecrowd": {
     "iconName": null,
     "inheritanceIcon": "FabDeezer"
+  },
+  "1st Semester": {
+    "iconName": null,
+    "inheritanceIcon": "FabAmilia"
   }
 }
