@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "English Presentation.md",
+                "file": "1st Semester/Physics/Lens.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aaf3f7bb3dcb6872",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled 1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "English Presentation.md",
+                "file": "Untitled 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "English Presentation.md",
+                "file": "Untitled 1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "English Presentation.md"
+                "file": "Untitled 1.md"
               }
             }
           },
@@ -160,15 +173,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2708e035f047e6d9",
+  "active": "aaf3f7bb3dcb6872",
   "lastOpenFiles": [
-    "GBES CT-2.md",
+    "1st Semester/Physics/Lens.md",
+    "Untitled 1.md",
+    "1st Semester/Physics/Optics/Optics-1.md",
+    "Math CT-2.md",
+    "DailyNotes/31-08-2023.md",
     "English Presentation.md",
+    "GBES CT-2.md",
     "Pi Bond.md",
     "Untitled.md",
     "Weekend TODO.md",
     "DailyNotes/29-08-2023.md",
-    "Math CT-2.md",
     "Last week Before Midterm.md",
     "ICPC.md",
     "Pasted Images/Pasted image 20230825192021.png",
@@ -200,10 +217,6 @@
     "Excalidraw/Drawing 2023-08-28 13.20.46.excalidraw.md",
     "Excalidraw/Drawing 2023-08-28 07.43.39.excalidraw.md",
     "1st Semester/Fundamental Chemistry/Coordinate Covalent Bond.md",
-    "1st Semester/Fundamental Chemistry/Chemical Kinetics.md",
-    "1st Semester/Fundamental Chemistry/Covalent Bond.md",
-    "1st Semester/Fundamental Chemistry/Ionic or Electrovalent Bond.md",
-    "People/University/Emon.md",
     "Pasted Images",
     "beecrowd",
     "1st Semester/Physics/Optics",
