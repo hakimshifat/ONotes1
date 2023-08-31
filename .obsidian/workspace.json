@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Waves and Osciallations.md",
+                "file": "DailyNotes/01-09-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "134dc7a45d5a3d59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "New Basa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,8 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Waves and Osciallations.md",
+                "file": "New Basa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Waves and Osciallations.md",
+                "file": "New Basa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Waves and Osciallations.md"
+                "file": "New Basa.md"
               }
             }
           },
@@ -161,10 +173,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "aaf3f7bb3dcb6872",
+  "active": "134dc7a45d5a3d59",
   "lastOpenFiles": [
-    "1st Semester/Physics/Lens.md",
+    "DailyNotes/01-09-2023.md",
+    "New Basa.md",
     "Waves and Osciallations.md",
+    "1st Semester/Physics/Lens.md",
     "1st Semester/Physics/Optics/Optics-1.md",
     "Math CT-2.md",
     "DailyNotes/31-08-2023.md",
@@ -203,8 +217,6 @@
     "assets",
     "DailyNotes/28-08-2023.md",
     "Excalidraw/Drawing 2023-08-28 13.20.46.excalidraw.md",
-    "Excalidraw/Drawing 2023-08-28 07.43.39.excalidraw.md",
-    "1st Semester/Fundamental Chemistry/Coordinate Covalent Bond.md",
     "Pasted Images",
     "beecrowd",
     "1st Semester/Physics/Optics",
