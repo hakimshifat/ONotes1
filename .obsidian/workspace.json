@@ -94,8 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -188,12 +187,12 @@
   },
   "active": "55703b2451a83bca",
   "lastOpenFiles": [
+    "DailyNotes/03-09-2023.md",
     "DailyNotes/17-08-2023.md",
     "DailyNotes/20-08-2023.md",
     "DailyNotes/02-09-2023.md",
     "Mess/Bazar List.md",
     "L1.md",
-    "DailyNotes/03-09-2023.md",
     "1st Semester/Physics/Lens.md",
     "1st Semester/Physics/Optics/Optics-1.md",
     "DailyNotes/01-09-2023.md",
