@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/17-08-2023.md",
+                "file": "L1.md",
                 "mode": "source",
                 "source": false
               }
@@ -94,7 +94,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -110,7 +111,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/17-08-2023.md",
+                "file": "L1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +128,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/17-08-2023.md",
+                "file": "L1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +151,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/17-08-2023.md"
+                "file": "L1.md"
               }
             }
           },
@@ -187,6 +188,7 @@
   },
   "active": "55703b2451a83bca",
   "lastOpenFiles": [
+    "DailyNotes/17-08-2023.md",
     "DailyNotes/20-08-2023.md",
     "DailyNotes/02-09-2023.md",
     "Mess/Bazar List.md",
@@ -214,7 +216,6 @@
     "1st Semester/Fundamental Chemistry/Chemical Equilibria.md",
     "1st Semester/Fundamental Chemistry/Thermochemistry.md",
     "1st Semester/Fundamental Chemistry/Atomic Structure.md",
-    "1st Semester/Fundamental Chemistry/Chemical Bonding.md",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185706160.png",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185542032.png",
