@@ -25,14 +25,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1st Semester/Physics/Lens.md",
+                "file": "DailyNotes/03-09-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55703b2451a83bca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/17-08-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Semester/Physics/Lens.md",
+                "file": "DailyNotes/17-08-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1st Semester/Physics/Lens.md",
+                "file": "DailyNotes/17-08-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1st Semester/Physics/Lens.md"
+                "file": "DailyNotes/17-08-2023.md"
               }
             }
           },
@@ -173,14 +185,18 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "222814347b6653d4",
+  "active": "55703b2451a83bca",
   "lastOpenFiles": [
-    "1st Semester/Physics/Optics/Optics-1.md",
+    "DailyNotes/20-08-2023.md",
     "DailyNotes/02-09-2023.md",
+    "Mess/Bazar List.md",
+    "L1.md",
+    "DailyNotes/03-09-2023.md",
+    "1st Semester/Physics/Lens.md",
+    "1st Semester/Physics/Optics/Optics-1.md",
     "DailyNotes/01-09-2023.md",
     "New Basa.md",
     "Waves and Osciallations.md",
-    "1st Semester/Physics/Lens.md",
     "Math CT-2.md",
     "DailyNotes/31-08-2023.md",
     "English Presentation.md",
@@ -199,12 +215,9 @@
     "1st Semester/Fundamental Chemistry/Thermochemistry.md",
     "1st Semester/Fundamental Chemistry/Atomic Structure.md",
     "1st Semester/Fundamental Chemistry/Chemical Bonding.md",
-    "DailyNotes/Sigma Bond.md",
-    "1st Semester/Fundamental Chemistry/Organic Chemistry.md",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185706160.png",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185542032.png",
-    "1st Semester/ICE/ECA.md",
     "assets/Unorganized",
     "assets/Unorganized/Pasted image 20230827221306.png",
     "assets/Unorganized/Pasted image 20230828181709.png",
@@ -216,7 +229,6 @@
     "assets/Unorganized",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry",
     "assets",
-    "DailyNotes/28-08-2023.md",
     "Pasted Images",
     "beecrowd",
     "1st Semester/Physics/Optics",
