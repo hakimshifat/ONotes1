@@ -8,43 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "134dc7a45d5a3d59",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/01-09-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "222814347b6653d4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/03-09-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "55703b2451a83bca",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "L1.md",
+                "file": "New Basa.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -94,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "4fa185b6b5e9e4a1",
@@ -111,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "L1.md",
+                "file": "New Basa.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -128,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "L1.md",
+                "file": "New Basa.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -151,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "L1.md"
+                "file": "New Basa.md"
               }
             }
           },
@@ -188,12 +162,13 @@
   },
   "active": "55703b2451a83bca",
   "lastOpenFiles": [
+    "DailyNotes/04-09-2023.md",
+    "L1.md",
     "DailyNotes/03-09-2023.md",
     "DailyNotes/17-08-2023.md",
     "DailyNotes/20-08-2023.md",
     "DailyNotes/02-09-2023.md",
     "Mess/Bazar List.md",
-    "L1.md",
     "1st Semester/Physics/Lens.md",
     "1st Semester/Physics/Optics/Optics-1.md",
     "DailyNotes/01-09-2023.md",
@@ -215,7 +190,6 @@
     "1st Semester/Fundamental Chemistry/Chemical Bonding.md",
     "1st Semester/Fundamental Chemistry/Chemical Equilibria.md",
     "1st Semester/Fundamental Chemistry/Thermochemistry.md",
-    "1st Semester/Fundamental Chemistry/Atomic Structure.md",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185706160.png",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185542032.png",
