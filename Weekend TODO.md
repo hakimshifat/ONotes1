@@ -1,8 +1,0 @@
-- [ ] Physics Lab report(W3) and Rough Sheet (O4)
-- [x] Complete Physics Lectures [[Optics-1]] ✅ 2023-08-26
-- [ ] Chemistry Lab report
-- [ ] Complete [[Math CT-2]]
-- [ ] Complete Chemistry Lectures 
-- [ ] Complete GEBS Lectures
-- [ ] Complete ECA Lab report
-- [ ] 
