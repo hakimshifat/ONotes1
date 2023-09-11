@@ -1,5 +1,5 @@
 - [ ] ECA-Thevnins Theorem(Two sources)
 - [ ] Physics(Optics)
-- [ ] Chemistry
+- [ ] Chemistry(Organic Part)
 - [ ] Phy Lab Report
 - [ ] ECA Lab report
