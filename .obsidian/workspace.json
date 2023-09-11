@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "New Basa.md",
+                "file": "Codeforces/4A Watermelon.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "New Basa.md",
+                "file": "Codeforces/4A Watermelon.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "New Basa.md",
+                "file": "Codeforces/4A Watermelon.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "New Basa.md"
+                "file": "Codeforces/4A Watermelon.md"
               }
             }
           },
@@ -162,6 +162,11 @@
   },
   "active": "55703b2451a83bca",
   "lastOpenFiles": [
+    "Codeforces/71A Way Too Long Words.md",
+    "Codeforces/231A-Team.md",
+    "beecrowd/Identifying Tea.md",
+    "DailyNotes/05-09-2023.md",
+    "New Basa.md",
     "DailyNotes/04-09-2023.md",
     "L1.md",
     "DailyNotes/03-09-2023.md",
@@ -172,7 +177,6 @@
     "1st Semester/Physics/Lens.md",
     "1st Semester/Physics/Optics/Optics-1.md",
     "DailyNotes/01-09-2023.md",
-    "New Basa.md",
     "Waves and Osciallations.md",
     "Math CT-2.md",
     "DailyNotes/31-08-2023.md",
@@ -186,10 +190,6 @@
     "ICPC.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
-    "1st Semester/Fundamental Chemistry/Buffer Solution.md",
-    "1st Semester/Fundamental Chemistry/Chemical Bonding.md",
-    "1st Semester/Fundamental Chemistry/Chemical Equilibria.md",
-    "1st Semester/Fundamental Chemistry/Thermochemistry.md",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185706160.png",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185542032.png",
