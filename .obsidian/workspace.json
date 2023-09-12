@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day-3.md",
+                "file": "Codeforces/231A-Team.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Day-3.md",
+                "file": "Codeforces/231A-Team.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Day-3.md",
+                "file": "Codeforces/231A-Team.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Day-3.md"
+                "file": "Codeforces/231A-Team.md"
               }
             }
           },
@@ -162,6 +162,8 @@
   },
   "active": "fe453c295cdd6c73",
   "lastOpenFiles": [
+    "Codeforces/71A Way Too Long Words.md",
+    "Codeforces/4A Watermelon.md",
     "DailyNotes/12-09-2023.md",
     "Day-3.md",
     "Templates/ECA-Template.md",
@@ -179,8 +181,6 @@
     "ICPC.md",
     "L1.md",
     "Weekend TODO.md",
-    "Codeforces/4A Watermelon.md",
-    "Codeforces/71A Way Too Long Words.md",
     "Codeforces/231A-Team.md",
     "beecrowd/Identifying Tea.md",
     "DailyNotes/05-09-2023.md",
