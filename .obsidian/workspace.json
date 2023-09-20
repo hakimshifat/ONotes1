@@ -23,9 +23,11 @@
             "id": "a90dcb2e43302c32",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.4.12"
+                "file": "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -96,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/13-09-2023.md",
+                "file": "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/13-09-2023.md",
+                "file": "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -136,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/13-09-2023.md"
+                "file": "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md"
               }
             }
           },
@@ -183,6 +185,10 @@
   },
   "active": "a90dcb2e43302c32",
   "lastOpenFiles": [
+    "1st Semester/Teachers/Md Jahangir Kabir Talukder, PhD.md",
+    "1st Semester/Teachers/Prof. Dr. Shahed Rana.md",
+    "1st Semester/Teachers/Prof. Dr. Md Masud Rana.md",
+    "DailyNotes/20-09-2023.md",
     "Codeforces/231A-Team.md",
     "DailyNotes/13-09-2023.md",
     "Codeforces/71A Way Too Long Words.md",
@@ -205,10 +211,6 @@
     "L1.md",
     "Weekend TODO.md",
     "beecrowd/Identifying Tea.md",
-    "DailyNotes/05-09-2023.md",
-    "New Basa.md",
-    "DailyNotes/04-09-2023.md",
-    "DailyNotes/17-08-2023.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
