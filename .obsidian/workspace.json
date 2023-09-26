@@ -8,42 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fe453c295cdd6c73",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/13-09-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a90dcb2e43302c32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d0d4667cce78847d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/26-09-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "b8cac4e2937fb0ba",
             "type": "leaf",
             "state": {
@@ -55,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
