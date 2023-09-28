@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1st Semester/Teachers/Prof. Dr. Shahed Rana.md",
+                "file": "DailyNotes/28-09-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bd5df78dc69bbff9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Presentation 2.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Semester/Teachers/Prof. Dr. Shahed Rana.md",
+                "file": "Presentation 2.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1st Semester/Teachers/Prof. Dr. Shahed Rana.md",
+                "file": "Presentation 2.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1st Semester/Teachers/Prof. Dr. Shahed Rana.md"
+                "file": "Presentation 2.md"
               }
             }
           },
@@ -170,12 +183,14 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "b8cac4e2937fb0ba",
+  "active": "bd5df78dc69bbff9",
   "lastOpenFiles": [
+    "DailyNotes/28-09-2023.md",
+    "Presentation 2.md",
+    "1st Semester/Teachers/Prof. Dr. Shahed Rana.md",
     "DailyNotes/26-09-2023.md",
     "October1stweek.md",
     "1st Semester/Teachers/Md Jahangir Kabir Talukder, PhD.md",
-    "1st Semester/Teachers/Prof. Dr. Shahed Rana.md",
     "1st Semester/Teachers/Prof. Dr. Md Masud Rana.md",
     "DailyNotes/20-09-2023.md",
     "Codeforces/231A-Team.md",
@@ -196,8 +211,6 @@
     "DailyNotes/08-09-2023.md",
     "DailyNotes/07-09-2023.md",
     "English Presentation.md",
-    "ICPC.md",
-    "L1.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
