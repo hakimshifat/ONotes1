@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b8cac4e2937fb0ba",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/28-09-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "bd5df78dc69bbff9",
             "type": "leaf",
             "state": {
@@ -31,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -185,6 +172,8 @@
   },
   "active": "bd5df78dc69bbff9",
   "lastOpenFiles": [
+    "Untitled.md",
+    "DailyNotes/02-10-2023.md",
     "DailyNotes/28-09-2023.md",
     "Presentation 2.md",
     "1st Semester/Teachers/Prof. Dr. Shahed Rana.md",
@@ -209,8 +198,6 @@
     "DailyNotes/10-09-2023.md",
     "DailyNotes/09-09-2023.md",
     "DailyNotes/08-09-2023.md",
-    "DailyNotes/07-09-2023.md",
-    "English Presentation.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",

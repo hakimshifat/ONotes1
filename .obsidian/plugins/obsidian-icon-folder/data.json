@@ -6,6 +6,8 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "FabAmazon",
+      "FabAdn",
       "FabAtlassian"
     ],
     "recentlyUsedIconsSize": 5,
@@ -22,8 +24,6 @@
     "iconName": null,
     "inheritanceIcon": "FabDeezer"
   },
-  "1st Semester": {
-    "iconName": null,
-    "inheritanceIcon": "FabAmilia"
-  }
+  "1st Semester/Communicative English": "FabAdn",
+  "1st Semester": "FabAmazon"
 }
