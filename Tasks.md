@@ -1,8 +1,14 @@
 - [x] Equivalent Lens ([(48) Equivalent Focal length of Combination of two thin lens (Geometrical optics lecture :16) - YouTube](https://www.youtube.com/watch?v=kqoDmyFFyQQ&t=523s&ab_channel=AnshuKapoor)) ✅ 2023-10-06
 - [x] Power of lens ✅ 2023-10-06
-- [ ] Chromatic Abbaration
-- [ ] 
+- [ ] Chromatic Abberation
+- [ ] Spherical Abberation
+- [ ] How to Minimize Abberation
+- [ ] Comma
+- [ ] Astigmatism
 - [ ] Diffraction
+- [ ] Newtons Ring
+- [ ] Double Slit Experiment
+- [ ] Single Slit Experiment
 - [ ] Polarization (WITHOUT DOUBLE SLIT AND MISSING ORDER)
 - [ ] Physics Lab Viva Prep
 - [ ] Prep English Presentatin slide and points to talk
