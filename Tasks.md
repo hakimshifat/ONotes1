@@ -1,0 +1,6 @@
+- [ ] Diffraction
+- [ ] Polarization (WITHOUT DOUBLE SLIT AND MISSING ORDER)
+- [ ] Physics Lab Viva Prep
+- [ ] Prep English Presentatin slide and points to talk
+- [ ] survey?
+- [ ] Math CT Prep
