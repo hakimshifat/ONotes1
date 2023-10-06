@@ -1,3 +1,4 @@
+- [ ] Equivalent Lens ([(48) Equivalent Focal length of Combination of two thin lens (Geometrical optics lecture :16) - YouTube](https://www.youtube.com/watch?v=kqoDmyFFyQQ&t=523s&ab_channel=AnshuKapoor))
 - [ ] Diffraction
 - [ ] Polarization (WITHOUT DOUBLE SLIT AND MISSING ORDER)
 - [ ] Physics Lab Viva Prep
