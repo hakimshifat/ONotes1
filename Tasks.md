@@ -5,10 +5,10 @@
 - [ ] How to Minimize Abberation
 - [ ] Comma
 - [ ] Astigmatism
-- [ ] Diffraction
+- [x] Diffraction ✅ 2023-10-07
 - [ ] Newtons Ring
 - [ ] Double Slit Experiment
-- [ ] Single Slit Experiment
+- [x] Single Slit Experiment ✅ 2023-10-07
 - [ ] Polarization (WITHOUT DOUBLE SLIT AND MISSING ORDER)
 - [ ] Physics Lab Viva Prep
 - [ ] Prep English Presentatin slide and points to talk
