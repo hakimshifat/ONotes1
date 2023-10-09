@@ -23,8 +23,12 @@ Speaker 2: Maisha Maliha
 
 4. importance of mental health
 5. examples of mental health conditions
-
-7. What causes these issues
+- Most common mental health disorders includes
+	 - Mood disorders(depression, bipolar disorder, etc)
+	 - Phychotic disorders(schizophrenia, schizoaffective disorder, etc.)
+	 - Anxiety disorders (generalized anxiety disorder, post-traumatic stress disorder, phobias, etc.)
+	
+1. What causes these issues
 
 
 
