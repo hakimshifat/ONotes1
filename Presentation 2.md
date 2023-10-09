@@ -27,7 +27,6 @@ Speaker 2: Maisha Maliha
 	 - Mood disorders(depression, bipolar disorder, etc)
 	 - Phychotic disorders(schizophrenia, schizoaffective disorder, etc.)
 	 - Anxiety disorders (generalized anxiety disorder, post-traumatic stress disorder, phobias, etc.)
-	
 1. What causes these issues
 
 
