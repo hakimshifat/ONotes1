@@ -11,10 +11,11 @@ Introudction:
 - I was suffering from uncentainty which was affecting my mental health...
 
 Introduction(Cont.)
-•According to the WHO, Health is a state of complete physical, mental, social well being and not merely the absence of disease and infirmity. This shows that mental health is indeed an integral and indispensable part of human health.
+•According to the WHO, Health is a state of complete physical, mental, social well being and not merely the absence of disease and infirmity. This shows that mental health is indeed an integral and indispensable part of human health that cannot be neglected
 
 What is meant by Mental Health:
-- **Mental illness** is a term used to describe mental health conditions that impact mood, thinking, and behavior
+- **Mental illness** is a  part of mental health that is used to describe mental health conditions that impacts a persons mood, thinking, and behavior.
+- If someone cannot think properly and cannot behave properly he wont be able to perform his daily necessary task.
 
 
 
@@ -22,7 +23,8 @@ Speaker 2: Maisha Maliha
 
 4. importance of mental health
 5. examples of mental health conditions
-6. What causes these issues
+
+7. What causes these issues
 
 
 
