@@ -7,12 +7,13 @@ Speaker 1: Tasdik Muttaki
 3. what is meant by mental health
 
 Slide-1:
-Exactly One Years Ago. I was not a student of BUP.I was physically fully fine.But i felt i was lacking something.
+- Exactly One Years Ago. I was not a student of BUP.I was physically fully fine .But i felt i was lacking something. Anyone care to guess?
+- I was suffering from uncentainty which was affecting my mental health..
 
 Slide-2:
 •According to the WHO, Health is a state of complete physical, mental, social well being and not merely the absence of disease and infirmity. This shows that mental health is indeed an integral and indispensable part of human health.
 
-I want you focus on the term Mental here
+
 
 Speaker 2: Maisha Maliha
 
