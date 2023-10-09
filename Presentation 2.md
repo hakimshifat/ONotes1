@@ -14,7 +14,7 @@ Introduction(Cont.)
 •According to the WHO, Health is a state of complete physical, mental, social well being and not merely the absence of disease and infirmity. This shows that mental health is indeed an integral and indispensable part of human health.
 
 What is meant by Mental Health:
-- A Persons Mental Health can
+- **Mental illness** is a term used to describe mental health conditions that impact mood, thinking, and behavior
 
 
 
