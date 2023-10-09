@@ -6,13 +6,15 @@ Speaker 1: Tasdik Muttaki
 2. Definition of health
 3. what is meant by mental health
 
-Exactly One Years Ago. I was not a student of BUP.I had everything a person needed to be healthy.
+Exactly One Years Ago. I was not a student of BUP.I had everything a person can normally need
 
 Speaker 2: Maisha Maliha
 
 4. importance of mental health
 5. examples of mental health conditions
 6. What causes these issues
+
+
 
 Speaker 3: Aurpy
 
