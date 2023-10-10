@@ -19,8 +19,8 @@ We will try our best to present all of this to you and keep as engaging  and als
 
 Next slide: Definition []…… 
 
-Misha:
+Misha: 
 
 Aurpy:
 
-Shifat:
+Shifat: In Conclusion, lets summerize the entire thing from beginning. We have seen What is mental health and why it is important. We have learned that it is as important as Physical health for a persons wellbeing. We have seen the examp
