@@ -26,4 +26,4 @@ Aurpy:
 Shifat:
 
 In Conclusion, lets summerize the entire thing from beginning. We have seen What is mental health and why it is important. We have learned that it is as important as Physical health for a persons overall health and wellbeing. We have seen the examples and causes of mental health condition. We have also seen the most people that are affected by mental health conditions are aged 18-24 and also the most common desease is Depression and loneliness. And according to our research the reason behind it is excessive use of social media. According to WHO, by 2030 , the mental health issue will be the most spoken topic due to the sudden rise of social media and the depression it brings with.
-We have also discussed the way of prevention.
+We have also discussed the way of prevention. The most simple way of this is to JUST TALK. But nowadays we have made it a taboo and dont really want to talk about it. Thats why our solution was a simple app that is affordable for everyone and provides immediate professional support. But it also have some drawbacks t
