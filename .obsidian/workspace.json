@@ -46,8 +46,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -113,7 +112,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Scripts.md",
+                "file": "DailyNotes/10-10-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +129,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Scripts.md",
+                "file": "DailyNotes/10-10-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +152,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Scripts.md"
+                "file": "DailyNotes/10-10-2023.md"
               }
             }
           },
@@ -198,13 +197,13 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "0aa0b5d5b9d22f71",
+  "active": "bd5df78dc69bbff9",
   "lastOpenFiles": [
-    "DailyNotes/10-10-2023.md",
+    "Untitled.canvas",
     "Scripts.md",
+    "DailyNotes/10-10-2023.md",
     "Mental Health.md",
     "DailyNotes/09-10-2023.md",
-    "Untitled.canvas",
     "Tasks.md",
     "DailyNotes/07-10-2023.md",
     "Day-3.md",
@@ -226,7 +225,6 @@
     "Templates/GBES-Template.md",
     "Templates/ChemistryClassNote.md",
     "Templates/DailyNotesTemplate.md",
-    "DailyNotes/03-09-2023.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
