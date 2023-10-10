@@ -20,6 +20,18 @@
             }
           },
           {
+            "id": "87c9c42aea116dd9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Mental Health.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "0aa0b5d5b9d22f71",
             "type": "leaf",
             "state": {
@@ -46,7 +58,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -112,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/10-10-2023.md",
+                "file": "Mental Health.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/10-10-2023.md",
+                "file": "Mental Health.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -152,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/10-10-2023.md"
+                "file": "Mental Health.md"
               }
             }
           },
@@ -197,11 +210,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "bd5df78dc69bbff9",
+  "active": "87c9c42aea116dd9",
   "lastOpenFiles": [
+    "Presentation-3.md",
+    "DailyNotes/10-10-2023.md",
     "Untitled.canvas",
     "Scripts.md",
-    "DailyNotes/10-10-2023.md",
     "Mental Health.md",
     "DailyNotes/09-10-2023.md",
     "Tasks.md",
