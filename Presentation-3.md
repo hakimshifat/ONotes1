@@ -23,4 +23,4 @@ Misha:
 
 Aurpy:
 
-Shifat: In Conclusion, lets summerize the entire thing from beginning. We have seen What is mental health and why it is important. We have learned that it is as important as Physical health for a persons wellbeing. We have seen the examp
+Shifat: In Conclusion, lets summerize the entire thing from beginning. We have seen What is mental health and why it is important. We have learned that it is as important as Physical health for a persons overall health and wellbeing. We have seen the examples and causes of mental health condition. We have also seen the m
