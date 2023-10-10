@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mental Health.md",
+                "file": "Presentation-3.md",
                 "mode": "source",
                 "source": false
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Mental Health.md",
+                "file": "Presentation-3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Mental Health.md",
+                "file": "Presentation-3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +165,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Mental Health.md"
+                "file": "Presentation-3.md"
               }
             }
           },
@@ -212,11 +212,11 @@
   },
   "active": "87c9c42aea116dd9",
   "lastOpenFiles": [
-    "Presentation-3.md",
+    "Mental Health.md",
+    "Scripts.md",
     "DailyNotes/10-10-2023.md",
     "Untitled.canvas",
-    "Scripts.md",
-    "Mental Health.md",
+    "Presentation-3.md",
     "DailyNotes/09-10-2023.md",
     "Tasks.md",
     "DailyNotes/07-10-2023.md",
@@ -238,7 +238,6 @@
     "Templates/ECA-Template.md",
     "Templates/GBES-Template.md",
     "Templates/ChemistryClassNote.md",
-    "Templates/DailyNotesTemplate.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
