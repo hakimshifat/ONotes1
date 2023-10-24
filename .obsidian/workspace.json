@@ -25,36 +25,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Presentation-3.md",
+                "file": "Tasks.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "0aa0b5d5b9d22f71",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Scripts.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "47dbc18871fbc523",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
               }
             }
           }
@@ -125,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Presentation-3.md",
+                "file": "Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Presentation-3.md",
+                "file": "Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -165,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Presentation-3.md"
+                "file": "Tasks.md"
               }
             }
           },
@@ -212,13 +185,15 @@
   },
   "active": "87c9c42aea116dd9",
   "lastOpenFiles": [
-    "Mental Health.md",
-    "Scripts.md",
-    "DailyNotes/10-10-2023.md",
-    "Untitled.canvas",
-    "Presentation-3.md",
-    "DailyNotes/09-10-2023.md",
+    "People/nodal points and plane.png",
     "Tasks.md",
+    "Mental Health.md",
+    "Presentation-3.md",
+    "Scripts.md",
+    "DailyNotes/12-10-2023.md",
+    "Untitled.canvas",
+    "DailyNotes/10-10-2023.md",
+    "DailyNotes/09-10-2023.md",
     "DailyNotes/07-10-2023.md",
     "Day-3.md",
     "October1stweek.md",
@@ -237,7 +212,6 @@
     "DailyNotes/12-09-2023.md",
     "Templates/ECA-Template.md",
     "Templates/GBES-Template.md",
-    "Templates/ChemistryClassNote.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
