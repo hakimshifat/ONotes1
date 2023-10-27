@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bd5df78dc69bbff9",
+            "id": "ed90fe9f140ce688",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/10-10-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "87c9c42aea116dd9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
+                "file": "DailyNotes/27-10-2023.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
+                "file": "DailyNotes/27-10-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
+                "file": "DailyNotes/27-10-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md"
+                "file": "DailyNotes/27-10-2023.md"
               }
             }
           },
@@ -178,13 +165,16 @@
       "command-palette:Open command palette": false,
       "omnisearch:Omnisearch": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
-      "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "87c9c42aea116dd9",
+  "active": "ed90fe9f140ce688",
   "lastOpenFiles": [
+    "DailyNotes/10-10-2023.md",
+    "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
+    "DailyNotes/27-10-2023.md",
     "DailyNotes/24-10-2023.md",
     "Tasks.md",
     "People/nodal points and plane.png",
@@ -193,7 +183,6 @@
     "Scripts.md",
     "DailyNotes/12-10-2023.md",
     "Untitled.canvas",
-    "DailyNotes/10-10-2023.md",
     "DailyNotes/09-10-2023.md",
     "DailyNotes/07-10-2023.md",
     "Day-3.md",
@@ -211,8 +200,6 @@
     "Codeforces/71A Way Too Long Words.md",
     "Codeforces/4A Watermelon.md",
     "DailyNotes/12-09-2023.md",
-    "Templates/ECA-Template.md",
-    "Templates/GBES-Template.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
