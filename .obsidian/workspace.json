@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4c166d40ac771a64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/29-08-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -170,9 +183,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed90fe9f140ce688",
+  "active": "4c166d40ac771a64",
   "lastOpenFiles": [
     "DailyNotes/28-10-2023.md",
+    "DailyNotes/28-09-2023.md",
+    "Random Notes.md",
+    "DailyNotes/29-08-2023.md",
     "1st Semester/Teachers/Md Jahangir Kabir Talukder, PhD.md",
     "DailyNotes/Sigma Bond.md",
     "DailyNotes/28-08-2023.md",
@@ -193,13 +209,10 @@
     "October1stweek.md",
     "DailyNotes/06-10-2023.md",
     "DailyNotes/02-10-2023.md",
-    "DailyNotes/28-09-2023.md",
     "1st Semester/Teachers/Prof. Dr. Shahed Rana.md",
     "DailyNotes/26-09-2023.md",
     "1st Semester/Teachers/Prof. Dr. Md Masud Rana.md",
     "DailyNotes/20-09-2023.md",
-    "Codeforces/231A-Team.md",
-    "DailyNotes/13-09-2023.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
