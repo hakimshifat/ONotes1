@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/29-08-2023.md",
+                "file": "DailyNotes/01-11-2023.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "790bc333cf371ba7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics_Online_01.11.23.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/29-08-2023.md",
+                "file": "Physics_Online_01.11.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/29-08-2023.md",
+                "file": "Physics_Online_01.11.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/29-08-2023.md"
+                "file": "Physics_Online_01.11.23.md"
               }
             }
           },
@@ -170,10 +183,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed90fe9f140ce688",
+  "active": "790bc333cf371ba7",
   "lastOpenFiles": [
-    "DailyNotes/30-08-2023.md",
     "DailyNotes/01-11-2023.md",
+    "Physics_Online_01.11.23.md",
+    "DailyNotes/30-08-2023.md",
     "DailyNotes/29-08-2023.md",
     "DailyNotes/30-10-2023.md",
     "DailyNotes/31-08-2023.md",
@@ -199,7 +213,6 @@
     "DailyNotes/07-10-2023.md",
     "Day-3.md",
     "October1stweek.md",
-    "DailyNotes/06-10-2023.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
