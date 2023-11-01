@@ -12,4 +12,10 @@ NO----PhotoElectric, Bohr, Fission, Fusion
 
 Compton---1
 
+Spherical abberation
+how to minimize
+comma
+stigmatizm
+Figures are must
+
 
