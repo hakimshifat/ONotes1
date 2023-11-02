@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Physics_Online_01.11.23.md",
+                "file": "DailyNotes/02-11-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics_Online_01.11.23.md",
+                "file": "DailyNotes/02-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics_Online_01.11.23.md",
+                "file": "DailyNotes/02-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics_Online_01.11.23.md"
+                "file": "DailyNotes/02-11-2023.md"
               }
             }
           },
@@ -185,8 +185,9 @@
   },
   "active": "790bc333cf371ba7",
   "lastOpenFiles": [
-    "DailyNotes/01-11-2023.md",
     "Physics_Online_01.11.23.md",
+    "DailyNotes/02-11-2023.md",
+    "DailyNotes/01-11-2023.md",
     "DailyNotes/30-08-2023.md",
     "DailyNotes/29-08-2023.md",
     "DailyNotes/30-10-2023.md",
@@ -212,7 +213,6 @@
     "DailyNotes/09-10-2023.md",
     "DailyNotes/07-10-2023.md",
     "Day-3.md",
-    "October1stweek.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
