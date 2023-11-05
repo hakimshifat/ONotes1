@@ -11,8 +11,12 @@
             "id": "1c2af6bb549c4f21",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "DailyNotes/05-11-2023.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "DailyNotes/05-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "DailyNotes/05-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "DailyNotes/05-11-2023.md"
+              }
             }
           },
           {
@@ -164,8 +172,11 @@
   },
   "active": "1c2af6bb549c4f21",
   "lastOpenFiles": [
-    "DailyNotes/02-11-2023.md",
+    "Tasks.md",
+    "DailyNotes/05-11-2023.md",
     "Physics_Online_01.11.23.md",
+    "DailyNotes/03-11-2023.md",
+    "DailyNotes/02-11-2023.md",
     "DailyNotes/01-11-2023.md",
     "DailyNotes/30-08-2023.md",
     "DailyNotes/29-08-2023.md",
@@ -182,7 +193,6 @@
     "DailyNotes/10-10-2023.md",
     "1st Semester/Teachers/MD. Mashfiqur Rahman Abrar.md",
     "DailyNotes/24-10-2023.md",
-    "Tasks.md",
     "People/nodal points and plane.png",
     "Mental Health.md",
     "Presentation-3.md",
@@ -190,8 +200,6 @@
     "DailyNotes/12-10-2023.md",
     "Untitled.canvas",
     "DailyNotes/09-10-2023.md",
-    "DailyNotes/07-10-2023.md",
-    "Day-3.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
