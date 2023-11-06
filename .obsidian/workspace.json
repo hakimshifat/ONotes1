@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1c2af6bb549c4f21",
+            "id": "5140da277a52e3e6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/05-11-2023.md",
+                "file": "Finals.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/05-11-2023.md",
+                "file": "Finals.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/05-11-2023.md",
+                "file": "Finals.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/05-11-2023.md"
+                "file": "Finals.md"
               }
             }
           },
@@ -170,10 +170,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "1c2af6bb549c4f21",
+  "active": "5140da277a52e3e6",
   "lastOpenFiles": [
-    "Tasks.md",
+    "DailyNotes/06-11-2023.md",
+    "Finals.md",
     "DailyNotes/05-11-2023.md",
+    "Tasks.md",
     "Physics_Online_01.11.23.md",
     "DailyNotes/03-11-2023.md",
     "DailyNotes/02-11-2023.md",
@@ -197,9 +199,7 @@
     "Mental Health.md",
     "Presentation-3.md",
     "Scripts.md",
-    "DailyNotes/12-10-2023.md",
     "Untitled.canvas",
-    "DailyNotes/09-10-2023.md",
     "Pasted Images/Pasted image 20230825192021.png",
     "1st Semester/Fundamental Chemistry/assets",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry/image-28082023185940031.png",
