@@ -1,4 +1,4 @@
-Lecture-1:
+# Lecture-1:
 
 - Summery:
 
@@ -52,3 +52,4 @@ In summary, while Bangladesh's location offers several advantages, such as acces
 3. Easy maritime connections give Bangladesh extra significance in world affairs and provide added advantage for its export and import activities.
 4. Being located in the Indo-Gangetic plain provides Bangladesh with high fertility of land and high productivity in agriculture.
 5. However, the geo-strategic location also makes Bangladesh prone to natural disasters such as cyclones, floods, river bank erosion, and salinity.
+
