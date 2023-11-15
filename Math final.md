@@ -4,9 +4,9 @@ Math Syllabus checklist:
 - [ ] Continuity---1
 - [ ] Continuity Interval
 - [ ] Squeeze theorem
-- [ ] Checking Differentiblity----1
-- [ ] Rate of change, tangent
-- [ ] Minima,Maxima,Concavity---1
+- [ ] Checking Differentiablity----1
+- [ ] Rate of change, Tangent
+- [ ] Minima, Maxima, Concavity---1
 - [ ] Successive differentiation---1
 - [ ] Leibniz Theorem---1
 - [ ] Derivatives
