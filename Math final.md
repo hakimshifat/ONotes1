@@ -1,16 +1,16 @@
 Math Syllabus checklist:
 - [x] Functions
 - [ ] Limit
-- [x] Continuity
+- [ ] Continuity
 - [ ] Continuity Interval
 - [x] Squeeze theorem
-- [x] Checking Differentiblity
+- [ ] Checking Differentiblity
 - [ ] Rate of change, tangent
 - [ ] Successive differentiation
 - [ ] Leibniz Theorem
 - [ ] Derivatives
-- [x] Rolle’s Theorem
-- [x] MVT
+- [ ] Rolle’s Theorem
+- [ ] MVT
 - [ ] L hopital
 - [ ] App of Differentiation
 - [ ] Partial diff
