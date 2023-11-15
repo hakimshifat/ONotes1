@@ -6,7 +6,7 @@ Math Syllabus checklist:
 - [ ] Squeeze theorem
 - [ ] Checking Differentiablity----1
 - [ ] Rate of change, Tangent
-- [ ] Minima, Maxima, Concavity---1
+- [x] Minima, Maxima, Concavity---1
 - [ ] Successive differentiation---1
 - [ ] Leibniz Theorem---1
 - [ ] Derivatives
