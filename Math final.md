@@ -1,0 +1,23 @@
+Math Syllabus checklist:
+- [x] Functions
+- [ ] Limit
+- [x] Continuity
+- [ ] Continuity Interval
+- [x] Squeeze theorem
+- [x] Checking Differentiblity
+- [ ] Rate of change, tangent
+- [ ] Successive differentiation
+- [ ] Leibniz Theorem
+- [ ] Derivatives
+- [x] Rolle’s Theorem
+- [x] MVT
+- [ ] L hopital
+- [ ] App of Differentiation
+- [ ] Partial diff
+- [x] Euler’s Theorem
+- [ ] Indef Integration
+- [ ] Def Integration
+- [ ] Area Problems: integration
+- [ ] Successive integration
+- [ ] Volume by integration
+- [ ] Gamma beta functions
