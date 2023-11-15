@@ -3,7 +3,7 @@ Math Syllabus checklist:
 - [ ] Limit
 - [ ] Continuity---1
 - [ ] Continuity Interval
-- [x] Squeeze theorem
+- [ ] Squeeze theorem
 - [ ] Checking Differentiblity----1
 - [ ] Rate of change, tangent
 - [ ] Minima,Maxima,Concavity---1
