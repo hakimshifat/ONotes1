@@ -1,9 +1,9 @@
 Math Syllabus checklist:
 - [x] Functions
-- [x] Limit
-- [ ] Continuity---1
+- [ ] Limit
+- [x] Continuity---1
 - [ ] Continuity Interval
-- [x] Squeeze theorem
+- [ ] Squeeze theorem
 - [ ] Checking Differentiablity----1
 - [ ] Rate of change, T`angent
 - [x] Minima, Maxima, Concavity---1
