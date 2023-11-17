@@ -4,16 +4,16 @@
 - [ ] Road map to implement SDG
 - [ ] Why agriculture is still the most important Sector
 - [ ] Salient features of constitution --- 1972
-- [ ] Constitution and 12th and 15th amendment
+- [x] Constitution and 12th and 15th amendment
 - [ ] Impact of Padma Bridge
 - [ ] Why BD is Brand Name in UN
-- [ ] Military Intervention
+- [x] Military Intervention
 - [ ] Population Trend
-- [ ] 6 Point Movement
-- [ ] Agartola,7 March
-- [ ] Bangabandhus Role in Language Movement
+- [x] 6 Point Movement
+- [x] Agartola,7 March
+- [x] Bangabandhus Role in Language Movement
 - [ ] Involvement of militant in politics in 1975 -------------------
-- [ ] The preamble
+- [x] The preamble
 - [ ] Supreme law
 - [ ] The republic
 - [ ] Fundamental principles of state policy
