@@ -9,7 +9,7 @@
 - [ ] Why BD is Brand Name in UN
 - [ ] Military Intervention
 - [ ] Population Trend
-- [ ] Involvement of militant in politics in 1975-------------------
+- [ ] Involvement of militant in politics in 1975 -------------------
 - [ ] The preamble
 - [ ] Supreme law
 - [ ] The republic
