@@ -5,8 +5,11 @@
 - [ ] Why agriculture is still the most important Sector
 - [ ] Salient features of constitution --- 1972
 - [ ] Constitution and 12th and 15th amendment
-- [ ] Impact of Padma
--
+- [ ] Impact of Padma Bridge
+- [ ] Why BD is Brand Name in UN
+- [ ] Military Intervention
+- [ ] Population Trend
+- [ ] Involvement of militant in politics in 1975-------------------
 - [ ] The preamble
 - [ ] Supreme law
 - [ ] The republic
@@ -19,9 +22,6 @@
 - [ ] Ombudsman
 - [ ] A ban on communal politics
 - [ ] Independent judiciary
-- [ ] Population Trend
-- [ ] Why BD is Brand Name 
 - [ ] New Educational Curriculam
-- [ ] The Effect of Padma Bridge
 - [ ] roadmap for SDG important
 - [ ] 
