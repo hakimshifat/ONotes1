@@ -1,5 +1,12 @@
+
 - [ ] Names of Sector Commanders
-- [ ] Salient features of constitution
+- [ ] Sorif Commission
+- [ ] Road map to implement SDG
+- [ ] Why agriculture is still the most important Sector
+- [ ] Salient features of constitution --- 1972
+- [ ] Constitution and 12th and 15th amendment
+- [ ] Impact of Padma
+-
 - [ ] The preamble
 - [ ] Supreme law
 - [ ] The republic
@@ -14,7 +21,6 @@
 - [ ] Independent judiciary
 - [ ] Population Trend
 - [ ] Why BD is Brand Name 
-- [ ] Why Agriculture is most
 - [ ] New Educational Curriculam
 - [ ] The Effect of Padma Bridge
 - [ ] roadmap for SDG important
