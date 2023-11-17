@@ -9,6 +9,8 @@
 - [ ] Why BD is Brand Name in UN
 - [ ] Military Intervention
 - [ ] Population Trend
+- [ ] 6 Point Movement
+- [ ] Bangabandhus Role in Language Movement
 - [ ] Involvement of militant in politics in 1975 -------------------
 - [ ] The preamble
 - [ ] Supreme law
