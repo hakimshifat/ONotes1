@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "1a4172f099c5fa04",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/17-11-2023.md",
+                "file": "Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/17-11-2023.md",
+                "file": "Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/17-11-2023.md"
+                "file": "Untitled.md"
               }
             }
           },
@@ -183,9 +195,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54d679df59c10ff7",
+  "active": "1a4172f099c5fa04",
   "lastOpenFiles": [
     "DailyNotes/17-11-2023.md",
+    "Untitled.md",
     "DailyNotes/16-11-2023.md",
     "Finals.md",
     "GEBS Final.md",
@@ -210,7 +223,6 @@
     "1st Semester/Teachers/Md Jahangir Kabir Talukder, PhD.md",
     "DailyNotes/Sigma Bond.md",
     "DailyNotes/28-08-2023.md",
-    "DailyNotes/27-10-2023.md",
     "People/nodal points and plane.png",
     "Untitled.canvas",
     "Pasted Images/Pasted image 20230825192021.png",
