@@ -13,4 +13,8 @@
 - [ ] A ban on communal politics
 - [ ] Independent judiciary
 - [ ] Population Trend
+- [ ] Why BD is Brand Name 
+- [ ] Why Agriculture is most
+- [ ] New Educational Curriculam
+- [ ] The Effect of Padma Bridge
 - [ ] 
