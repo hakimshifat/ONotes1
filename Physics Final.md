@@ -5,7 +5,7 @@
 - [x] Sol eq of SHM
 - [x] Parameters of Osc (math)
 - [x] Energy (math)
-- [ ] Simple Pend
+- [x] Simple Pend
 - [ ] Compound Pend
 - [ ] Torsional Pend
 - [ ] LC Circuit
