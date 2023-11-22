@@ -9,8 +9,8 @@
 - [x] Compound Pend
 - [x] Torsional Pend
 - [x] LC Circuit
-- [ ] Lissagious Fig def + der
-- [ ] Two body Osc
+- [x] Lissagious Fig def + der
+- [x] Two body Osc
 - [ ] Damed Harmonic Osc (maths)
 - [ ] Wave motion, standing stationery.
 - [ ] Equation of Stationery Waves
