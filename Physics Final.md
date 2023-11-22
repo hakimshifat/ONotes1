@@ -6,9 +6,9 @@
 - [x] Parameters of Osc (math)
 - [x] Energy (math)
 - [x] Simple Pend
-- [ ] Compound Pend
-- [ ] Torsional Pend
-- [ ] LC Circuit
+- [x] Compound Pend
+- [x] Torsional Pend
+- [x] LC Circuit
 - [ ] Lissagious Fig def + der
 - [ ] Two body Osc
 - [ ] Damed Harmonic Osc (maths)
