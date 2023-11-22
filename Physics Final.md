@@ -11,7 +11,7 @@
 - [x] LC Circuit
 - [x] Lissagious Fig def + der
 - [x] Two body Osc
-- [ ] Damed Harmonic Osc (maths)
+- [x] Damed Harmonic Osc (maths)
 - [ ] Wave motion, standing stationery.
 - [ ] Equation of Stationery Waves
 - [ ] Optics
