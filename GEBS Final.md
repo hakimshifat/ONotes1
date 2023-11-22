@@ -1,18 +1,18 @@
 
-- [ ] Names of Sector Commanders
+- [x] Names of Sector Commanders
 - [ ] Sorif Commission
-- [ ] Road map to implement SDG
-- [ ] Why agriculture is still the most important Sector
-- [ ] Salient features of constitution --- 1972
-- [x] Constitution and 12th and 15th amendment
-- [ ] Impact of Padma Bridge
-- [ ] Why BD is Brand Name in UN
+- [x] Road map to implement SDG
+- [x] Why agriculture is still the most important Sector
+- [x] Salient features of constitution --- 1972
+- [ ] Constitution and 12th and 15th amendment
+- [x] Impact of Padma Bridge
+- [x] Why BD is Brand Name in UN
 - [x] Military Intervention
-- [ ] Population Trend
-- [x] 6 Point Movement
+- [x] Population Trend
+- [ ] 6 Point Movement
 - [x] Agartola,7 March
 - [x] Bangabandhus Role in Language Movement
-- [ ] Involvement of militant in politics in 1975 -------------------
+- [x] Involvement of militant in politics in 1975 -------------------
 - [x] The preamble
 - [ ] Supreme law
 - [ ] The republic
@@ -26,5 +26,5 @@
 - [ ] A ban on communal politics
 - [ ] Independent judiciary
 - [ ] New Educational Curriculam
-- [ ] roadmap for SDG important
+- [x] roadmap for SDG important
 - [ ] 
