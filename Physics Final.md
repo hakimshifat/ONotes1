@@ -3,8 +3,8 @@
 - [x] Wave thoery def
 - [x] Diff eq of SHM
 - [x] Sol eq of SHM
-- [ ] Parameters of Osc (math)
-- [ ] Energy (math)
+- [x] Parameters of Osc (math)
+- [x] Energy (math)
 - [ ] Simple Pend
 - [ ] Compound Pend
 - [ ] Torsional Pend
