@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "532ba91ebdb6d379",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Physics Final.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/22-11-2023.md",
+                "file": "Physics Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/22-11-2023.md",
+                "file": "Physics Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/22-11-2023.md"
+                "file": "Physics Final.md"
               }
             }
           },
@@ -170,10 +183,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "54d679df59c10ff7",
+  "active": "532ba91ebdb6d379",
   "lastOpenFiles": [
-    "GEBS Final.md",
     "DailyNotes/22-11-2023.md",
+    "Physics Final.md",
+    "DailyNotes/23-11-2023.md",
+    "GEBS Final.md",
     "DailyNotes/17-11-2023.md",
     "Untitled.md",
     "DailyNotes/16-11-2023.md",
@@ -196,8 +211,6 @@
     "DailyNotes/31-10-2023.md",
     "DailyNotes/28-10-2023.md",
     "DailyNotes/28-09-2023.md",
-    "1st Semester/Teachers/Md Jahangir Kabir Talukder, PhD.md",
-    "DailyNotes/Sigma Bond.md",
     "People/nodal points and plane.png",
     "Untitled.canvas",
     "Pasted Images/Pasted image 20230825192021.png",
