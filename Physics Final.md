@@ -16,10 +16,10 @@
 - [x] , standing stationery.
 - [x] Equation of Stationery Waves
 - [ ] Optics
-- [ ]  Lens theory
-- [ ] Deviation produced by lens
-- [ ] equivalent Lens
-- [ ] Power of lens 
+- [x] Lens theory
+- [x] Deviation produced by lens
+- [x] equivalent Lens
+- [x] Power of lens
 - [ ] Abherrations and its types
 - [ ] Interference of light
 - [ ] Young’s Double Slit
