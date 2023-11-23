@@ -24,8 +24,8 @@
 - [x] Interference of light
 - [x] Young’s Double Slit
 - [x] Relation between phase and path difference
-- [ ] Theory of Interference fringes
-- [ ] Thin Film ( interference due to thin film) (maths)
+- [x] Theory of Interference fringes
+- [x] Thin Film ( interference due to thin film) (maths)
 - [ ] Newton’s rings (theory + maths)
 - [ ] Diffraction of Light
 - [ ] Diff between Diffraction and Interference
