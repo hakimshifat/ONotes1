@@ -20,7 +20,7 @@
 - [x] Deviation produced by lens
 - [x] equivalent Lens
 - [x] Power of lens
-- [ ] Abherrations and its types
+- [x] Abherrations and its types
 - [ ] Interference of light
 - [ ] Young’s Double Slit
 - [ ] Relation between phase and path difference
