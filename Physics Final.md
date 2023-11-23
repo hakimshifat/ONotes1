@@ -51,17 +51,17 @@
 - [ ] Invariance newton’s law of motion 
 - [ ] Failure of Galilean Transformation 
 - [ ] Lorentz Transformation 
-- [ ] Length Contraction 
-- [ ] Time Dilation 
-- [ ] Relativity of Mass 
-- [ ] Spectral series of H atom 
+- [x] Length Contraction
+- [x] Time Dilation
+- [x] Relativity of Mass
+- [x] Spectral series of H atom
 - [x] Nuclear size
 - [x] Binding Energy
 - [x] Mass Defect
-- [ ] Radioactivity theory 
-- [ ] Decay Law 
-- [ ] Half and Mean Life 
-- [ ] App of Radioactivity theory 
+- [x] Radioactivity theory
+- [x] Decay Law
+- [x] Half and Mean Life
+- [x] App of Radioactivity theory
 - [ ] Momentum energy relation 
 - [ ] Compton effect 
 - [ ] De Broglie theory 
