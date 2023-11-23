@@ -62,7 +62,7 @@
 - [x] Decay Law
 - [x] Half and Mean Life
 - [x] App of Radioactivity theory
-- [ ] Momentum energy relation 
+- [x] Momentum energy relation
 - [ ] Compton effect 
 - [ ] De Broglie theory 
 - [ ] Nuclear fission, fusion
