@@ -12,8 +12,9 @@
 - [x] Lissagious Fig def + der
 - [x] Two body Osc
 - [x] Damed Harmonic Osc (maths)
-- [ ] Wave motion, standing stationery.
-- [ ] Equation of Stationery Waves
+- [x] Wave motion
+- [x] , standing stationery.
+- [x] Equation of Stationery Waves
 - [ ] Optics
 - [ ]  Lens theory
 - [ ] Deviation produced by lens
