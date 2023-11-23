@@ -55,9 +55,9 @@
 - [ ] Time Dilation 
 - [ ] Relativity of Mass 
 - [ ] Spectral series of H atom 
-- [ ] Nuclear size 
-- [ ] Binding Energy 
-- [ ] Mass Defect 
+- [x] Nuclear size
+- [x] Binding Energy
+- [x] Mass Defect
 - [ ] Radioactivity theory 
 - [ ] Decay Law 
 - [ ] Half and Mean Life 
