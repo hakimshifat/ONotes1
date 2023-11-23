@@ -21,9 +21,9 @@
 - [x] equivalent Lens
 - [x] Power of lens
 - [x] Abherrations and its types
-- [ ] Interference of light
-- [ ] Young’s Double Slit
-- [ ] Relation between phase and path difference
+- [x] Interference of light
+- [x] Young’s Double Slit
+- [x] Relation between phase and path difference
 - [ ] Theory of Interference fringes
 - [ ] Thin Film ( interference due to thin film) (maths)
 - [ ] Newton’s rings (theory + maths)
