@@ -15,7 +15,7 @@
 - [ ] Wave motion, standing stationery.
 - [ ] Equation of Stationery Waves
 - [ ] Optics
-- [ ] , Lens theory
+- [ ]  Lens theory
 - [ ] Deviation produced by lens
 - [ ] equivalent Lens
 - [ ] Power of lens 
