@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Chemistry Final.md",
+                "file": "Movies.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Chemistry Final.md",
+                "file": "Movies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Chemistry Final.md",
+                "file": "Movies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Chemistry Final.md"
+                "file": "Movies.md"
               }
             }
           },
@@ -172,8 +172,8 @@
   },
   "active": "c612536bd32cd581",
   "lastOpenFiles": [
-    "Physics Final.md",
     "Chemistry Final.md",
+    "Physics Final.md",
     "DailyNotes/24-11-2023.md",
     "Nicol prisom.md",
     "Physics_Online_01.11.23.md",
