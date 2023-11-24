@@ -26,7 +26,7 @@
 - [x] Relation between phase and path difference
 - [x] Theory of Interference fringes
 - [x] Thin Film ( interference due to thin film) (maths)
-- [ ] Newton’s rings (theory + maths)
+- [x] Newton’s rings (theory + maths)
 - [ ] Diffraction of Light
 - [ ] Diff between Diffraction and Interference
 - [ ] Single slit Diffraction (maths)
