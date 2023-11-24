@@ -3,7 +3,7 @@ Optics
 
 Interference 1
 Diffraction 1
- Polarization
+Polarization
 Abberation 2
 
 Modern
