@@ -42,9 +42,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "9833aea267987695",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Nicol prisom.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Physics Final.md",
+                "file": "Nicol prisom.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Physics Final.md",
+                "file": "Nicol prisom.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Physics Final.md"
+                "file": "Nicol prisom.md"
               }
             }
           },
@@ -195,11 +207,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f5efc8b8a197ea0e",
+  "active": "9833aea267987695",
   "lastOpenFiles": [
+    "Physics Final.md",
+    "Nicol prisom.md",
     "Physics_Online_01.11.23.md",
     "Random Notes.md",
-    "Physics Final.md",
     "Movies.md",
     "GEBS Final.md",
     "Math final.md",
@@ -222,7 +235,6 @@
     "DailyNotes/29-08-2023.md",
     "DailyNotes/30-10-2023.md",
     "DailyNotes/31-08-2023.md",
-    "DailyNotes/31-10-2023.md",
     "People/nodal points and plane.png",
     "Untitled.canvas",
     "Pasted Images/Pasted image 20230825192021.png",
