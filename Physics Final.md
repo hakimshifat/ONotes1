@@ -27,13 +27,13 @@
 - [x] Theory of Interference fringes
 - [x] Thin Film ( interference due to thin film) (maths)
 - [x] Newton’s rings (theory + maths)
-- [ ] Diffraction of Light
-- [ ] Diff between Diffraction and Interference
-- [ ] Single slit Diffraction (maths)
-- [ ] Double Slit Diffraction (Maths)
+- [x] Diffraction of Light
+- [x] Diff between Diffraction and Interference
+- [x] Single slit Diffraction (maths)
+- [x] Double Slit Diffraction (Maths)
 - [ ] Diffraction gratings
-- [ ] Missing Order (maths)
-- [ ] Diff between fresnel and fraunhofer diffraction
+- [x] Missing Order (maths)
+- [x] Diff between fresnel and fraunhofer diffraction
 - [ ] Polarisation of light 
 - [ ] Brewster’s Law 
 - [ ] Plane of Polarisation 
