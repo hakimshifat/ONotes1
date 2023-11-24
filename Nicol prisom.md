@@ -1,1 +1,2 @@
 A calcite cristal ABCD is taken whose length is 3 times of its width. Its end faces AB and CD are grounded such that the angles in the principle section become 68 and 112 instead of 71 and 109 degree. The crystal is then cut apart along the place A'D perpendicular to both the principle section and the end faces A'B' and CD'
+The two cut surfaces are grounded and polished optically flat. They are then cemented together By Canada Blasm(Transparant material) 
