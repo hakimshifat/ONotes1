@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movies.md",
+                "file": "ECA Final.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movies.md",
+                "file": "ECA Final.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movies.md",
+                "file": "ECA Final.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Movies.md"
+                "file": "ECA Final.md"
               }
             }
           },
@@ -185,8 +185,8 @@
   },
   "active": "6ab12977aeb508cc",
   "lastOpenFiles": [
-    "ECA Final.md",
     "Movies.md",
+    "ECA Final.md",
     "DailyNotes/26-11-2023.md",
     "Chemistry Final.md",
     "Physics Final.md",
