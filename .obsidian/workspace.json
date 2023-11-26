@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Movies.md",
+                "file": "DailyNotes/26-11-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Movies.md",
+                "file": "DailyNotes/26-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Movies.md",
+                "file": "DailyNotes/26-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Movies.md"
+                "file": "DailyNotes/26-11-2023.md"
               }
             }
           },
@@ -166,19 +166,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false,
       "obsidian-extract-pdf-highlights:PDF Highlights": false,
       "omnisearch:Omnisearch": false,
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
       "templater-obsidian:Templater": false
     }
   },
   "active": "c612536bd32cd581",
   "lastOpenFiles": [
+    "Movies.md",
+    "DailyNotes/26-11-2023.md",
     "Chemistry Final.md",
     "Physics Final.md",
     "DailyNotes/24-11-2023.md",
     "Nicol prisom.md",
     "Physics_Online_01.11.23.md",
     "Random Notes.md",
-    "Movies.md",
     "GEBS Final.md",
     "Math final.md",
     "DailyNotes/23-11-2023.md",
@@ -197,7 +197,6 @@
     "DailyNotes/01-11-2023.md",
     "DailyNotes/30-08-2023.md",
     "DailyNotes/29-08-2023.md",
-    "DailyNotes/30-10-2023.md",
     "People/nodal points and plane.png",
     "Untitled.canvas",
     "Pasted Images/Pasted image 20230825192021.png",
