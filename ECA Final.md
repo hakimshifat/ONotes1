@@ -3,8 +3,6 @@
 - [ ] AC partial (Up to Superposition)
 - [ ] Important Topics:
 - [ ] Branch, Mesh, Nodal Analysis:
-- [ ] Methods for analyzing electrical circuits,
-- [ ] involving branch, mesh, and nodal analysis.
 - [ ] Each method follows specific steps and mathematical equations for solving circuit parameters. 
 - [ ] Maximum Power:
 - [ ] Understanding the equation and concept of maximum power transfer
