@@ -2,8 +2,8 @@
 - [ ] DC full (Check Course Channel)
 - [ ] AC partial (Up to Superposition)
 - [ ] Important Topics:
-- [ ] Branch, Mesh, Nodal Analysis:
-- [ ] Each method follows specific steps and mathematical equations for solving circuit parameters. 
+- [x] Branch, Mesh, Nodal Analysis:
+- [x] Each method follows specific steps and mathematical equations for solving circuit parameters.
 - [ ] Maximum Power:
 - [ ] Understanding the equation and concept of maximum power transfer
 - [ ]  which occurs when load resistance matches source resistance.
