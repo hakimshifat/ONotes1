@@ -6,7 +6,7 @@
 - [ ] [The Wolverine](https://www.amazon.com/Wolverine-Hugh-Jackman/dp/B00G70JQZC/?tag=popverse-m-20) (2013)
 - [x] [X-Men: Days of Future Past](https://www.amazon.com/X-Men-Days-Future-James-McAvoy/dp/B00KIGRRRU/?tag=popverse-m-20) (2014)
 - [ ] [Deadpool](https://www.amazon.com/Deadpool-Ryan-Reynolds/dp/B01BHDDR6M/?tag=popverse-m-20) (2016)
-- [ ] [X-Men: Apocalypse](https://www.amazon.com/X-Men-Apocalypse-James-McAvoy/dp/B01FV2BH62/?tag=popverse-m-20) (2016)
+- [x] [X-Men: Apocalypse](https://www.amazon.com/X-Men-Apocalypse-James-McAvoy/dp/B01FV2BH62/?tag=popverse-m-20) (2016)
 - [ ] Logan (2017)
 - [ ] [Deadpool 2](https://www.amazon.com/Deadpool-2-Ryan-Reynolds/dp/B07D5KWFJ7/?tag=popverse-m-20) (2018)
 - [ ] [Dark Phoenix](https://www.amazon.com/Dark-Phoenix-James-McAvoy/dp/B07SJJ44HB/?tag=popverse-m-20) (2019)
