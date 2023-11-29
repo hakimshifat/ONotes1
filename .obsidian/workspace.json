@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "X-men.md",
+                "file": "DailyNotes/29-11-2023.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "X-men.md",
+                "file": "DailyNotes/29-11-2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "X-men.md",
+                "file": "DailyNotes/29-11-2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "X-men.md"
+                "file": "DailyNotes/29-11-2023.md"
               }
             }
           },
@@ -185,8 +185,9 @@
   },
   "active": "134ada3407350666",
   "lastOpenFiles": [
-    "DailyNotes/26-11-2023.md",
+    "DailyNotes/29-11-2023.md",
     "X-men.md",
+    "DailyNotes/26-11-2023.md",
     "DailyNotes/28-11-2023.md",
     "ECA Final.md",
     "DailyNotes/27-11-2023.md",
@@ -210,7 +211,6 @@
     "Tasks.md",
     "DailyNotes/14-11-2023.md",
     "DailyNotes/06-11-2023.md",
-    "DailyNotes/05-11-2023.md",
     "People/nodal points and plane.png",
     "Untitled.canvas",
     "Pasted Images/Pasted image 20230825192021.png",
