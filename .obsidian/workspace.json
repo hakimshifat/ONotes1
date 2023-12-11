@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c612536bd32cd581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DailyNotes/26-11-2023.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "134ada3407350666",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DailyNotes/29-11-2023.md",
+                "file": "X-men.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DailyNotes/29-11-2023.md",
+                "file": "X-men.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DailyNotes/29-11-2023.md",
+                "file": "X-men.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DailyNotes/29-11-2023.md"
+                "file": "X-men.md"
               }
             }
           },
@@ -185,32 +172,32 @@
   },
   "active": "134ada3407350666",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Tasks.md",
+    "Physics Final.md",
+    "Physics_Online_01.11.23.md",
+    "Nicol prisom.md",
+    "Movies.md",
+    "Math final.md",
+    "GEBS Final.md",
+    "links.md",
+    "ECA Final.md",
+    "Finals.md",
+    "Chemistry Final.md",
+    "Mess/Bazar List.md",
     "DailyNotes/29-11-2023.md",
     "X-men.md",
     "DailyNotes/26-11-2023.md",
     "DailyNotes/28-11-2023.md",
-    "ECA Final.md",
     "DailyNotes/27-11-2023.md",
-    "links.md",
-    "Movies.md",
-    "Chemistry Final.md",
-    "Physics Final.md",
     "DailyNotes/24-11-2023.md",
-    "Nicol prisom.md",
-    "Physics_Online_01.11.23.md",
     "Random Notes.md",
-    "GEBS Final.md",
-    "Math final.md",
     "DailyNotes/23-11-2023.md",
     "DailyNotes/22-11-2023.md",
     "DailyNotes/17-11-2023.md",
-    "Untitled.md",
     "DailyNotes/16-11-2023.md",
-    "Finals.md",
     "DailyNotes/15-11-2023.md",
-    "Tasks.md",
     "DailyNotes/14-11-2023.md",
-    "DailyNotes/06-11-2023.md",
     "People/nodal points and plane.png",
     "Untitled.canvas",
     "Pasted Images/Pasted image 20230825192021.png",
