@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linked List.md",
+                "file": "DSA/Linked List/Linked List.md",
                 "mode": "source",
                 "source": false
               }
@@ -35,9 +35,11 @@
             "id": "8a98a4a20441d7c8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-30 07.18.49.excalidraw.md"
+                "file": "DSA/Linked List/Linked List.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-30 07.18.49.excalidraw.md",
+                "file": "DSA/Linked List/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-30 07.18.49.excalidraw.md",
+                "file": "DSA/Linked List/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Excalidraw/Drawing 2023-12-30 07.18.49.excalidraw.md"
+                "file": "DSA/Linked List/Linked List.md"
               }
             }
           },
@@ -195,8 +197,10 @@
   },
   "active": "8a98a4a20441d7c8",
   "lastOpenFiles": [
-    "Linked List.md",
-    "Excalidraw/Drawing 2023-12-30 07.18.49.excalidraw.md",
+    "DSA/Linked List/Linkedlist.md",
+    "Untitled.md",
+    "DSA/Linked List",
+    "DSA/Linked List/Linked List.md",
     "Excalidraw",
     "Movies.md",
     "DSA",
@@ -221,8 +225,6 @@
     "Mess/Bazar List.md",
     "DailyNotes/29-11-2023.md",
     "DailyNotes/26-11-2023.md",
-    "DailyNotes/28-11-2023.md",
-    "DailyNotes/27-11-2023.md",
     "People/nodal points and plane.png",
     "Untitled.canvas",
     "Pasted Images/Pasted image 20230825192021.png",
@@ -240,7 +242,6 @@
     "assets/Unorganized",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry",
     "assets",
-    "Pasted Images",
-    "beecrowd"
+    "Pasted Images"
   ]
 }
