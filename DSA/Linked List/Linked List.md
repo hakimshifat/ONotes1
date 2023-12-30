@@ -14,7 +14,7 @@ struct node *NEXT;
 return 0;
 }
 ```
-ive made a structure named node and then renamed it to NODE using typedef. Now i can use NODE like int, char to declare the structure.
+I've made a structure named node and then renamed it to NODE using typedef. Now i can use NODE like int, char to declare the structure.
 
 The structure have two parts.
 1.Info part
@@ -121,18 +121,12 @@ We have a already declared linked list and a new node. We need to insert the lin
 struct node
 
 {
-
     int INFO;
 
     struct node *NEXT;
-
 };
 
-  
-
 typedef struct node NODE;
-
-  
 
 int main()
 
@@ -155,8 +149,6 @@ int main()
     b = (NODE *)malloc(sizeof(NODE));
 
     c = (NODE *)malloc(sizeof(NODE));
-
-  
 
     a->INFO = 10;
 
@@ -187,8 +179,6 @@ int main()
         temp = temp->NEXT;
 
     }
-
-  
 
     int value;
 
@@ -249,4 +239,3 @@ int main()
     return 0;
 
 }
-```
