@@ -35,3 +35,7 @@ We have a already declared linked list and a new node. We need to insert the lin
 ### Inserting at the end of the linked list
 #### Algorithm
 
+1. Start
+2.  Set PTR = addressof(struct node) (making a new node and allocating space using malloc function)
+3. Set PTR->INFO=Value
+4. 
