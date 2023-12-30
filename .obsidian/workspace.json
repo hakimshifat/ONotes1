@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "34637083c7501423",
+        "id": "5ce7c81201256af7",
         "type": "tabs",
         "children": [
           {
-            "id": "8d11c1c547650929",
+            "id": "65da229dfb4e3472",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "8a98a4a20441d7c8",
+            "id": "958fd466b2c03764",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -30,8 +30,19 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "691b1acfc9da0512",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "DSA/Linked List/Linkedlist VS.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Linked List/Linked List.md",
+                "file": "DSA/Linked List/Linkedlist VS.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -114,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Linked List/Linked List.md",
+                "file": "DSA/Linked List/Linkedlist VS.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Linked List/Linked List.md"
+                "file": "DSA/Linked List/Linkedlist VS.md"
               }
             }
           },
@@ -161,11 +172,13 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -182,13 +195,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8d11c1c547650929",
+  "active": "a8683044208a5b55",
   "lastOpenFiles": [
-    "DSA/Linked List/Linkedlist.md",
+    "DSA/Linked List/Print Operation.md",
     "DSA/Linked List/Linked List.md",
+    "DSA/Linked List/Insert Operation.md",
+    "DSA/Linked List/Linkedlist VS.md",
     "Movies.md",
     "DailyNotes/30-12-2023.md",
-    "Untitled.md",
     "DSA/Linked List",
     "Excalidraw",
     "DSA",
