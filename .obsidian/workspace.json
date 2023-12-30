@@ -13,13 +13,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Response-Timing.md",
+                "file": "Movies.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "8d11c1c547650929",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Linked List.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a98a4a20441d7c8",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2023-12-30 07.18.49.excalidraw.md"
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -85,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Response-Timing.md",
+                "file": "Excalidraw/Drawing 2023-12-30 07.18.49.excalidraw.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Response-Timing.md",
+                "file": "Excalidraw/Drawing 2023-12-30 07.18.49.excalidraw.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Response-Timing.md"
+                "file": "Excalidraw/Drawing 2023-12-30 07.18.49.excalidraw.md"
               }
             }
           },
@@ -170,18 +193,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "663f9f4b61a7328e",
+  "active": "8a98a4a20441d7c8",
   "lastOpenFiles": [
-    "DailyNotes/19-12-2023.md",
-    "Project Response-Timing.md",
-    "DailyNotes/11-12-2023.md",
-    "X-men.md",
-    "Untitled.md",
+    "Linked List.md",
+    "Excalidraw/Drawing 2023-12-30 07.18.49.excalidraw.md",
+    "Excalidraw",
+    "Movies.md",
+    "DSA",
+    "DailyNotes/30-12-2023.md",
+    "Nicol prisom.md",
     "Tasks.md",
+    "X-men.md",
+    "Random Notes.md",
+    "Codeforces/71A Way Too Long Words.md",
+    "Codeforces/4A Watermelon.md",
+    "Project Response-Timing.md",
+    "DailyNotes/19-12-2023.md",
+    "DailyNotes/11-12-2023.md",
     "Physics Final.md",
     "Physics_Online_01.11.23.md",
-    "Nicol prisom.md",
-    "Movies.md",
     "Math final.md",
     "GEBS Final.md",
     "links.md",
@@ -193,11 +223,6 @@
     "DailyNotes/26-11-2023.md",
     "DailyNotes/28-11-2023.md",
     "DailyNotes/27-11-2023.md",
-    "DailyNotes/24-11-2023.md",
-    "Random Notes.md",
-    "DailyNotes/23-11-2023.md",
-    "DailyNotes/22-11-2023.md",
-    "DailyNotes/17-11-2023.md",
     "People/nodal points and plane.png",
     "Untitled.canvas",
     "Pasted Images/Pasted image 20230825192021.png",
@@ -216,8 +241,6 @@
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry",
     "assets",
     "Pasted Images",
-    "beecrowd",
-    "1st Semester/Physics/Optics",
-    "Codeforces"
+    "beecrowd"
   ]
 }

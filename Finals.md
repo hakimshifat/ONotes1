@@ -1,3 +1,0 @@
-- [ ] Superposition theorem
-- [ ] Source Convertion
-- [ ] 
