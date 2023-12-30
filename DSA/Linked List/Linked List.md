@@ -38,4 +38,7 @@ We have a already declared linked list and a new node. We need to insert the lin
 1. Start
 2.  Set PTR = addressof(struct node) (making a new node and allocating space using malloc function)
 3. Set PTR->INFO=Value
-4. 
+4. IF(First == Null) goto step 5, else goto step 7
+5. First=PTR and Last=PTR
+6. PTR->NEXT=NULL and goto step 
+7. Last->NEXT=PTR, PTR->NEXT=NULL, LAST=PTR
