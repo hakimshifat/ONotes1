@@ -107,7 +107,7 @@ We have a already declared linked list and a new node. We need to insert the lin
 3. Set PTR->INFO=Value
 4. IF(First == Null) goto step 5, else goto step 7
 5. First=PTR and Last=PTR
-6. PTR->NEXT=NULL and goto step 
+6. PTR->NEXT=NULL 
 7. Last->NEXT=PTR, PTR->NEXT=NULL, LAST=PTR
 
 
@@ -201,17 +201,13 @@ int main()
     ptr->INFO = value;
 
     ptr->NEXT = NULL; // since it will be added at the end of the linked list
-
-  
-
+    
     if (a == NULL)
 
     {
-
       //  a = ptr;
 
         FIRST = LAST = ptr;
-
     }
 
     else
@@ -223,9 +219,7 @@ int main()
         while (temp->NEXT != NULL) //will be true when it reaches the end of the linked list
 
         {
-
             temp = temp->NEXT;
-
         }
 
         temp->NEXT = ptr;
@@ -233,31 +227,24 @@ int main()
     }
      /* This while operation is most important
     temp will become the first node.
-    then it
+    then it will check which node has NULL pointer... We have not added
+    out NEW NODE so the last node of the existing node will have NULL
+    pointer. so the TEMP wil become the last node.Then the loop will stop. AND PTR i.e the new node that we want to insert will be linked to the last node.
 	 */
 
-  
-
     printf("\nAfter insertion the linked list\n");
-
-  
-
+    
     temp = a; // Resetting temp to the start of the list
 
     while (temp != NULL)
 
     {
-
         printf("%d ->", temp->INFO);
 
         temp = temp->NEXT;
 
     }
-    
-
     printf("END");
-
-  
 
     return 0;
 
