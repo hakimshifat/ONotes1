@@ -35,11 +35,9 @@
             "id": "8a98a4a20441d7c8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "DSA/Linked List/Linked List.md",
-                "mode": "source",
-                "source": false
+                "file": "DSA/Linked List/Linkedlist.md"
               }
             }
           }
@@ -110,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Linked List/Linked List.md",
+                "file": "DSA/Linked List/Linkedlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +125,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Linked List/Linked List.md",
+                "file": "DSA/Linked List/Linkedlist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +148,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Linked List/Linked List.md"
+                "file": "DSA/Linked List/Linkedlist.md"
               }
             }
           },
@@ -197,10 +195,10 @@
   },
   "active": "8a98a4a20441d7c8",
   "lastOpenFiles": [
+    "DSA/Linked List/Linked List.md",
     "DSA/Linked List/Linkedlist.md",
     "Untitled.md",
     "DSA/Linked List",
-    "DSA/Linked List/Linked List.md",
     "Excalidraw",
     "Movies.md",
     "DSA",
