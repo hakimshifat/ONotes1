@@ -52,9 +52,7 @@ int main()
 
     NODE *c = NULL;
     //Declared 3 nodes that are empty
-    // 
-
-  
+    // They are in POINTER format  
 
     a = (NODE *)malloc(sizeof(NODE));
 
@@ -62,24 +60,20 @@ int main()
 
     c = (NODE *)malloc(sizeof(NODE));
    //Allocated space for them using malloc
-
-  
+   // Their type would be NODE POINTER
 
     a->INFO = 10;
 
     b->INFO = 20;
 
     c->INFO = 30;
-
-  
-
+    //Assigning value
     a->NEXT = b;
 
     b->NEXT = c;
 
     c->NEXT = NULL;
-
-  
+    //making connection between nodes
 
     while (a != NULL)
 
@@ -90,9 +84,7 @@ int main()
             a = a->NEXT;
 
     }
-
-  
-
+    //printing nodes
     return 0;
 
 }
