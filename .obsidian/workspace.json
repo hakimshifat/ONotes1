@@ -15,7 +15,7 @@
               "state": {
                 "file": "DSA/Linked List/Linked List.md",
                 "mode": "source",
-                "source": false
+                "source": true
               }
             }
           },
@@ -99,7 +99,7 @@
               "state": {
                 "file": "DSA/Linked List/Linked List.md",
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -162,12 +162,11 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {

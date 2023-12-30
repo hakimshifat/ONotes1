@@ -110,7 +110,6 @@ We have a already declared linked list and a new node. We need to insert the lin
 6. PTR->NEXT=NULL 
 7. Last->NEXT=PTR, PTR->NEXT=NULL, LAST=PTR
 
-
 ```C
 #include <stdio.h>
 
@@ -239,3 +238,6 @@ int main()
     return 0;
 
 }
+```
+
+## Printing Linked List
