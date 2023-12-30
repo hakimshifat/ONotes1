@@ -35,9 +35,11 @@
             "id": "8a98a4a20441d7c8",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DSA/Linked List/Linkedlist.md"
+                "file": "DSA/Linked List/Linked List.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Linked List/Linkedlist.md",
+                "file": "DSA/Linked List/Linked List.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Linked List/Linkedlist.md",
+                "file": "DSA/Linked List/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Linked List/Linkedlist.md"
+                "file": "DSA/Linked List/Linked List.md"
               }
             }
           },
@@ -166,7 +168,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -195,6 +199,7 @@
   },
   "active": "8a98a4a20441d7c8",
   "lastOpenFiles": [
+    "DailyNotes/30-12-2023.md",
     "DSA/Linked List/Linked List.md",
     "DSA/Linked List/Linkedlist.md",
     "Untitled.md",
@@ -202,7 +207,6 @@
     "Excalidraw",
     "Movies.md",
     "DSA",
-    "DailyNotes/30-12-2023.md",
     "Nicol prisom.md",
     "Tasks.md",
     "X-men.md",
