@@ -20,7 +20,7 @@ The structure have two parts.
 1.Info part
 2.NEXT part which is basically pointer to the next NODE
 3.First node is called HEAD
-4.Last node is called LAST
+4.Last node is called LAST.
 5.The NEXT part of LAST will be NULL.
 
 ```C

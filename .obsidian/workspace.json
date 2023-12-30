@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "663f9f4b61a7328e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Movies.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8d11c1c547650929",
             "type": "leaf",
             "state": {
@@ -43,8 +31,7 @@
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -197,15 +184,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "8a98a4a20441d7c8",
+  "active": "8d11c1c547650929",
   "lastOpenFiles": [
-    "DailyNotes/30-12-2023.md",
-    "DSA/Linked List/Linked List.md",
     "DSA/Linked List/Linkedlist.md",
+    "Movies.md",
+    "DSA/Linked List/Linked List.md",
+    "DailyNotes/30-12-2023.md",
     "Untitled.md",
     "DSA/Linked List",
     "Excalidraw",
-    "Movies.md",
     "DSA",
     "Nicol prisom.md",
     "Tasks.md",
