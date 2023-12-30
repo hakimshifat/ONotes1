@@ -35,14 +35,16 @@
             "id": "691b1acfc9da0512",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "DSA/Linked List/Linkedlist VS.md"
+                "file": "DSA/Linked List/Insert Operation.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Linked List/Linkedlist VS.md",
+                "file": "DSA/Linked List/Linked List.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -125,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Linked List/Linkedlist VS.md",
+                "file": "DSA/Linked List/Linked List.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Linked List/Linkedlist VS.md"
+                "file": "DSA/Linked List/Linked List.md"
               }
             }
           },
@@ -195,12 +197,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a8683044208a5b55",
+  "active": "958fd466b2c03764",
   "lastOpenFiles": [
-    "DSA/Linked List/Print Operation.md",
-    "DSA/Linked List/Linked List.md",
     "DSA/Linked List/Insert Operation.md",
+    "DSA/Linked List/Print Operation.md",
     "DSA/Linked List/Linkedlist VS.md",
+    "DSA/Linked List/Linked List.md",
     "Movies.md",
     "DailyNotes/30-12-2023.md",
     "DSA/Linked List",
