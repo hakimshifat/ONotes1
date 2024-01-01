@@ -21,7 +21,8 @@ The structure have two parts.
 2.NEXT part which is basically pointer to the next NODE
 3.First node is called HEAD
 4.Last node is called LAST.
-5.The NEXT part of LAST will be NULL.
+5.We need to declare it ourself
+6.The NEXT part of LAST will be NULL.
 
 ```C
 #include <stdio.h>
