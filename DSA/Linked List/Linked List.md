@@ -76,7 +76,7 @@ int main()
     c->NEXT = NULL;
     //making connection between nodes
 
-    while (a != NULL)
+    while (a != NULL) //the last node is NULL
 
     {
 
