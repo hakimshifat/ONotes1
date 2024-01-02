@@ -1,5 +1,5 @@
 # Constant Time(O1)
-## When execution time do not changes every time the code runs
+## When execution time do not changes every time the code runs.
 
 1. Assignment Operation
 2. Mathematical Operation
@@ -16,7 +16,10 @@ int main()
     sum+=1;//2
     sum+=4;//2
     sum*=4;//2
-    cout<<sum<<endl; // theoratically it is always 8/co
+    cout<<sum<<endl; // theoratically it is always 8/constant
     return 0;
 }
 ```
+
+# Linear Time
+## 
