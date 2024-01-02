@@ -13,4 +13,4 @@
 13. then the loop will start again but for the 2nd element
 14.  temp.data will hold the 2nd element and temp.next will hold NULL
 15. if statement will become false and execute the else statement
-16.  current->next=temp that means 
+16.  Now current holds the previous temp values which is the same values set hi 
