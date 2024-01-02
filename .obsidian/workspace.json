@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e0da2631970093c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Time Complexitity.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DSA/Linked List/Linked List.md",
+                "file": "Time Complexitity.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DSA/Linked List/Linked List.md",
+                "file": "Time Complexitity.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DSA/Linked List/Linked List.md"
+                "file": "Time Complexitity.md"
               }
             }
           },
@@ -172,11 +185,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "65da229dfb4e3472",
+  "active": "e0da2631970093c7",
   "lastOpenFiles": [
+    "DSA/Linked List/Linked List.md",
+    "Time Complexitity.md",
+    "STL",
     "DSA/Linked List/Print Operation.md",
     "DSA/Linked List/array to LL.md",
-    "DSA/Linked List/Linked List.md",
     "DSA/Linked List/Arraytoll_Algorithm.md",
     "DSA/Linked List/Linkedlist VS.md",
     "DSA/Linked List/Insert Operation.md",
@@ -202,7 +217,6 @@
     "ECA Final.md",
     "Finals.md",
     "Chemistry Final.md",
-    "Mess/Bazar List.md",
     "People/nodal points and plane.png",
     "Untitled.canvas",
     "Pasted Images/Pasted image 20230825192021.png",
@@ -219,7 +233,6 @@
     "assets/New folder",
     "assets/Unorganized",
     "1st Semester/Fundamental Chemistry/assets/Organic Chemistry",
-    "assets",
-    "Pasted Images"
+    "assets"
   ]
 }
