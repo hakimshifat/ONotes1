@@ -10,5 +10,7 @@
 10. IF (HEAD== NULL) //it will become true
 11.  head=temp and current=temp
 12. now head, temp, current all has values and all are the first element of the array and NEXT is NULL in all Nodes
-13. then if will check again step 10 but it will become false and will do the else statement
-14. 
+13. then the loop will start again but for the 2nd element
+14.  temp.data will hold the 2nd element and temp.next will hold NULL
+15. if statement will become false and execute the else statement
+16.  current->next=temp that means 
