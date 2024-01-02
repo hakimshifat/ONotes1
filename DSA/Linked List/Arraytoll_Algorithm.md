@@ -13,4 +13,7 @@
 13. then the loop will start again but for the 2nd element
 14.  temp.data will hold the 2nd element and temp.next will hold NULL
 15. if statement will become false and execute the else statement
-16.  Now current holds the previous temp values which is the same values set hi 
+16.  Now current holds the previous temp values which is the same values set in head. So current->next will mean another node after head which will be created automatically and will hold the current temp values.
+17. Then current will be set to second node.
+18. after the loop is finished, the function will return only head
+19. Then in the main function, we will make a node pointer and store the returning value of the function in it. Then use it to print the linked list.
