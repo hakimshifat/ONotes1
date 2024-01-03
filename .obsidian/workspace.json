@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "65da229dfb4e3472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "DSA/Linked List/Linked List.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "e0da2631970093c7",
             "type": "leaf",
             "state": {
@@ -37,14 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vector_1.md",
+                "file": "STL/Vector_1.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vector_1.md",
+                "file": "STL/Vector_1.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -127,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vector_1.md",
+                "file": "STL/Vector_1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vector_1.md"
+                "file": "STL/Vector_1.md"
               }
             }
           },
@@ -200,7 +188,7 @@
   "active": "b3aa1002783ecc27",
   "lastOpenFiles": [
     "STL/Time Complexitity.md",
-    "Vector_1.md",
+    "STL/Vector_1.md",
     "DSA/Linked List/Linked List.md",
     "STL",
     "DSA/Linked List/Print Operation.md",
