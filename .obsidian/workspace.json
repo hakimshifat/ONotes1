@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "5130aba798a2d397",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "yt-dl Documentation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STL/Vector_1.md",
+                "file": "yt-dl Documentation.md",
                 "collapseAll": false,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STL/Vector_1.md",
+                "file": "yt-dl Documentation.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STL/Vector_1.md"
+                "file": "yt-dl Documentation.md"
               }
             }
           },
@@ -185,10 +197,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b3aa1002783ecc27",
+  "active": "5130aba798a2d397",
   "lastOpenFiles": [
-    "STL/Time Complexitity.md",
+    "Movies.md",
+    "yt-dl Documentation.md",
     "STL/Vector_1.md",
+    "STL/Time Complexitity.md",
     "DSA/Linked List/Linked List.md",
     "STL",
     "DSA/Linked List/Print Operation.md",
@@ -196,7 +210,6 @@
     "DSA/Linked List/Arraytoll_Algorithm.md",
     "DSA/Linked List/Linkedlist VS.md",
     "DSA/Linked List/Insert Operation.md",
-    "Movies.md",
     "DailyNotes/30-12-2023.md",
     "DSA/Linked List",
     "Excalidraw",
@@ -216,7 +229,6 @@
     "GEBS Final.md",
     "links.md",
     "ECA Final.md",
-    "Finals.md",
     "People/nodal points and plane.png",
     "Untitled.canvas",
     "Pasted Images/Pasted image 20230825192021.png",
