@@ -44,12 +44,6 @@ int main()
 
     NODE *c = NULL;
 
-    NODE *FIRST = a;
-
-    NODE *LAST = c;
-
-  
-
     a = (NODE *)malloc(sizeof(NODE));
 
     b = (NODE *)malloc(sizeof(NODE));
@@ -69,6 +63,10 @@ int main()
     b->NEXT = c;
 
     c->NEXT = NULL;
+    
+    NODE *FIRST = a;
+
+    NODE *LAST = c;
 
   
 
@@ -98,7 +96,7 @@ int main()
 
     ptr->NEXT = NULL; // since it will be added at the end of the linked list
     
-    if (a == NULL)
+    if (FIRST == NULL)
 
     {
       //  a = ptr;
